@@ -1,0 +1,4467 @@
+[
+    {
+        "Original_Text": "tôi muốn tìm một chuyến bay từ đà nẵng đến phú quốc và có một trạm dừng ở cam ranh",
+        "Text": "t mún tìm một cb từ đn đến phú quốc và có một trạm dừng ở cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào ngày mùng 1 tháng 4 tôi cần một vé từ sevilla đến hà nội khởi hành trước 7 giờ sáng",
+        "Text": "vao ngay mung 1 thang 4 t can mot ve tu sevilla den hn khoi hanh truoc 7 gio sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào ngày 12 tháng 8 tôi cần một chuyến bay đi từ tuy hòa đến cần thơ",
+        "Text": "vào ngày 12 tháng 8 t cần một cb đi từ tuy hòa đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay một chiều đi từ phú quốc đến buôn ma thuột vào ngày mùng 6 tháng 12",
+        "Text": "t mun mot cb mot chieu di tu phu quoc den buon ma thuot vao ngay mung 6 thang 12",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn có một chuyến bay từ quy nhơn đến thành phố hà nội vào ngày mùng 4 tháng 4 của hãng hàng không jetstar",
+        "Text": "toi mun co mot chuyeens bay tu quy nhon den tp hn vao ngay mung 4 thang 4 cua hang hang ko jetstar",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay một chiều từ cam ranh đến điện biên phủ khởi hành vào buổi tối thứ tư hoặc buổi sáng ngày thứ năm",
+        "Text": "t cần một cb một chiều từ cam ranh đến điện biên phủ khởi hành vào buổi tối thứ tư hoặc buổi sáng ngày thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sáng thứ hai tôi muốn bay từ cà mau đến thanh hóa",
+        "Text": "sáng thứ hai t muốn bay từ cà mau đến thanh hóa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào thứ tư ngày mùng sáu tháng tư tôi muốn bay từ cam ranh đến côn đảo sau 3 giờ chiều",
+        "Text": "vào thứ tư ngày mùng sáu tháng tư tôi mún bay từ cam ranh đến côn đảo sau 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sau 12 giờ trưa thứ tư ngày mùng sáu tháng tư tôi muốn bay từ đà nẵng đến cà mau",
+        "Text": "sau 12 giờ trưa thứ tư ngày mùng sáu tháng tư t mún bay từ đà nẵng đến cà mau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào từ hải phòng đến pleiku vào thứ tư ngày mùng sáu tháng tư không",
+        "Text": "co cb nao tu hai phong den pleiku vao thu tu ngay mung sau thang tu ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm một chuyến bay từ hạ long đến đà lạt có phục vụ bữa tối",
+        "Text": "tim mot cb tu ha long den da lat co phuc vu bua toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay khởi hành từ hạ long đi thành phố hồ chí minh vào thứ tư tới và hạ cánh ở thành phố hồ chí minh vào khoảng 7 giờ tối chuyến bay trở về vào thứ năm",
+        "Text": "cb khoi hanh tu ha long di tp ho chi minh vao thu tu toi va ha canh o tp ho chi minh vao khoang 7 gio toi cb tro ve vao thu nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hiển thị các chuyến bay và giá tương ứng từ hạ long đến thành phố hồ chí minh vào ngày thứ tư tới và đến thành phố hồ chí minh trước 7 giờ tối",
+        "Text": "hiển thị các cb và giá tương ứng từ hạ long đến thành phố hcm vào ngày thứ tư tới và đến thành phố hcm trước 7 giờ tối",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "chuyến bay của vietnam airlines từ manila đến thành phố hồ chí minh hạ cánh ở thành phố hồ chí minh vào khoảng 5 giờ chiều",
+        "Text": "cb của vietnam airlines từ manila đến thành phố hcm hạ cánh ở thành phố hcm vào khoảng 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi các chuyến bay đến thành phố hà nội vào thứ bảy tới",
+        "Text": "tim giup t cac cb den tp ha noi vao thu bay toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi các chuyến bay không nghỉ từ thành phố bắc kinh đến hà nội vào thứ bảy ngày mùng 9 tháng tư",
+        "Text": "tìm cho t các cb không nghỉ từ tp bắc kinh đến hn vào thứ bảy ngày mùng 9 tháng tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem các chuyến bay từ huế đến cần thơ vào hôm nay",
+        "Text": "cho t xem cac cb tu hue den can tho vao hom nay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hiển thị cho tôi các chuyến bay vào tối mai từ cần thơ đến cam ranh",
+        "Text": "hiển thị cho t các chuyến bay vào tối mai từ cần thơ đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay vào tối thứ bảy từ cam ranh đến huế",
+        "Text": "cho toi bit cac cb vao toi thu bay tu cam ranh den hue",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem các chuyến bay từ huế đến cam ranh vào thứ hai",
+        "Text": "cho t xem các cb từ huế đến cam ranh vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hiển thị giúp tôi các chuyến bay từ huế đến cần thơ vào thứ hai",
+        "Text": "hien thi giup t cac chuyen bay tu hue den can tho vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem các chuyến bay vào buổi tối thứ ba từ cam ranh đến hà nội",
+        "Text": "cho toi xem cac cb vao buoi toi thu ba tu cam ranh den hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể cho tôi xem các chuyến bay vào tối thứ tư từ cam ranh đến huế được không",
+        "Text": "bạn có thể cho t xem các chuyến bay vào tối thứ tư từ cam ranh đến huế đc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ hạ long đến đà nẵng",
+        "Text": "chuyeens bay nao di tu ha long den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ phú quốc đến đà nẵng",
+        "Text": "cb nao di tu phu quoc den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ thành phố hồ chí minh đến đà nẵng vào ngày 9 tháng 4",
+        "Text": "cb nào đi từ tp hồ chí minh đến đn vào ngày 9 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ phú quốc đến hội an quảng nam và hạ cánh vào ngày 9 tháng 4 trong khoảng từ 4 đến 5 giờ chiều",
+        "Text": "chuyen bay nao di tu phu quoc den hoi an quang nam va ha canh vao ngay 9 thang 4 trong khoang tu 4 den 5 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào của bamboo airways đi từ quy nhơn đến điện biên phủ",
+        "Text": "những cb nào của bamboo airways đi từ quy nhơn đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ điện biên phủ đến thanh hóa vào ngày mùng 5 tháng 4",
+        "Text": "cb nào đi từ điện biên phủ đến thanh hóa vào ngày mùng 5 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ thanh hóa đến sài gòn vào ngày mùng 5 tháng 4",
+        "Text": "cb nao di tu thanh hoa den sai gon vao ngay mung 5 thang 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ thành phố vinh đến hà nội vào ngày mùng 5 tháng 4",
+        "Text": "chuyeens bay nao di tu thanh pho vinh den hn vao ngay mung 5 thang 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ thanh hóa đến đà lạt",
+        "Text": "chuyen bay nao di tu thanh hoa den da lat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sân bay đà lạt có cung cấp dịch vụ đưa đón từ sân bay đến khu vực trung tâm thành phố không",
+        "Text": "san bay da lat co cung cap dich vu dua don tu san bay den khu vuc trung tam thanh pho khong",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ đà lạt đến hà nội",
+        "Text": "chuyen bay nao di tu da lat den hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ thanh hóa đến đà lạt bay vào ngày nào trong tuần",
+        "Text": "các cb từ thanh hóa đến đà lạt bay vào ngày nào trong tuần",
+        "Label": "day_name"
+    },
+    {
+        "Original_Text": "có các chuyến bay nào bay từ đà lạt đến hà nội",
+        "Text": "co cac chuyen bay nao bay tu da lat den ha noi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ hà nội đến tuy hòa bay vào những ngày nào trong tuần",
+        "Text": "các chuyến bay từ hn đến tuy hòa bay vào những ngày nào trong tuần",
+        "Label": "day_name"
+    },
+    {
+        "Original_Text": "các chuyến bay nào đi từ đà lạt đến hà nội",
+        "Text": "cac cb nao di tu da lat den hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay đi từ hạ long đến quy nhơn",
+        "Text": "t cần một cb đi từ hạ long đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào từ hà nội đến washington nối chuyến ở boston không",
+        "Text": "có cb nào từ hà nội đến washington nối chuyến ở boston ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào từ hà nội đến paris nối chuyến ở doha không",
+        "Text": "co cb nao tu hn den paris noi chuyeens o doha ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay này có phục vụ bữa tối không",
+        "Text": "chuyeens bay này có phục vụ bữa tối ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ đà nẵng đến manila",
+        "Text": "t cần một cb từ đn đến manila",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay không nghỉ từ manila đến cam ranh",
+        "Text": "t cần một cb ko nghỉ từ manila đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay không dừng từ đà nẵng đến singapore",
+        "Text": "t cần một cb ko dừng từ đn đến singapore",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ sydney đến đà nẵng",
+        "Text": "t cần một cb từ sydney đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ cam ranh đến sydney",
+        "Text": "t can mot cb tu cam ranh den sydney",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay của vietnam airlines từ vân đồn đến hongkong",
+        "Text": "t cần một cb của vietnam airlines từ vân đồn đến hongkong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ tam kỳ đến cần thơ",
+        "Text": "t cần một cb từ tam kỳ đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ cần thơ đến hải phòng",
+        "Text": "t cần một chuyến bay từ cần thơ đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những bữa ăn nào được phục vụ trên chuyến bay 1409 của vietnam airlines từ quảng nam đến cần thơ",
+        "Text": "những bữa ăn nào đc phục vụ trên cb 1409 của vietnam airlines từ quảng nam đến cần thơ",
+        "Label": "meal"
+    },
+    {
+        "Original_Text": "những bữa ăn nào được phục vụ trên chuyến bay 665 673 của vietjet từ đà nẵng đến osaka",
+        "Text": "những bữa ăn nào đc phục vụ trên cb 665 673 của vietjet từ đà nẵng đến osaka",
+        "Label": "meal"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ tuy hòa đến phú quốc",
+        "Text": "t can mot cb tu tuy hoa den phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ phú quốc đến hải phòng",
+        "Text": "t can mot cb tu phu quoc den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ hải phòng đến tuy hòa",
+        "Text": "toi can mot cb tu hai phong den tuy hoa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ hà nội đến palermo và dừng ở norwich",
+        "Text": "cb nao di tu hn den palermo va dung o norwich",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào cất cánh ở hàng châu sau giữa trưa thứ bảy tới và hạ cánh ở đà nẵng",
+        "Text": "cb nào cất cánh ở hàng châu sau giữa trưa thứ bảy tới và hạ cánh ở đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ huế và đến cam ranh vào khoảng 9 giờ sáng",
+        "Text": "chuyến bay nào đi từ huế và đến cam ranh vào khoảng 9 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay nào của hãng hàng không vietjet rời khỏi huế và đến cam ranh",
+        "Text": "các cb nào của hãng hàng ko vietjet rời khỏi huế và đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào rời thành phố hồ chí minh vào thứ ba tới và đến huế vào khoảng 6 giờ chiều",
+        "Text": "cb nao roi tp hcm vao thu ba toi va den hue vao khoang 6 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi từ thành phố hồ chí minh đến huế khởi hành vào thứ ba tới và quay trở lại vào ngày hôm sau",
+        "Text": "cho t bit các chuyến bay khứ hồi từ thành phố hcm đến huế khởi hành vào thứ ba tới và quay trở lại vào ngày hôm sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay khứ hồi nào rời thành phố hồ chí minh vào thứ ba tới vào khoảng 6 giờ chiều và đến huế",
+        "Text": "cb khu hoi nao roi tp hcm vao thu ba toi vao khoang 6 gio chieu va den hue",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay khứ hồi nào rời thành phố hồ chí minh vào thứ ba tới và đến huế vào khoảng 6 giờ chiều",
+        "Text": "chuyen bay khu hoi nao roi tp hcm vao thu ba toi va den hue vao khoang 6 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành vào thứ hai từ bangkok và đến thành phố hồ chí minh vào buổi sáng",
+        "Text": "chuyeens bay nào khởi hành vào thứ hai từ bangkok và đến thành phố hcm vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào rời thành phố hồ chí minh vào ngày 12 tháng 4 và đến thanh hóa vào buổi sáng",
+        "Text": "chuyeens bay nao roi thanh pho hcm vao ngay 12 thang 4 va den thanh hoa vao buoi sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành vào thứ tư ngày 13 tháng 4 từ thanh hóa và đến bangkok vào buổi sáng",
+        "Text": "cb nao khoi hanh vao thu tu ngay 13 thang 4 tu thanh hoa va den bangkok vao buoi sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành ngày 12 tháng 4 từ thanh hóa và đến bangkok vào khoảng 10 giờ tối",
+        "Text": "chuyến bay nào khởi hành ngày 12 tháng 4 từ thanh hóa và đến bangkok vào khoảng 10 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đi từ hà nội đến hamburg và tôi muốn dừng lại ở london tôi cũng muốn ăn trưa trong chuyến bay",
+        "Text": "t mun di tu hn den hamburg va t mun dung lai o london t cung mun an trua trong chuyen bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thứ tư tới tôi muốn rời hạ long trên một chuyến đi đến thành phố hồ chí minh mà sẽ đến thành phố hồ chí minh vào khoảng 7 giờ tối",
+        "Text": "thu tu toi t mun roi ha long tren mot chuyen di den tp ho chi minh ma se den tp ho chi minh vao khoang 7 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn trở về hạ long từ thành phố hồ chí minh vào khoảng 7 giờ tối",
+        "Text": "toi mun tro ve ha long tu tp hcm vao khoang 7 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn khởi hành chiều nay trên một chuyến bay của vietnam airlines từ hà nội đến cincinati",
+        "Text": "t mún khởi hành chiều nay trên một cb của vietnam airlines từ hà nội đến cincinati",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào buổi tối chủ nhật tôi muốn rời san diego california trên một chuyến bay đến palermo sicilly",
+        "Text": "vao buoi toi chu nhat t mun roi san diego california tren mot chuyen bay den palermo sicilly",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay nào bay vào chủ nhật từ montreal quebec đến san francisco california",
+        "Text": "các chuyeens bay nào bay vào chủ nhật từ montreal quebec đến san francisco california",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào từ san diego california đến milan lombardia khởi hành vào thứ 3 không tôi muốn bay vào buổi chiều",
+        "Text": "co cb nao tu san diego california den milan lombardia khoi hanh vao thu 3 ko toi mun bay vao buoi chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào sáng thứ năm tôi muốn một chuyến bay không nghỉ từ đài bắc đến cam ranh",
+        "Text": "vào sáng thứ năm t mún một cb không nghỉ từ đài bắc đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào sáng thứ sáu tôi muốn bay từ cam ranh đến bangkok",
+        "Text": "vào sáng thứ sáu t mún bay từ cam ranh đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay vào sáng sớm hôm nay từ đà nẵng đến kyoto",
+        "Text": "t mún một cb vào sáng sớm hôm nay từ đn đến kyoto",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào đêm thứ tư tôi muốn một chuyến bay từ đà nẵng đến điện biên phủ",
+        "Text": "vao dem thu tu t mun mot cb tu da nang den dien bien phu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào đêm thứ sáu tôi muốn một chuyến bay từ điện biên phủ đến đà nẵng",
+        "Text": "vào đêm thứ sáu t muốn một cb từ điện biên phủ đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi một chuyến bay từ quảng nam đến bangkok nối chuyến qua thành phố hồ chí minh",
+        "Text": "tim giup toi mot cb tu quang nam den bangkok noi chuyen qua tp hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi một chuyến bay từ miami florida đi hạ long quảng ninh đến nơi trước 4 giờ chiều",
+        "Text": "tìm giúp tôi một cb từ miami florida đi hạ long quảng ninh đến nơi trước 4 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm hộ tôi một chuyến bay từ phú quốc đến tây ninh",
+        "Text": "tim ho t mot cb tu phu quoc den tay ninh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin tìm cho tôi một chuyến bay từ hạ long quảng ninh đến cam ranh hạ cánh trước 10 giờ tối",
+        "Text": "xin tìm cho t một chuyến bay từ hạ long quảng ninh đến cam ranh hạ cánh trước 10 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể giúp tôi tìm một chuyến bay từ cam ranh đến manila vào thứ năm không",
+        "Text": "bạn có thể giúp tôi tìm một cb từ cam ranh đến manila vào thứ năm ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vui lòng tìm giúp tôi một chuyến bay từ sài gòn đến cam ranh của vietnam airlines",
+        "Text": "vui lòng tìm giúp tôi một cb từ sài gòn đến cam ranh của vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi các chuyến bay từ hà nội đến norwich có dừng ở thành phố hồ chí minh vào ngày mai",
+        "Text": "tìm cho t các cb từ hn đến norwich có dừng ở tp hồ chí minh vào ngày mai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không dừng từ hà nội đến tây an có phục vụ bữa tối",
+        "Text": "cho toi bit cac cb ko dung tu ha noi den tay an co phuc vu bua toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin tìm cho tôi các chuyến bay còn chỗ từ thành phố vinh đến điện biên phủ",
+        "Text": "xin tim cho toi cac cb con cho tu tp vinh den dien bien phu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vui lòng tìm một chuyến bay đi từ thành phố hồ chí minh đến tokyo rồi đến geneva và trở lại thành phố hồ chí minh",
+        "Text": "vui long tim mot chuyen bay di tu thanh pho hcm den tokyo roi den geneva va tro lai thanh pho hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vui lòng tìm giúp tôi một chuyến bay từ thành phố hải phòng đến điện biên phủ",
+        "Text": "vui lòng tìm giúp tôi một chuyến bay từ tp hải phòng đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi một chuyến bay từ điện biên phủ đến quy nhơn",
+        "Text": "tìm giúp t một cb từ điện biên phủ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm hộ tôi một chuyến bay từ quy nhơn đến hạ long",
+        "Text": "tìm hộ tôi một cb từ quy nhơn đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ frankfurt đến hải phòng qua hà nội vào buổi chiều",
+        "Text": "toi mun bay tu frankfurt den hai phong qua ha noi vao buoi chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết có các sân bay nào ở thâm quyến",
+        "Text": "tôi muốn biết có các sân bay nào ở thâm quyến",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "sân bay ở huế có chuyến bay đến từ hạ long không",
+        "Text": "sân bay ở huế có chuyến bay đến từ hạ long không",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào đến huế từ hạ long vào buổi chiều các ngày thứ bảy",
+        "Text": "nhung cb nao den hue tu ha long vao buoi chieu cac ngay thu bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào đến huế từ phú quốc vào buổi chiều thứ bảy ngày 23 tháng 4",
+        "Text": "nhung cb nao den hue tu phu quoc vao buoi chieu thu bay ngay 23 thang 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào còn vé từ quy nhơn đến điện biên phủ và đến vào khoảng 10 giờ tối",
+        "Text": "những chuyến bay nào còn vé từ quy nhơn đến điện biên phủ và đến vào khoảng 10 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có những chuyến bay nào từ thanh hóa đến sài gòn vào ngày 21 tháng 4 vào cuối buổi chiều",
+        "Text": "co nhung cb nao tu thanh hoa den sai gon vao ngay 21 thang 4 vao cuoi buoi chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào rời đà lạt và đi đến thanh hóa vào buổi sáng ngày 21 tháng 4",
+        "Text": "cb nào rời đà lạt và đi đến thanh hóa vào buổi sáng ngày 21 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào còn ghế vào sáng ngày 21 tháng 4 từ thanh hóa đến đà lạt",
+        "Text": "cb nao con ghe vao sang ngay 21 thang 4 tu thanh hoa den da lat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào có sẵn từ đà lạt đến hà nội vào sáng ngày 20 tháng 4",
+        "Text": "chuyen bay nao co san tu da lat den ha noi vao sang ngay 20 thang 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có những chuyến bay nào từ hà nội đến thanh hóa khởi hành vào sáng ngày 23 tháng 4",
+        "Text": "có những chuyến bay nào từ hn đến thanh hóa khởi hành vào sáng ngày 23 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "giá vé một chiều đắt nhất giữa huế và phú quốc là bao nhiêu",
+        "Text": "gia ve mot chieu dat nhat giua hue va phu quoc la bao nhieu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "những hãng hàng không nào có chuyến bay giữa huế và phú quốc",
+        "Text": "những hãng hàng ko nào có cb giữa huế và phú quốc",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "thời gian khởi hành của chuyến bay từ huế đến phú quốc là mấy giờ",
+        "Text": "thời gian khởi hành của chuyến bay từ huế đến phú quốc là mấy giờ",
+        "Label": "flight_time"
+    },
+    {
+        "Original_Text": "chuyến bay muộn nhất nào từ cam ranh đến aarhus có phục vụ bữa tối ?",
+        "Text": "cb muon nhat nao tu cam ranh den aarhus co phuc vu bua toi ?",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay sớm nhất giữa cam ranh và aarhus có phục vụ bữa sáng là chuyến bay nào",
+        "Text": "cb sớm nhất giữa cam ranh và aarhus có phục vụ bữa sáng là cb nào",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hãng hàng không vietnam airlines cung cấp các chuyến bay hạng nhất khởi hành từ hạ long đến những thành phố nào",
+        "Text": "hang hang ko vietnam airlines cung cap cac chuyen bay hang nhat khoi hanh tu ha long den nhung thanh pho nao",
+        "Label": "city"
+    },
+    {
+        "Original_Text": "hãng hàng không nào bay từ hạ long đến sài gòn",
+        "Text": "hang hang khong nao bay tu ha long den sai gon",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "chuyến bay nào có phục vụ bữa sáng mà khởi hành muộn nhất từ đà lạt đến quảng nam",
+        "Text": "cb nao co phuc vu bua sang ma khoi hanh muon nhat tu da lat den quang nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay của vietjet từ hải phòng đến busan với các điểm dừng ở hà nội",
+        "Text": "cho tôi bit tất cả các cb của vietjet từ hải phòng đến busan với các điểm dừng ở hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ seoul đến hạ long với các điểm dừng ở hà nội",
+        "Text": "cho toi bit tat ca cac cb tu seoul den ha long voi cac diem dung o ha noi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ istanbul đến thành phố hồ chí minh có điểm dừng ở bangkok",
+        "Text": "liet ke giup t cac cb tu istanbul den tp hcm co diem dung o bangkok",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay chuyển tiếp giữa hạ long và đà nẵng và các loại máy bay được sử dụng",
+        "Text": "cho toi biet cac cb chuyen tiep giua ha long va dn va cac loai may bay duoc su dung",
+        "Label": "aircraft#flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay buổi sáng từ melbourne đến hà nội",
+        "Text": "cho t bit tất cả các cb buổi sáng từ melbourne đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ hạ long đến rạch giá",
+        "Text": "cho toi biet tat ca cac chuyen bay tu ha long den rach gia",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xin thông tin về chuyến bay 608 của vietjet air từ hạ long đến đà lạt",
+        "Text": "cho tôi xin thông tin về cb 608 của vietjet air từ hạ long đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem tất cả các chuyến bay từ thanh hóa đến đà lạt vào thứ hai",
+        "Text": "cho toi xem tat ca cac chuyen bay tu thanh hoa den da lat vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào giữa sân bay thành cát tư hãn ulan bator và trung tâm thành phố ulan bator",
+        "Text": "có phương tiện giao thông đường bộ nào giữa sân bay thành cát tư hãn ulan bator và trung tâm thành phố ulan bator",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi xem tất cả các chuyến bay từ đà nẵng đến chu lai khởi hành lúc 2 giờ chiều hoặc muộn hơn vào thứ hai",
+        "Text": "cho t xem tat ca cac chuyeens bay tu dn den chu lai khoi hanh luc 2 gio chieu hoac muon hon vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ đà nẵng đến chu lai vào sáng thứ ba",
+        "Text": "cho t biet tat ca cac cb tu dn den chu lai vao sang thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay trực tiếp từ đà nẵng đến chu lai vào sáng thứ ba",
+        "Text": "cho t biết các chuyến bay trực tiếp từ đn đến chu lai vào sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vui lòng cho tôi thông tin của chuyến bay vn 1500 vào thứ hai từ đà nẵng đến chu lai",
+        "Text": "vui long cho t thong tin cua chuyen bay vn 1500 vao thu hai tu dn den chu lai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem tất cả các chuyến bay từ chu lai đến thanh hóa vào thứ ba khởi hành sau 2 giờ chiều",
+        "Text": "cho tôi xem tất cả các cb từ chu lai đến thanh hóa vào thứ ba khởi hành sau 2 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ chu lai đến ninh thuận",
+        "Text": "cho toi bit cac cb tu chu lai den ninh thuan",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ chu lai đến thanh hóa vào chiều thứ ba",
+        "Text": "cho toi bit cac cb tu chu lai den thanh hoa vao chieu thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết chuyến bay vn 1207 từ thanh hóa đến đà nẵng vào thứ hai và chuyến bay vn 1500 từ đà nẵng đến chu lai vào thứ hai và chuyến bay bl 639 từ chu lai đến thanh hóa",
+        "Text": "cho toi biet cb vn 1207 tu thanh hoa den dn vao thu hai va cb vn 1500 tu dn den chu lai vao thu hai va cb bl 639 tu chu lai den thanh hoa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ phú quốc đến thành phố hà nội",
+        "Text": "cho t biết tất cả các chuyến bay từ phú quốc đến tp hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có các hãng hàng không khác nhau nào đi từ phú quốc đến thành phố hà nội",
+        "Text": "co cac hang hang ko khac nhau nao di tu phu quoc den thanh pho hn",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay của jetstar pacific và vj từ phú quốc đến vii vào thứ sáu",
+        "Text": "cho toi bit tat ca cac chuyen bay cua jetstar pacific va vj tu phu quoc den vii vao thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ đà lạt đến manila khởi hành sau 6 giờ chiều ngày mai",
+        "Text": "các chuyến bay từ đà lạt đến manila khởi hành sau 6 giờ chiều ngày mai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ sài gòn đến đà nẵng vào ngày 10 tháng 6",
+        "Text": "tôi mún bay từ sài gòn đến đn vào ngày 10 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào của hãng hàng không vietnam airlines từ pleiku đến điện biên phủ vào ngày 10 tháng 6 sau 6 giờ chiều không",
+        "Text": "co cb nao cua hang hk vietnam airlines tu pleiku den dien bien phu vao ngay 10 thang 6 sau 6 gio chieu khong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào của hãng hàng không vietnam airlines từ buôn ma thuột đến điện biên phủ vào ngày 10 tháng 6 sau 3 giờ chiều không",
+        "Text": "co chuyen bay nao cua hang hk vietnam airlines tu buon ma thuot den dien bien phu vao ngay 10 thang 6 sau 3 gio chieu khong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần đi từ hà nội đến đà nẵng vào ngày mùng 6 tháng 6 trước 6 giờ chiều",
+        "Text": "t can di tu hn den dn vao ngay mung 6 thang 6 truoc 6 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các loại phương tiện giao thông đường bộ nào có ở đà nẵng",
+        "Text": "các loại phương tiện giao thông đường bộ nào có ở đà nẵng",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "giá cước taxi đến đà nẵng là bao nhiêu",
+        "Text": "gia cuoc taxi den dn la bao nhieu",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "giá vé cho các phương tiện giao thông đường bộ ở đà nẵng là bao nhiêu",
+        "Text": "giá vé cho các phương tiện giao thông đường bộ ở đn là bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "tôi cần bay từ đà nẵng đến phú quốc vào ngày 7 tháng 6 sau 3 giờ chiều",
+        "Text": "toi can bay tu dn den phu quoc vao ngay 7 thang 6 sau 3 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các loại phương tiện giao thông đường bộ nào có ở phú quốc",
+        "Text": "cac loai phuong tien giao thong duong bo nao co o phu quoc",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay của hãng hàng không jetstar pacific vào ngày 8 tháng 6 từ phú quốc đến hà nội sau 3 giờ chiều",
+        "Text": "t can mot cb cua hang hk jetstar pacific vao ngay 8 thang 6 tu phu quoc den hn sau 3 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay nào của hãng hàng không jetstar pacific nào vào ngày 8 tháng 6 đi từ phú quốc đến hà nội",
+        "Text": "các cb nào của hãng hk jetstar pacific nào vào ngày 8 tháng 6 đi từ phú quốc đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vào ngày 8 tháng 6 có những chuyến bay nào đi từ phú quốc đến hà nội",
+        "Text": "vao ngay 8 thang 6 co nhung cb nao di tu phu quoc den hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vietnam airlines có chuyến bay nào bay từ hà nội đến đà nẵng vào ngày 6 tháng 6 không",
+        "Text": "vietnam airlines co chuyen bay nao bay tu ha noi den dn vao ngay 6 thang 6 ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ hà nội đến đà nẵng vào ngày 6 tháng 6",
+        "Text": "liệt kê cho tôi các chuyến bay từ hà nội đến đà nẵng vào ngày 6 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ đà nẵng đến phú quốc vào ngày 7 tháng 6",
+        "Text": "liệt kê giúp t các chuyến bay từ đà nẵng đến phú quốc vào ngày 7 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê các chuyến bay từ phú quốc đến hà nội vào ngày 8 tháng 1",
+        "Text": "xin liệt kê các chuyeens bay từ phú quốc đến hn vào ngày 8 tháng 1",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ hà nội đến phú quốc vào ngày 6 tháng 6",
+        "Text": "liệt kê các cb từ hà nội đến phú quốc vào ngày 6 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ phú quốc đến đà nẵng vào ngày 7 tháng 12",
+        "Text": "liet ke giup t cac cb tu phu quoc den da nang vao ngay 7 thang 12",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ đà nẵng đến hà nội vào ngày 8 tháng 11",
+        "Text": "liet ke cho toi cac chuyeens bay tu da nang den hn vao ngay 8 thang 11",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp các chuyến bay từ đà nẵng đến hà nội vào ngày 6 tháng 10 sau 4 giờ chiều",
+        "Text": "xin liet ke giup cac chuyen bay tu da nang den hn vao ngay 6 thang 10 sau 4 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể liệt kê giúp tôi các chuyến bay từ hà nội đến điện biên phủ vào ngày mùng 7 tháng 11 được không",
+        "Text": "bạn có thể liệt kê giúp tôi các cb từ hn đến điện biên phủ vào ngày mùng 7 tháng 11 đc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ phú quốc đến hà nội vào ngày mùng mười tháng bảy khởi hành sau 5 giờ chiều",
+        "Text": "liệt kê các chuyến bay từ phú quốc đến hn vào ngày mùng mười tháng bảy khởi hành sau 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hãng hàng không nào khởi hành từ tuy hòa trong khoảng từ 6 đến 10 giờ sáng ngày mùng tám tháng sáu",
+        "Text": "hang hang ko nao khoi hanh tu tuy hoa trong khoang tu 6 den 10 gio sang ngay mung tam thang sau",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "chuyến bay nào đến rạch giá vào ngày mùng sáu tháng sáu",
+        "Text": "chuyeens bay nao den rach gia vao ngay mung sau thang sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ bangkok đến đà nẵng trước 9 giờ sáng",
+        "Text": "liệt kê các cb từ bangkok đến đn trước 9 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ điện biên phủ đến tuy hòa",
+        "Text": "liet ke giup t cac chuyen bay tu dien bien phu den tuy hoa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ tuy hòa đến điện biên phủ",
+        "Text": "liet ke cho t cac cb tu tuy hoa den dien bien phu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi các chuyến bay từ đà nẵng đến cam ranh hạ cánh vào ngày 1 tháng 7",
+        "Text": "xin liệt kê giúp t các cb từ đà nẵng đến cam ranh hạ cánh vào ngày 1 tháng 7",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ đà lạt đến cam ranh hạ cánh vào ngày mùng 1 tháng 7",
+        "Text": "cho t danh sách các cb từ đà lạt đến cam ranh hạ cánh vào ngày mùng 1 tháng 7",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ vinh đến cam ranh sẽ đến nơi vào ngày 1 tháng 7",
+        "Text": "liệt kê cho tôi các chuyến bay từ vinh đến cam ranh sẽ đến nơi vào ngày 1 tháng 7",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay của hãng hàng không quốc tế bamboo airways",
+        "Text": "liet ke cac chuyen bay cua hang hk quoc te bamboo airways",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có bao nhiêu chuyến bay của hãng hàng không quốc tế vietnam airlines sử dụng airbus a321",
+        "Text": "co bao nhieu cb cua hang hk quoc te vietnam airlines su dung airbus a321",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "có bao nhiêu chuyến bay của hãng hàng không quốc tế singapore sử dụng máy bay a320",
+        "Text": "co bao nhieu chuyen bay cua hang hang khong quoc te singapore su dung may bay a320",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "có bao nhiêu chuyến bay của hãng hàng không vietnam airlines sử dụng máy bay boeing 787",
+        "Text": "có bao nhiêu cb của hãng hàng ko vietnam airlines sử dụng máy bay boeing 787",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của hãng hàng không jetstar bay từ busan đến hải phòng việt nam với một điểm dừng chân ở hà nội",
+        "Text": "cho t biet cac cb cua hang hang khong jetstar bay tu busan den hai phong viet nam voi mot diem dung chan o hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của aeroflot đi từ hà nội đến norwich norfolk theo đường bay qua moscow",
+        "Text": "cho toi bit cac cb cua aeroflot di tu hn den norwich norfolk theo duong bay qua moscow",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sân bay nào nằm gần ontario california nhất",
+        "Text": "san bay nao nam gan ontario california nhat",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ pleiku đến côn đảo",
+        "Text": "cho t bit các cb từ pleiku đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ quy nhơn đến côn đảo",
+        "Text": "cho t biết các cb từ quy nhơn đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem các chuyến bay từ huế đến phú quốc",
+        "Text": "cho t xem các cb từ huế đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé khứ hồi hạng hai rẻ nhất từ phú quốc đến huế",
+        "Text": "cho tôi biết giá vé khứ hồi hạng hai rẻ nhất từ phú quốc đến huế",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi giá vé khứ hồi hạng hai rẻ nhất của vna từ phú quốc đến huế",
+        "Text": "cho toi gia ve khu hoi hang hai re nhat cua vna tu phu quoc den hue",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi xem những chuyến bay của jetstar có phục vụ đồ ăn nhẹ cho hành khách phổ thông",
+        "Text": "cho t xem nhung cb cua jetstar co phuc vu do an nhe cho hanh khach pho thong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã bữa ăn sb có nghĩa là gì",
+        "Text": "mã bữa ăn sb có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "những bữa ăn nào được phục vụ trên chuyến bay vj 121 mà sẽ đến thành phố hồ chí minh lúc 9 giờ 50 sáng",
+        "Text": "nhung bua an nao duoc phuc vu tren cb vj 121 ma se den tp ho chi minh luc 9 gio 50 sang",
+        "Label": "meal"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của jetstar từ quảng nam đến thành phố hồ chí minh",
+        "Text": "cho t biết các chuyeens bay của jetstar từ quảng nam đến tp hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết chuyến bay số hiệu 281 của bamboo airways",
+        "Text": "cho toi bit cb so hieu 281 cua bamboo airways",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay aeroflot vào thứ hai",
+        "Text": "liet ke cho toi cac cb aeroflot vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê tất cả các chuyến bay aeroflot có phục vụ bữa ăn",
+        "Text": "liệt kê tất cả các cb aeroflot có phục vụ bữa ăn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào khởi hành từ cam ranh",
+        "Text": "nhung chuyeens bay nao khoi hanh tu cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ cam ranh và đến thành phố hồ chí minh vào thứ sáu",
+        "Text": "cb nao khoi hanh tu cam ranh va den tp ho chi minh vao thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ hà nội vào buổi sáng và đến quảng nam",
+        "Text": "cb nao khoi hanh tu hn vao buoi sang va den quang nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ quảng nam và đến hà nội vào buổi tối",
+        "Text": "cb nao khoi hanh tu quang nam va den hn vao buoi toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ tam kỳ vào đầu buổi tối và đến hà nội",
+        "Text": "chuyến bay nào khởi hành từ tam kỳ vào đầu buổi tối và đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ melbourne và đến hạ long",
+        "Text": "cb nao khoi hanh tu melbourne va den ha long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ hạ long và đến cam ranh",
+        "Text": "chuyến bay nào khởi hành từ hạ long và đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ cam ranh và đến washington dc",
+        "Text": "cb nào khởi hành từ cam ranh và đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ hà nội và đến đà nẵng sau 10 giờ sáng",
+        "Text": "chuyeens bay nào khởi hành từ hn và đến đn sau 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sân bay galileo galilei ở pisa cách trung tâm thành phố bao xa",
+        "Text": "san bay galileo galilei o pisa cach trung tam tp bao xa",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "sân bay quốc tế đà nẵng cách trung tâm thành phố bao xa",
+        "Text": "sân bay quốc tế đn cách trung tâm tp bao xa",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "sân bay quốc tế nội bài cách trung tâm thành phố bao xa",
+        "Text": "san bay quoc te noi bai cach trung tam tp bao xa",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "sân bay quốc tế tân sơn nhất cách trung tâm thành phố bao xa",
+        "Text": "san bay quoc te tan son nhat cach trung tam thanh pho bao xa",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "dịch vụ xe limousine ở hạ long có giá khoảng bao nhiêu",
+        "Text": "dich vu xe limousine o ha long co gia khoang bao nhieu",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "dịch vụ xe limousine ở sân bay phù cát có giá bao nhiêu",
+        "Text": "dich vu xe limousine o san bay phu cat co gia bao nhieu",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "dịch vụ xe limousine ở sân bay quốc tế vân đồn có giá bao nhiêu",
+        "Text": "dịch vụ xe limousine ở sân bay quốc tế vân đồn có giá bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "dịch vụ xe limousine ở đà nẵng là bao nhiêu",
+        "Text": "dich vu xe limousine o dn la bao nhieu",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "những hãng hàng không nào bay giữa washington dc và buôn ma thuột đắk lắk",
+        "Text": "nhung hang hang ko nao bay giua washington dc va buon ma thuot dak lak",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "có những chuyến bay nào giữa washington dc và cẩm phả quảng ninh",
+        "Text": "có những cb nào giữa washington dc và cẩm phả quảng ninh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có các chuyến bay nào giữa washington dc và móng cái quảng ninh",
+        "Text": "co cac chuyen bay nao giua washington dc va mong cai quang ninh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "giá vé của tất cả các chuyến bay giữa washington và hà nội là bao nhiêu",
+        "Text": "giá vé của tất cả các cb giữa washington và hn là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "tại sân bay đà nẵng có bao nhiêu loại máy bay khác nhau của bamboo airways",
+        "Text": "tại sân bay đn có bao nhiêu loại máy bay khác nhau của bamboo airways",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi tất cả các chuyến bay của bamboo airways đến đà nẵng vào thứ bảy lúc 1 giờ chiều",
+        "Text": "liet ke cho toi tat ca cac cb cua bamboo airways den da nang vao thu bay luc 1 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "giá vé máy bay khứ hồi hạng nhất từ india indianapolis đến memphis là bao nhiêu",
+        "Text": "giá vé máy bay khứ hồi hạng nhất từ india indianapolis đến memphis là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay từ cam ranh đến hongkong",
+        "Text": "liet ke giup t tat ca cac cb tu cam ranh den hongkong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay và giá vé của chúng từ thanh hóa đến tuy hòa vào sáng thứ hai",
+        "Text": "liet ke giup toi tat ca cac cb va gia ve cua chung tu thanh hoa den tuy hoa vao sang thu hai",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "xin liệt kê tất cả các chuyến bay và giá vé tương ứng từ cao hùng đến đà nẵng vào buổi tối thứ tư",
+        "Text": "xin liet ke tat ca cac cb va gia ve tuong ung tu cao hung den da nang vao buoi toi thu tu",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi tất cả các chuyến bay giữa manila và hạ long cùng giá vé của chúng",
+        "Text": "liet ke cho toi tat ca cac cb giua manila va ha long cung gia ve cua chung",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi tất cả các chuyến bay từ thành phố điện biên phủ đến hạ long vào thứ hai",
+        "Text": "liệt kê cho t tất cả các cb từ tp điện biên phủ đến hạ long vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay từ hạ long đến điện biên phủ",
+        "Text": "liet ke giup t tat ca cac cb tu ha long den dien bien phu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê tất cả các chuyến bay từ điện biên phủ đến thanh hóa",
+        "Text": "liet ke tat ca cac cb tu dien bien phu den thanh hoa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê hộ tôi tất cả các chuyến bay từ thanh hóa đến điện biên phủ vào chủ nhật",
+        "Text": "liệt kê hộ tôi tất cả các cb từ thanh hóa đến điện biên phủ vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay vào chủ nhật từ điện biên phủ đến thanh hóa và giá vé của chúng",
+        "Text": "liệt kê giúp t tất cả các cb vào chủ nhật từ điện biên phủ đến thanh hóa và giá vé của chúng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "những hãng hàng không nào khởi hành từ cam ranh",
+        "Text": "nhung hang hang ko nao khoi hanh tu cam ranh",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "hãng hàng không nào bay từ cam ranh đến thành phố hồ chí minh",
+        "Text": "hang hang ko nao bay tu cam ranh den tp hcm",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "một chuyến bay từ cam ranh đến thành phố hồ chí minh mất bao lâu",
+        "Text": "một cb từ cam ranh đến tp hcm mất bao lâu",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "chuyến bay nào khởi hành từ hạ long đến phú quốc vào sáng sớm thứ hai",
+        "Text": "chuyeens bay nào khởi hành từ hạ long đến phú quốc vào sáng sớm thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào sẽ rời hạ long và đến cam ranh vào gần 2 giờ rưỡi chiều ngày thứ ba",
+        "Text": "những cb nào sẽ rời hạ long và đến cam ranh vào gần 2 giờ rưỡi chiều ngày thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin vui lòng liệt kê các chuyến bay từ cam ranh đến sài gòn chuyến khởi hành sau 10 giờ sáng vào sáng thứ năm",
+        "Text": "xin vui long liet ke cac chuyen bay tu cam ranh den sai gon chuyen khoi hanh sau 10 gio sang vao sang thu nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ sài gòn đến hạ long vào buổi tối thứ sáu có bao gồm một bữa ăn",
+        "Text": "liet ke cac chuyen bay tu sai gon den ha long vao buoi toi thu sau co bao gom mot bua an",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay vào sáng sớm từ hà nội đến tam kỳ",
+        "Text": "liệt kê cho t các cb vào sáng sớm từ hn đến tam kỳ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay vào đầu buổi tối từ tam kỳ đến hà nội",
+        "Text": "liệt kê giúp t các cb vào đầu buổi tối từ tam kỳ đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê cho tôi các chuyến bay buổi tối từ tam kỳ đến hà nội",
+        "Text": "xin liệt kê cho tôi các chuyến bay buổi tối từ tam kỳ đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ melbourne đến hạ long vào sáng thứ sáu",
+        "Text": "liet ke giup t cac cb tu melbourne den ha long vao sang thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ hạ long đến cam ranh chiều thứ sáu",
+        "Text": "liệt kê cho t các chuyến bay từ hạ long đến cam ranh chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ toronto đến washington dc vào sáng thứ bảy",
+        "Text": "cho t danh sách các cb từ toronto đến washington dc vào sáng thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ washington dc đến melbourne vào chiều thứ bảy",
+        "Text": "liệt kê các cb từ washington dc đến melbourne vào chiều thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay trực tiếp từ thành phố hà nội đến đà nẵng sau 10 giờ sáng",
+        "Text": "liet ke cac cb truc tiep tu tp ha noi den dn sau 10 gio sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi giá vé máy bay của chuyến bay 19 của hãng hàng không vietnam airlines từ han đến dad",
+        "Text": "liệt kê cho t giá vé máy bay của cb 19 của hãng hàng ko vietnam airlines từ han đến dad",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "mã giá vé m nghĩa là gì",
+        "Text": "mã giá vé m nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết khoảng cách đo bằng kilomet từ sân bay vân đồn đến trung tâm hạ long",
+        "Text": "cho tôi biết khoảng cách đo bằng kilomet từ sân bay vân đồn đến trung tâm hạ long",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "cho tôi biết khoảng cách từ sân bay peretola ở firenze đến trung tâm thành phố firenze đo bằng kilomet",
+        "Text": "cho tôi bit khoảng cách từ sân bay peretola ở firenze đến trung tâm tp firenze đo bằng kilomet",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "cho tôi biết khoảng cách đo bằng kilomet từ sân bay quốc tế cam ranh đến trung tâm thành phố cam ranh",
+        "Text": "cho t biet khoang cach do bang kilomet tu san bay quoc te cam ranh den trung tam tp cam ranh",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi khoảng cách đo bằng kilomet từ sân bay quốc tế tân sơn nhất đến trung tâm thành phố hồ chí minh",
+        "Text": "liet ke cho t khoang cach do bang kilomet tu san bay quoc te tan son nhat den trung tam thanh pho hcm",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "cho tôi giá xe limousine ở hạ long",
+        "Text": "cho t giá xe limousine ở hạ long",
+        "Label": "ground_fare"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay của hãng hàng không vietnam airlines từ pleiku đến cần thơ khởi hành vào chiều thứ sáu",
+        "Text": "liệt kê các chuyến bay của hãng hk vietnam airlines từ pleiku đến cần thơ khởi hành vào chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ pleiku đến cần thơ chiều thứ sáu",
+        "Text": "liệt kê giúp tôi các cb từ pleiku đến cần thơ chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay của hãng hàng không vietnam airlines từ cần thơ đến hà nội khởi hành vào thứ tư",
+        "Text": "cho t danh sach cac cb cua hang hk vietnam airlines tu can tho den hn khoi hanh vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay của vietnam airlines từ hà nội đến đà lạt khởi hành vào chiều thứ sáu",
+        "Text": "liet ke giup toi cac cb cua vietnam airlines tu ha noi den da lat khoi hanh vao chieu thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê cho tôi các chuyến bay từ đà lạt đến pleiku mà đến nơi vào chiều chủ nhật",
+        "Text": "xin liệt kê cho t các chuyeens bay từ đà lạt đến pleiku mà đến nơi vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin cho tôi danh sách các hãng hàng không có các chuyến bay từ hải phòng đến thành phố hồ chí minh",
+        "Text": "xin cho t danh sach cac hang hang ko co cac cb tu hai phong den tp hcm",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "sức chứa của máy bay a321 là bao nhiêu",
+        "Text": "suc chua cua may bay a321 la bao nhieu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "vietjet b777 có bao nhiêu chỗ ngồi",
+        "Text": "vietjet b777 co bao nhieu cho ngoi",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ hải phòng đến thành phố hồ chí minh của vietjet trên máy bay airbus a320",
+        "Text": "liệt kê giúp tôi các chuyến bay từ hải phòng đến tp hcm của vietjet trên máy bay airbus a320",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ hải phòng đến thành phố hồ chí minh của bamboo sử dụng máy bay be1",
+        "Text": "liệt kê cho t các cb từ hải phòng đến tp hcm của bamboo sử dụng máy bay be1",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay hàng ngày từ hạ long đến vinh",
+        "Text": "liệt kê các cb hàng ngày từ hạ long đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ vinh đến điện biên phủ hàng ngày",
+        "Text": "liet ke giup t cac cb tu vinh den dien bien phu hang ngay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay hằng ngày từ điện biên phủ đến quy nhơn",
+        "Text": "liệt kê cho t các chuyến bay hằng ngày từ điện biên phủ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay của bamboo airways khởi hành vào thứ bảy từ sân bay liên khương lúc 1 giờ chiều",
+        "Text": "liet ke cac cb cua bamboo airways khoi hanh vao thu bay tu san bay lien khuong luc 1 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê tất cả các chuyến bay của bamboo airways khởi hành vào thứ bảy từ sân bay phú bài vào khoảng 1 giờ chiều",
+        "Text": "liet ke tat ca cac chuyen bay cua bamboo airways khoi hanh vao thu bay tu san bay phu bai vao khoang 1 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các giá vé máy bay khứ hồi hạng nhất từ thanh hóa đến đà lạt",
+        "Text": "cho toi biet cac gia ve may bay khu hoi hang nhat tu thanh hoa den da lat",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "mã giá vé f là gì",
+        "Text": "mã giá vé f là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ tuy hòa đến manila vào buổi tối thứ tư",
+        "Text": "liệt kê giúp t các cb từ tuy hòa đến manila vào buổi tối thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ manila đến hà nội vào chủ nhật",
+        "Text": "liet ke cho t cac cb tu manila den hn vao chu nhat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ ontario california đến milan lombardia",
+        "Text": "liet ke giup t cac cb tu ontario california den milan lombardia",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ san diego california đến salt lake city utah",
+        "Text": "cho toi danh sach cac chuyen bay tu san diego california den salt lake city utah",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ long thành đồng nai đến phan thiết bình thuận vào thứ hai",
+        "Text": "cho toi danh sach cac chuyen bay tu long thanh dong nai den phan thiet binh thuan vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể liệt kê các chuyến bay từ thành phố nha trang tỉnh khánh hoà đến phoenix arizona vào thứ hai được không",
+        "Text": "bạn có thể liệt kê các cb từ tp nha trang tỉnh khánh hoà đến phoenix arizona vào thứ hai đc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin cho tôi danh sách các chuyến bay từ thành phố cam ranh đến phoenix arizona vào thứ ba",
+        "Text": "xin cho t danh sách các chuyeens bay từ tp cam ranh đến phoenix arizona vào thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ pheonix arizona đến ontario california khởi hành vào thứ tư",
+        "Text": "liet ke giup toi cac cb tu pheonix arizona den ontario california khoi hanh vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những hãng hàng không nào bay từ cam ranh đến thành phố hồ chí minh",
+        "Text": "nhung hang hang ko nao bay tu cam ranh den thanh pho ho chi minh",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "giá vé khứ hồi hạng nhất từ huế đến cam ranh là bao nhiêu",
+        "Text": "giá vé khứ hồi hạng nhất từ huế đến cam ranh là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé máy bay cho một vé khứ hồi hạng nhất từ huế đến cam ranh là bao nhiêu",
+        "Text": "gia ve may bay cho mot ve khu hoi hang nhat tu hue den cam ranh la bao nhieu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "các chuyến bay vào sáng thứ hai từ hạ long đến vinh",
+        "Text": "các cb vào sáng thứ hai từ hạ long đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay vào buổi sáng thứ hai từ hạ long đến đồng hới",
+        "Text": "cac cb vao buoi sang thu hai tu ha long den dong hoi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ côn đảo đến hạ long vào buổi sáng thứ hai",
+        "Text": "các cb từ côn đảo đến hạ long vào buổi sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ hạ long đến cam ranh vào thứ ba trước 2 giờ 30 phút chiều",
+        "Text": "các cb từ hạ long đến cam ranh vào thứ ba trước 2 giờ 30 phút chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "côn đảo đến rạch giá vào thứ năm sau 10 giờ sáng",
+        "Text": "con dao den rach gia vao thu nam sau 10 gio sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "rạch giá đến hạ long đêm thứ sáu",
+        "Text": "rach gia den ha long dem thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "điện biên phủ đến hạ long hạ cánh vào thứ hai trước 3 giờ chiều",
+        "Text": "dien bien phu den ha long ha canh vao thu hai truoc 3 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay từ hạ long đến điện biên phủ hạ cánh vào thứ tư trước 5 giờ chiều",
+        "Text": "cb từ hạ long đến điện biên phủ hạ cánh vào thứ tư trước 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay từ điện biên phủ đến thanh hóa sáng thứ sáu",
+        "Text": "chuyen bay tu dien bien phu den thanh hoa sang thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thanh hóa đến điện biên phủ vào chủ nhật trước 9 giờ",
+        "Text": "thanh hóa đến điện biên phủ vào chủ nhật trước 9 giờ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay hạng nhất từ vinh đến điện biên phủ vào buổi sáng thứ hai",
+        "Text": "cb hang nhat tu vinh den dien bien phu vao buoi sang thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay từ điện biên phủ đến đà nẵng vào sáng thứ tư",
+        "Text": "cb từ điện biên phủ đến đn vào sáng thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hải phòng đến chu lai vào buổi chiều thứ năm",
+        "Text": "hải phòng đến chu lai vào buổi chiều thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay từ chu lai đến vinh",
+        "Text": "cb từ chu lai đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay hạng nhất từ chu lai đến vinh",
+        "Text": "chuyen bay hang nhat tu chu lai den vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết các chuyến bay khởi hành từ phú quốc đến quy nhơn",
+        "Text": "t mun biet cac cb khoi hanh tu phu quoc den quy nhon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hp có nghĩa là gì",
+        "Text": "hp có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "tôi muốn xem các chuyến bay từ hải phòng đến đà lạt",
+        "Text": "t muốn xem các cb từ hải phòng đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết các chuyến bay từ chu lai đến sài gòn",
+        "Text": "t muon biet cac chuyeens bay tu chu lai den sai gon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn các chuyến bay từ thành phố hồ chí minh đến hà nội",
+        "Text": "t mun cac cb tu thanh pho hcm den ha noi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn xem các chuyến bay từ hà nội đến thành phố bắc kinh",
+        "Text": "t mun xem cac cb tu hn den tp bac kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết các chuyến bay từ hà nội đến manila",
+        "Text": "t muon bit cac cb tu hn den manila",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết các chuyến bay từ manila đến hà nội",
+        "Text": "t mún bit các chuyến bay từ manila đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay rời thành phố hồ chí minh đến auckland",
+        "Text": "t mun mot chuyen bay roi tp hcm den auckland",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần các chuyến bay từ sài gòn đến phú quốc",
+        "Text": "toi can cac cb tu sai gon den phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ sài gòn đến phú quốc",
+        "Text": "t mun mot chuyen bay tu sai gon den phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết các chuyến bay từ phú quốc đến thành phố hồ chí minh",
+        "Text": "tôi mún bit các chuyến bay từ phú quốc đến tp hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã giá vé bn nghĩa là gì",
+        "Text": "mã giá vé bn nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "tôi muốn xem các hãng hàng không có chuyến bay giữa messina norwich và hà nội",
+        "Text": "toi mun xem cac hang hang khong co cb giua messina norwich va hn",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ cam ranh đến thành phố huế",
+        "Text": "t mún một cb từ cam ranh đến tp huế",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ huế đến cam ranh",
+        "Text": "t muốn một cb từ huế đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ cam ranh đến thành phố vinh",
+        "Text": "t muốn một cb từ cam ranh đến tp vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn tìm các chuyến bay từ thành phố hồ chí minh đến quy nhơn",
+        "Text": "t muốn tìm các chuyến bay từ tp hồ chí minh đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết các chuyến bay rời thành phố hồ chí minh đến kuala lumpur",
+        "Text": "t mun bit cac chuyen bay roi tp hcm den kuala lumpur",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ thành phố hồ chí minh đến cam ranh",
+        "Text": "t mún một cb từ thành phố hồ chí minh đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem chuyến bay một chiều từ phú quốc đến quy nhơn khởi hành vào chiều thứ tư sau 6 giờ tối",
+        "Text": "cho t xem cb mot chieu tu phu quoc den quy nhon khoi hanh vao chieu thu tu sau 6 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều từ phú quốc đến quy nhơn vào thứ tư",
+        "Text": "cho toi bit cac cb mot chieu tu phu quoc den quy nhon vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng nhất từ đà nẵng đến thành phố hồ chí minh khởi hành trước 10 giờ sáng",
+        "Text": "cho toi bit cac chuyen bay hang nhat tu dn den tp ho chi minh khoi hanh truoc 10 gio sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi chuyến khứ hồi rẻ nhất giữa cam ranh và huế đến nơi trước 7 giờ tối",
+        "Text": "cho toi chuyen khu hoi re nhat giua cam ranh va hue den noi truoc 7 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không dừng từ hạ long đến đôn hoàng",
+        "Text": "cho t bit cac cb khong dung tu ha long den don hoang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hãng hàng không vj là hãng nào",
+        "Text": "hãng hàng ko vj là hãng nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi chuyến khứ hồi hạng nhất rẻ nhất từ hà nội đến manila",
+        "Text": "cho t chuyến khứ hồi hạng nhất rẻ nhất từ hn đến manila",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bây giờ hãy cho tôi biết tất cả các chuyến đi khứ hồi từ hà nội đến viêng chăn",
+        "Text": "bây giờ hãy cho t bit tất cả các chuyến đi khứ hồi từ hn đến viêng chăn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi chuyến bay một chiều có giá rẻ nhất từ thành phố hồ chí minh đến pleiku",
+        "Text": "cho t cb một chiều có giá rẻ nhất từ thành phố hcm đến pleiku",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bây giờ hãy cho tôi chuyến bay một chiều rẻ nhất từ pleiku đến hạ long",
+        "Text": "bay gio hay cho t chuyen bay mot chieu re nhat tu pleiku den ha long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi giá vé khứ hồi rẻ nhất từ pleiku đến hạ long",
+        "Text": "cho t giá vé khứ hồi rẻ nhất từ pleiku đến hạ long",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi giá vé khứ hồi rẻ nhất từ thành phố hồ chí minh đến pleiku",
+        "Text": "cho t gia ve khu hoi re nhat tu tp hcm den pleiku",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi giá vé khứ hồi rẻ nhất từ thành phố hồ chí minh đến pleiku vào ngày 28 tháng 2 năm 2021",
+        "Text": "cho toi gia ve khu hoi re nhat tu tp hcm den pleiku vao ngay 28 thang 2 nam 2021",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi giá vé một chiều rẻ nhất từ thành phố hồ chí minh đến pleiku vào ngày 28 tháng 2 năm 2021",
+        "Text": "cho t gia ve mot chieu re nhat tu tp hcm den pleiku vao ngay 28 thang 2 nam 2021",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giờ thì hãy cho tôi xem các phương tiện giao thông đường bộ ở pleiku vào chiều thứ hai",
+        "Text": "gio thi hay cho toi xem cac phuong tien giao thong duong bo o pleiku vao chieu thu hai",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "bây giờ hãy cho tôi biết các chuyến bay một chiều từ pleiku đến hạ long",
+        "Text": "bây giờ hãy cho t biết các chuyến bay một chiều từ pleiku đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "và bây giờ hãy cho tôi xem các phương tiện di chuyển đường bộ để tôi có thể đến hạ long vào đêm khuya",
+        "Text": "va bay gio hay cho t xem cac phuong tien di chuyen duong bo de t co the den ha long vao dem khuya",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi biết các hãng hàng không có các chuyến bay giữa cà mau và hải phòng giữa hải phòng và thanh hóa và giữa thanh hóa và cà mau",
+        "Text": "cho t bit các hãng hàng ko có các cb giữa cà mau và hải phòng giữa hải phòng và thanh hóa và giữa thanh hóa và cà mau",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "hiển thị cho tôi giá vé khứ hồi từ cam ranh đến huế của các hãng hàng không vietnam airlines bamboo airways vietjet air và jetstar pacific",
+        "Text": "hiển thị cho t giá vé khứ hồi từ cam ranh đến huế của các hãng hàng ko vietnam airlines bamboo airways vietjet air và jetstar pacific",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa huế và đà lạt của các hãng hàng không vietjet bamboo airways vietravel airlines và vietnam airlines",
+        "Text": "cho t bit các chuyến bay giữa huế và đà lạt của các hãng hàng ko vietjet bamboo airways vietravel airlines và vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ bangkok đến hà nội và đà nẵng",
+        "Text": "cho t bit các cb từ bangkok đến hn và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ bangkok đến hải phòng",
+        "Text": "cho toi bit cac chuyen bay tu bangkok den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay vào chiều thứ sáu trong tháng sáu từ thành phố huế đến điện biên phủ",
+        "Text": "t cần một chuyeens bay vào chiều thứ sáu trong tháng sáu từ tp huế đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ hà nội đến đà nẵng vào tối thứ bảy trên chuyến bay của vietjet air",
+        "Text": "tôi cần một cb từ hà nội đến đn vào tối thứ bảy trên cb của vietjet air",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay qua đêm từ singapore đến đà nẵng vào buổi tối thứ bảy của singapore airlines",
+        "Text": "t mún một cb qua đêm từ singapore đến đn vào buổi tối thứ bảy của singapore airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ hà nội đến đà nẵng vào sáng thứ bảy của bamboo airways",
+        "Text": "t muốn một chuyến bay từ hà nội đến đn vào sáng thứ bảy của bamboo airways",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ thành phố hồ chí minh đến thành phố chu lai vào sáng thứ hai",
+        "Text": "t can mot cb tu tp hcm den tp chu lai vao sang thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sin nghĩa là gì",
+        "Text": "sin nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ hải phòng đến washington dc vào đêm thứ hai",
+        "Text": "t can mot cb tu hai phong den washington dc vao dem thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thế còn các chuyến bay từ milwaukee đến washington dc vào các buổi sáng thứ ba",
+        "Text": "thế còn các cb từ milwaukee đến washington dc vào các buổi sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có những bữa ăn nào trên chuyến bay 382 từ vân đồn đến washington dc vào buổi sáng thứ ba",
+        "Text": "co nhung bua an nao tren chuyen bay 382 tu van don den washington dc vao buoi sang thu ba",
+        "Label": "meal"
+    },
+    {
+        "Original_Text": "tôi sẽ cần thuê một chiếc xe hơi ở washington dc",
+        "Text": "t sẽ cần thuê một chiếc xe hơi ở washington dc",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi có thể có một chuyến bay vào đêm thứ ba từ washington dc đến thành phố đà lạt không",
+        "Text": "t co the co mot cb vao dem thu ba tu washington dc den tp da lat khong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thế còn chuyến bay khởi hành từ dc đến prague vào sáng thứ tư",
+        "Text": "the con chuyen bay khoi hanh tu dc den prague vao sang thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chi phí cho chuyến bay của vj từ đà nẵng đến cần thơ là bao nhiêu",
+        "Text": "chi phí cho cb của vj từ đn đến cần thơ là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "q có nghĩa là gì",
+        "Text": "q co nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mất bao nhiêu tiền để bay từ hà nội đến copenhagen trên chuyến bay khứ hồi của twa",
+        "Text": "mat bao nhieu tien de bay tu hn den copenhagen tren chuyen bay khu hoi cua twa",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "chuyến bay khứ hồi rẻ nhất từ cà mau đến cam ranh của vna",
+        "Text": "cb khứ hồi rẻ nhất từ cà mau đến cam ranh của vna",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay khứ hồi rẻ nhất của vna từ huế đến rạch giá",
+        "Text": "chuyen bay khu hoi re nhat cua vna tu hue den rach gia",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ cần thơ đến đà nẵng",
+        "Text": "tôi mún bay từ cần thơ đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi có thể có chuyến bay ngắn nhất từ cà mau đến quy nhơn không",
+        "Text": "tôi có thể có chuyến bay ngắn nhất từ cà mau đến quy nhơn ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay ngắn nhất từ cần thơ đến đà nẵng là chuyến bay nào",
+        "Text": "cb ngan nhat tu can tho den dn la cb nao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "m có nghĩa là gì",
+        "Text": "m co nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "ap 57 nghĩa là gì",
+        "Text": "ap 57 nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "chuyến bay ngắn nhất từ cần thơ đến cam ranh là chuyến bay nào",
+        "Text": "cb ngan nhat tu can tho den cam ranh la cb nao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay ngắn nhất từ cần thơ đến đà nẵng là chuyến bay nào",
+        "Text": "cb ngan nhat tu can tho den dn la cb nao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay ngắn nhất từ cần thơ đến vinh là chuyến bay nào",
+        "Text": "cb ngắn nhất từ cần thơ đến vinh là cb nào",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "ap 20 nghĩa là",
+        "Text": "ap 20 nghia la",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "tôi có thể đặt một chuyến bay vào hôm nay từ thành phố hồ chí minh đến detroit michigan được không",
+        "Text": "t co the dat mot cb vao hom nay tu thanh pho hcm den detroit michigan duoc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào rẻ nhất từ thành phố hồ chí minh đến huế hôm nay",
+        "Text": "cb nào rẻ nhất từ thành phố hcm đến huế hôm nay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ thành phố hồ chí minh đến đà nẵng và từ đà nẵng đến hải phòng",
+        "Text": "t muon bay tu tp hcm den dn va tu dn den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào rẻ nhất từ thành phố hồ chí minh đến hà nội",
+        "Text": "chuyen bay nao re nhat tu tp ho chi minh den ha noi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thuê một chiếc xe hơi ở đà nẵng",
+        "Text": "t can thue mot chiec xe hoi o dn",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "chuyến bay nào rẻ nhất vào ngày mai khởi hành từ cần thơ đến đà nẵng",
+        "Text": "cb nào rẻ nhất vào ngày mai khởi hành từ cần thơ đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "phương tiện giao thông đường bộ nào có thể sử dụng ở đà nẵng",
+        "Text": "phuong tien giao thong duong bo nao co the su dung o da nang",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "chuyến bay nào rẻ nhất từ thành phố hồ chí minh đến đà nẵng",
+        "Text": "cb nào rẻ nhất từ tp hồ chí minh đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào khởi hành từ điện biên phủ và đi đến đà lạt",
+        "Text": "những cb nào khởi hành từ điện biên phủ và đi đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay không nghỉ từ nam kinh đến đà nẵng",
+        "Text": "cho tôi biết tất cả các cb ko nghỉ từ nam kinh đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vn là hãng hàng không nào",
+        "Text": "vn là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa cam ranh và sài gòn",
+        "Text": "cho t biết các cb giữa cam ranh và sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hph là gì",
+        "Text": "hph là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mci là gì",
+        "Text": "mci là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi xem các chuyến bay giữa aarhus và thành phố bắc kinh",
+        "Text": "cho t xem cac chuyeens bay giua aarhus va tp bac kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "not sa có nghĩa là gì",
+        "Text": "not sa co nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "chuyến bay sớm nhất hàng ngày giữa aarhus và thành phố bắc kinh là chuyến bay nào",
+        "Text": "cb sớm nhất hàng ngày giữa aarhus và tp bắc kinh là cb nào",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "dl là hãng hàng không nào",
+        "Text": "dl la hang hang ko nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "chuyến bay hàng ngày muộn nhất giữa aarhus và thành phố bắc kinh là chuyến bay nào",
+        "Text": "chuyen bay hang ngay muon nhat giua aarhus va tp bac kinh la chuyen bay nao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa đà nẵng và đà lạt",
+        "Text": "cho t bit các cb giữa đn và đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào từ sân bay đà lạt đến trung tâm thành phố đà lạt",
+        "Text": "co phuong tien giao thong duong bo nao tu san bay da lat den trung tam tp da lat",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "máy bay boeing 787 có thể chứa bao nhiêu hành khách",
+        "Text": "máy bay boeing 787 có thể chứa bao nhiêu hành khách",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa của a320 là bao nhiêu",
+        "Text": "sức chứa của a320 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "giữa đà lạt và hải phòng có các chuyến bay nào",
+        "Text": "giua da lat va hai phong co cac cb nao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào giữa sân bay hải phòng và trung tâm thành phố hải phòng",
+        "Text": "co phuong tien giao thong duong bo nao giua san bay hai phong va trung tam tp hai phong",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "sức chứa chỗ ngồi của máy bay a321 là bao nhiêu",
+        "Text": "sức chứa chỗ ngồi của máy bay a321 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "có chuyến bay nào giữa đà lạt và hải phòng sử dụng máy bay airbus a321 không",
+        "Text": "có cb nào giữa đà lạt và hải phòng sử dụng máy bay airbus a321 ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vj là hãng hàng không nào",
+        "Text": "vj là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa cần thơ và ninh bình",
+        "Text": "cho tôi bit các cb giữa cần thơ và ninh bình",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay giữa cần thơ và vinh",
+        "Text": "các cb giữa cần thơ và vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "phương tiện giao thông đường bộ nào có sẵn giữa sân bay vinh và trung tâm thành phố vinh",
+        "Text": "phương tiện giao thông đường bộ nào có sẵn giữa sân bay vinh và trung tâm thành phố vinh",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa thành phố vinh và washington dc",
+        "Text": "cho t bit các cb giữa tp vinh và washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào có thể sử dụng giữa lhr và trung tâm thành phố london",
+        "Text": "có phương tiện giao thông đường bộ nào có thể sử dụng giữa lhr và trung tâm tp london",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "có các chuyến bay nào giữa vdo và cần thơ",
+        "Text": "có các cb nào giữa vdo và cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào giữa sân bay cần thơ và trung tâm thành phố cần thơ",
+        "Text": "co phuong tien giao thong duong bo nao giua san bay can tho va trung tam tp can tho",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "xác định giúp tôi loại máy bay được sử dụng trên chuyến bay từ điện biên phủ đến đà lạt khởi hành trước giữa trưa",
+        "Text": "xac dinh giup t loai may bay duoc su dung tren cb tu dien bien phu den da lat khoi hanh truoc giua trua",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "tìm một chuyến bay giữa phú quốc và đà nẵng chuyến bay sẽ khởi hành vào buổi chiều và đến nơi sớm nhất có thể sau 5 giờ chiều và phải là chuyến bay không nghỉ",
+        "Text": "tìm một chuyến bay giữa phú quốc và đn chuyến bay sẽ khởi hành vào buổi chiều và đến nơi sớm nhất có thể sau 5 giờ chiều và phải là chuyến bay ko nghỉ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết một chuyến bay của hãng hàng không jetstar từ cam ranh đến sài gòn",
+        "Text": "cho t bit một cb của hãng hàng ko jetstar từ cam ranh đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê một chuyến bay của hãng hàng không vietnam airlines từ cam ranh đến sài gòn",
+        "Text": "liệt kê một chuyến bay của hãng hàng ko vietnam airlines từ cam ranh đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi một chuyến bay từ cam ranh đến sài gòn",
+        "Text": "liet ke cho toi mot cb tu cam ranh den sai gon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ gothenburg đến thành phố bắc kinh khởi hành sau 17h00 thứ tư",
+        "Text": "liet ke giup t cac cb tu gothenburg den tp bac kinh khoi hanh sau 17h00 thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi các chuyến bay từ aarhus đến thành phố bắc kinh khởi hành sau nửa đêm thứ năm",
+        "Text": "xin liệt kê giúp t các cb từ aarhus đến tp bắc kinh khởi hành sau nửa đêm thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê hộ tôi các chuyến bay giữa hải phòng và phú quốc",
+        "Text": "liet ke ho t cac cb giua hai phong va phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ phú quốc đến đà nẵng",
+        "Text": "cho t danh sách các chuyến bay từ phú quốc đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ cần thơ đến washington dc trước 12 giờ",
+        "Text": "liet ke giup toi cac cb tu can tho den washington dc truoc 12 gio",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ washington dc đến vinh khởi hành sau 18 giờ",
+        "Text": "liệt kê các cb từ washington dc đến vinh khởi hành sau 18 giờ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ washington dc đến vinh",
+        "Text": "liệt kê giúp t các chuyến bay từ washington dc đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay giữa vinh và cần thơ",
+        "Text": "liệt kê giúp tôi các chuyeens bay giữa vinh và cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay đến sài gòn từ washington dc",
+        "Text": "t muon mot cb den sai gon tu washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ điện biên phủ đến đà lạt",
+        "Text": "t mun bay tu dien bien phu den da lat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ washington dc đến phoenix arizona",
+        "Text": "t mun bay tu washington dc den phoenix arizona",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ hải phòng đến hạ long",
+        "Text": "tôi cần một cb từ hải phòng đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ hạ long đến đài bắc",
+        "Text": "t mún bay từ hạ long đến đài bắc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ chiang mai đến hải phòng",
+        "Text": "t muốn bay từ chiang mai đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ quy nhơn đến hạ long",
+        "Text": "t mún bay từ quy nhơn đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ hạ long đến almaty",
+        "Text": "toi can mot cb tu ha long den almaty",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ sài gòn đến washington dc",
+        "Text": "t can mot cb tu sai gon den washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ washington dc đến san diego",
+        "Text": "t can mot cb tu washington dc den san diego",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay khứ hồi từ cao hùng đến washington dc và giá vé của nó",
+        "Text": "t can mot chuyen bay khu hoi tu cao hung den washington dc va gia ve cua no",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay khứ hồi từ đôn hoàng đến washington dc khởi hành vào buổi sáng và giá vé tương ứng",
+        "Text": "t cần một cb khứ hồi từ đôn hoàng đến washington dc khởi hành vào buổi sáng và giá vé tương ứng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin của một chuyến khứ hồi khởi hành vào buổi sáng từ hải phòng đến washington dc và giá vé của nó",
+        "Text": "t cần thông tin của một chuyến khứ hồi khởi hành vào buổi sáng từ hải phòng đến washington dc và giá vé của nó",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "giá vé thấp nhất cho một chuyến bay từ washington dc đến ko samui là bao nhiêu",
+        "Text": "giá vé thấp nhất cho một cb từ washington dc đến ko samui là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé thấp nhất từ washington dc đến kuching là bao nhiêu",
+        "Text": "gia ve thap nhat tu washington dc den kuching la bao nhieu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé thấp nhất cho một chuyến bay từ medan đến washington dc là bao nhiêu",
+        "Text": "giá vé thấp nhất cho một chuyến bay từ medan đến washington dc là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ hàng châu đến washington dc",
+        "Text": "tôi muốn một cb từ hàng châu đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ thanh hóa đến hạ long hạ cánh muộn nhất vào 3 giờ chiều",
+        "Text": "t mun mot cb tu thanh hoa den ha long ha canh muon nhat vao 3 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ tuy hòa đến padang hạ cánh không muộn hơn 3 giờ chiều",
+        "Text": "toi muon mot cb tu tuy hoa den padang ha canh khong muon hon 3 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ phnom penh đi hải phòng và hạ cánh ở hải phòng lúc 12 giờ 05 chiều",
+        "Text": "tôi cần một cb từ phnom penh đi hải phòng và hạ cánh ở hải phòng lúc 12 giờ 05 chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn có một chuyến bay khứ hồi từ tuy hòa đến ninh ba",
+        "Text": "t muốn có một cb khứ hồi từ tuy hòa đến ninh ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ thanh hóa đến côn đảo và tôi muốn có giá vé khứ hồi rẻ nhất",
+        "Text": "t muon bay tu thanh hoa den con dao va t muon co gia ve khu hoi re nhat",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay một chuyến bay khứ hồi từ sendai đến hải phòng với giá vé rẻ nhất",
+        "Text": "toi mun bay mot cb khu hoi tu sendai den hai phong voi gia ve re nhat",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay một chuyến bay khứ hồi từ côn đảo đến hải phòng với giá vé rẻ nhất",
+        "Text": "t mún bay một cb khứ hồi từ côn đảo đến hải phòng với giá vé rẻ nhất",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ quy nhơn đến melbourne",
+        "Text": "liệt kê giúp t các cb từ quy nhơn đến melbourne",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ thành phố hồ chí minh đến đà nẵng",
+        "Text": "liet ke cho t cac cb tu tp hcm den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê các chuyến bay từ cần thơ đến port macquarie",
+        "Text": "xin liệt kê các cb từ cần thơ đến port macquarie",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi các chuyến bay từ melbourne đến thành phố hồ chí minh",
+        "Text": "xin liệt kê giúp t các cb từ melbourne đến tp hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi thông tin về các phương tiện giao thông đường bộ tới cần thơ",
+        "Text": "cho toi thong tin ve cac phuong tien giao thong duong bo toi can tho",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ thành phố hồ chí minh đến cần thơ",
+        "Text": "liet ke giup t cac chuyen bay tu tp hcm den can tho",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ pleiku đến đà nẵng",
+        "Text": "liệt kê các chuyến bay từ pleiku đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ pleiku đến hải phòng",
+        "Text": "liet ke giup t cac cb tu pleiku den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ rotorua đến thành phố hồ chí minh",
+        "Text": "liệt kê cho t các chuyến bay từ rotorua đến tp hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ điện biên phủ đến pleiku",
+        "Text": "liet ke cac cb tu dien bien phu den pleiku",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ đà nẵng đến pleiku",
+        "Text": "cho toi bit cac cb tu da nang den pleiku",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi thông tin về các chuyến bay từ cam ranh đến đà nẵng",
+        "Text": "cho toi thong tin ve cac cb tu cam ranh den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ quy nhơn đến thành phố hạ long",
+        "Text": "cho toi bit cac cb tu quy nhon den thanh pho ha long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ hạ long đến chu lai",
+        "Text": "cho t danh sách các cb từ hạ long đến chu lai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hạ long đến quy nhơn",
+        "Text": "cho t bit cac cb tu ha long den quy nhon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ gold coast đến hạ long",
+        "Text": "cho t danh sach cac cb tu gold coast den ha long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi các chuyến bay từ jaipur đến quy nhơn",
+        "Text": "cho t cac cb tu jaipur den quy nhon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ washington dc đến colombo",
+        "Text": "liet ke giup toi cac chuyeens bay tu washington dc den colombo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi giá vé từ washington dc đến new delhi",
+        "Text": "xin liệt kê giúp t giá vé từ washington dc đến new delhi",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ washington dc đến jaipur",
+        "Text": "liệt kê cho t các cb từ washington dc đến jaipur",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi giá vé tốt từ washington dc đến kolkata",
+        "Text": "liệt kê cho t giá vé tốt từ washington dc đến kolkata",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi giá vé của các chuyến bay từ washington dc đến thiên tân",
+        "Text": "liệt kê giúp tôi giá vé của các chuyến bay từ washington dc đến thiên tân",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ washington dc đến lisbon",
+        "Text": "liệt kê cho t các chuyeens bay từ washington dc đến lisbon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ washington dc đến kagoshima",
+        "Text": "danh sách các cb từ washington dc đến kagoshima",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ matsuyama đến washington dc",
+        "Text": "danh sách các cb từ matsuyama đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ aarhus đến thành phố bắc kinh",
+        "Text": "liet ke cac chuyen bay tu aarhus den tp bac kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào đi từ đà lạt đến hải phòng",
+        "Text": "nhung cb nao di tu da lat den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay nào bay từ hải phòng đến thành phố tây an",
+        "Text": "chuyeens bay nào bay từ hải phòng đến tp tây an",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay sớm từ cần thơ đến đà nẵng",
+        "Text": "t can mot chuyeens bay som tu can tho den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có những loại phương tiện giao thông đường bộ nào có sẵn ở vô tích",
+        "Text": "có những loại phương tiện giao thông đường bộ nào có sẵn ở vô tích",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "những chuyến bay nào đi từ đà nẵng đến vô tích vào buổi sáng thứ ba",
+        "Text": "những cb nào đi từ đn đến vô tích vào buổi sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các loại phương tiện giao thông đường bộ có hoạt động ở ninh ba không",
+        "Text": "cac loai phuong tien giao thong duong bo co hoat dong o ninh ba khong",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần bay từ cam ranh đến cần thơ vào chiều thứ tư",
+        "Text": "t cần bay từ cam ranh đến cần thơ vào chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ san francisco đến hải phòng",
+        "Text": "các cb từ san francisco đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ hạ long đến sendai",
+        "Text": "các cb từ hạ long đến sendai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ phú quốc đến thành phố vinh",
+        "Text": "cac cb tu phu quoc den thanh pho vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết thông tin chuyến bay từ tây an đến đà nẵng",
+        "Text": "t muốn bit thông tin cb từ tây an đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin cho tôi thông tin về các chuyến bay từ thành phố nam kinh đến pleiku",
+        "Text": "xin cho tôi thông tin về các cb từ tp nam kinh đến pleiku",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi có thể có thông tin chuyến bay về các chuyến bay từ vinh đến hải phòng được không",
+        "Text": "t co the co thong tin cb ve cac cb tu vinh den hai phong dc khong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn biết thông tin về các chuyến bay khởi hành từ washington dc đến đà nẵng",
+        "Text": "toi mun bit thong tin ve cac cb khoi hanh tu washington dc den da nang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin về các chuyến bay từ thành phố huế đến hạ long khởi hành vào ngày thứ bảy",
+        "Text": "t cần thông tin về các cb từ tp huế đến hạ long khởi hành vào ngày thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần các chuyến bay từ los angeles đến hà nội vào một ngày thứ bảy",
+        "Text": "t can cac cb tu los angeles den hn vao mot ngay thu bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần giá vé của các chuyến bay từ hà nội đến moscow vào một ngày thứ bảy",
+        "Text": "t cần giá vé của các chuyến bay từ hà nội đến moscow vào một ngày thứ bảy",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "tôi muốn đi từ hạ long đến milan vào một ngày thứ ba",
+        "Text": "t muon di tu ha long den milan vao mot ngay thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ điện biên phủ đến đà lạt , hãy chọn những chuyến bay khởi hành trước giữa trưa nếu có quá nhiều chuyến bay như vậy",
+        "Text": "t cần một chuyến bay từ điện biên phủ đến đà lạt , hãy chọn những chuyến bay khởi hành trước giữa trưa nếu có quá nhiều chuyến bay như vậy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé cho một chuyến bay từ côn đảo đến hạ long",
+        "Text": "cho t biet gia ve cho mot cb tu con dao den ha long",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé vào thứ bảy cho một chuyến bay từ pleiku đến hạ long",
+        "Text": "cho t bit gia ve vao thu bay cho mot cb tu pleiku den ha long",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé từ viêng chăn đến hà nội",
+        "Text": "cho tôi bit giá vé từ viêng chăn đến hn",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé vào ngày thứ bảy từ hồ chí minh đến auckland",
+        "Text": "cho t bit giá vé vào ngày thứ bảy từ hcm đến auckland",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé thứ bảy từ hakodate đến thành phố hồ chí minh",
+        "Text": "cho t bit gia ve thu bay tu hakodate den tp ho chi minh",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé thứ bảy từ hakodate đến đà nẵng",
+        "Text": "cho t bit giá vé thứ bảy từ hakodate đến đà nẵng",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay trong ngày thứ bảy từ hà nội đến miyazaki",
+        "Text": "danh sách các chuyến bay trong ngày thứ bảy từ hn đến miyazaki",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay trong ngày thứ bảy từ sài gòn đến kagoshima",
+        "Text": "liệt kê giúp t các chuyến bay trong ngày thứ bảy từ sài gòn đến kagoshima",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ cần thơ đến din",
+        "Text": "cho t bit cac cb tu can tho den din",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ cần thơ đến huế",
+        "Text": "cho t danh sach cac cb tu can tho den hue",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ huế đến kagoshima",
+        "Text": "cho t biết các chuyến bay từ huế đến kagoshima",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho biết các chuyến bay từ osaka đến cần thơ",
+        "Text": "cho biet cac cb tu osaka den can tho",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết chuyến bay cuối cùng từ thành phố hồ chí minh đến bắc kinh vào thứ tư hoặc chuyến bay đầu tiên từ thành phố hồ chí minh đến bắc kinh vào thứ năm",
+        "Text": "cho toi bit cb cuoi cung tu thanh pho hcm den bac kinh vao thu tu hoac cb dau tien tu thanh pho hcm den bac kinh vao thu nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi chuyến bay đầu tiên từ thành phố hồ chí minh đến hàng châu vào thứ năm",
+        "Text": "cho t chuyến bay đầu tiên từ tp hcm đến hàng châu vào thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết chuyến bay cuối cùng từ hồ chí minh đến thượng hải vào thứ tư",
+        "Text": "cho t bit cb cuoi cung tu hcm den thuong hai vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết chuyến bay cuối cùng trong ngày thứ tư từ thành phố vinh đến tokyo",
+        "Text": "cho t bit cb cuoi cung trong ngay thu tu tu tp vinh den tokyo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết một chuyến bay từ hồ chí minh đến berlin có trạm dừng ở doh",
+        "Text": "cho t bit một cb từ hcm đến berlin có trạm dừng ở doh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa cam ranh và đà nẵng",
+        "Text": "cho t bit các cb giữa cam ranh và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ cần thơ đến thanh hóa khởi hành vào thứ hai trước 9 giờ sáng",
+        "Text": "t cần một chuyến bay từ cần thơ đến thanh hóa khởi hành vào thứ hai trước 9 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay khởi hành từ cần thơ đến thanh hóa rời đi vào thứ hai trước 8 giờ sáng",
+        "Text": "t cần một cb khởi hành từ cần thơ đến thanh hóa rời đi vào thứ hai trước 8 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các phương tiện giao thông đường bộ có hoạt động ở sân bay indianapolis không",
+        "Text": "các phương tiện giao thông đường bộ có hoạt động ở sân bay indianapolis ko",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần thông tin cho một chuyến bay khởi hành từ thanh hóa đến đà lạt và cất cánh vào giữa trưa ngày thứ ba",
+        "Text": "t can thong tin cho mot chuyen bay khoi hanh tu thanh hoa den da lat va cat canh vao giua trua ngay thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin của một chuyến bay khởi hành từ điện biên phủ đến cần thơ vào thứ tư sau 6 giờ chiều",
+        "Text": "tôi cần thông tin của một cb khởi hành từ điện biên phủ đến cần thơ vào thứ tư sau 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin của các chuyến bay khởi hành từ điện biên phủ trở về cần thơ vào thứ tư sau 5 giờ chiều",
+        "Text": "toi can thong tin cua cac cb khoi hanh tu dien bien phu tro ve can tho vao thu tu sau 5 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin của các chuyến bay khởi hành từ điện biên phủ đến tây an sau 5 giờ chiều ngày thứ tư",
+        "Text": "t can thong tin cua cac chuyen bay khoi hanh tu dien bien phu den tay an sau 5 gio chieu ngay thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin của các chuyến bay khởi hành từ zadar đến cần thơ vào thứ tư sau 5 giờ chiều",
+        "Text": "toi can thong tin cua cac cb khoi hanh tu zadar den can tho vao thu tu sau 5 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ đà nẵng đến zadar vào thứ hai",
+        "Text": "toi can mot cb tu dn den zadar vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào tại sân bay đà nẵng không",
+        "Text": "co phuong tien giao thong duong bo nao tai san bay dn ko",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần thông tin về chuyến bay và hãng hàng không của chuyến bay từ đà nẵng đến zadar khởi hành sau 5 giờ chiều ngày thứ hai",
+        "Text": "t cần thông tin về cb và hãng hàng ko của cb từ đn đến zadar khởi hành sau 5 giờ chiều ngày thứ hai",
+        "Label": "airline#flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ tại sân bay thành phố salt lake không",
+        "Text": "có phương tiện giao thông đường bộ tại sân bay tp salt lake ko",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ bắc kinh đến hải phòng khởi hành sau 5 giờ chiều ngày thứ năm",
+        "Text": "t cần một cb từ bắc kinh đến hải phòng khởi hành sau 5 giờ chiều ngày thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào hoạt động ở sân bay phoenix không",
+        "Text": "có phương tiện giao thông đường bộ nào hoạt động ở sân bay phoenix ko",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ aarhus đến norwich vào ngày thứ tư khởi hành sau 6 giờ chiều",
+        "Text": "toi can mot cb tu aarhus den norwich vao ngay thu tu khoi hanh sau 6 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin chuyến bay và giá vé cho chuyến bay vào ngày thứ năm khởi hành trước 9 giờ sáng từ aarhus đi đến busan",
+        "Text": "t cần thông tin cb và giá vé cho cb vào ngày thứ năm khởi hành trước 9 giờ sáng từ aarhus đi đến busan",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin chuyến bay và giá vé của chuyến bay khởi hành từ aarhus đến brussels vào thứ năm trước 8 giờ sáng",
+        "Text": "t cần thông tin cb và giá vé của cb khởi hành từ aarhus đến brussels vào thứ năm trước 8 giờ sáng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "tôi cần số hiệu chuyến bay và hãng hàng không của các chuyến bay khởi hành từ aarhus đến thành đô vào ngày thứ năm rời đi trước 8 giờ sáng",
+        "Text": "toi can so hieu cb va hang hang ko cua cac cb khoi hanh tu aarhus den thanh do vao ngay thu nam roi di truoc 8 gio sang",
+        "Label": "airline#flight_no"
+    },
+    {
+        "Original_Text": "tôi cần số hiệu chuyến bay của những chuyến bay khởi hành vào thứ năm trước 8 giờ sáng đi từ aarhus đến cáp nhĩ tân",
+        "Text": "t cần số hiệu chuyến bay của những chuyến bay khởi hành vào thứ năm trước 8 giờ sáng đi từ aarhus đến cáp nhĩ tân",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "vui lòng liệt kê các sân bay ở arizona nevada và california",
+        "Text": "vui long liet ke cac san bay o arizona nevada va california",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "danh sách các sân bay ở california nevada arizona",
+        "Text": "danh sách các sân bay ở california nevada arizona",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các sân bay ở arizona",
+        "Text": "liệt kê giúp t các sân bay ở arizona",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "danh sách các sân bay ở california",
+        "Text": "danh sach cac san bay o california",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ phú quốc đến hải phòng",
+        "Text": "liet ke giup t cac cb tu phu quoc den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các sân bay ở new york",
+        "Text": "danh sach cac san bay o new york",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê tất cả các sân bay",
+        "Text": "liệt kê tất cả các sân bay",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "cho tôi các chuyến bay đêm vào thứ tư từ aarhus đến viêng chăn",
+        "Text": "cho tôi các cb đêm vào thứ tư từ aarhus đến viêng chăn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ aarhus đến thành phố bắc kinh trước 6 giờ vào sáng thứ năm",
+        "Text": "liet ke giup t cac chuyen bay tu aarhus den tp bac kinh truoc 6 gio vao sang thu nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hãng hàng không nào có chuyến bay giữa cam ranh và sài gòn",
+        "Text": "hãng hàng ko nào có cb giữa cam ranh và sài gòn",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "xin liệt kê cho tôi các chuyến bay buổi chiều giữa cam ranh và đà nẵng",
+        "Text": "xin liệt kê cho tôi các chuyến bay buổi chiều giữa cam ranh và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "từ viết tắt tpa nghĩa là gì",
+        "Text": "tu viet tat tpa nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "những chuyến bay từ điện biên phủ đến đà lạt là những chuyến bay nào",
+        "Text": "nhung cb tu dien bien phu den da lat la nhung cb nao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chỉ liệt kê giúp tôi các chuyến bay từ điện biên phủ đến đà lạt khởi hành trước giữa trưa",
+        "Text": "chi liet ke giup t cac cb tu dien bien phu den da lat khoi hanh truoc giua trua",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "loại máy bay nào sẽ bay từ điện biên phủ đến đà lạt trước giữa trưa",
+        "Text": "loai may bay nao se bay tu dien bien phu den da lat truoc giua trua",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "tôi cần thông tin về các chuyến bay từ seoul đến hải phòng",
+        "Text": "t can thong tin ve cac cb tu seoul den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ tuy hòa đến hải phòng",
+        "Text": "t can mot chuyen bay tu tuy hoa den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một vé từ thanh hóa đến hải phòng",
+        "Text": "tôi cần một vé từ thanh hóa đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một vé từ buôn ma thuột đắk lắk đến hải phòng",
+        "Text": "tôi cần một vé từ buôn ma thuột đắk lắk đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin của chuyến bay từ cần thơ đến tam kỳ",
+        "Text": "tôi cần thông tin của cb từ cần thơ đến tam kỳ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thuê một chiếc xe hơi ở kathmandu",
+        "Text": "t can thue mot chiec xe hoi o kathmandu",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay hàng ngày từ helsinki đến kemi",
+        "Text": "t cần một cb hàng ngày từ helsinki đến kemi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần các chuyến bay khởi hành từ aarhus và đến sydney",
+        "Text": "t can cac cb khoi hanh tu aarhus va den sydney",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin về các chuyến bay từ huế đến sài gòn",
+        "Text": "tôi cần thông tin về các cb từ huế đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin về các chuyến bay từ cam ranh đến huế",
+        "Text": "t cần thông tin về các cb từ cam ranh đến huế",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ amsterdam đến sài gòn",
+        "Text": "t muon mot chuyen bay tu amsterdam den sai gon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần thông tin về các chuyến bay giữa quảng châu và nairobi",
+        "Text": "t can thong tin ve cac chuyen bay giua quang chau va nairobi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần số hiệu chuyến bay của các chuyến bay khởi hành từ điện biên phủ và hạ cánh ở đà lạt",
+        "Text": "toi can so hieu chuyen bay cua cac chuyen bay khoi hanh tu dien bien phu va ha canh o da lat",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "chuyến bay nào đi từ hà nội đến cebu và quay lại",
+        "Text": "cb nao di tu ha noi den cebu va quay lai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã giá vé qo nghĩa là gì",
+        "Text": "ma gia ve qo nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều từ cần thơ đến quy nhơn",
+        "Text": "cho tôi bit các cb một chiều từ cần thơ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chữ vna là viết tắt của từ gì",
+        "Text": "chữ vna là viết tắt của từ gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "tôi muốn có vé một chiều từ cần thơ đến quy nhơn vào tối thứ tư hoặc sáng thứ năm",
+        "Text": "tôi mún có vé một chiều từ cần thơ đến quy nhơn vào tối thứ tư hoặc sáng thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ cần thơ đến balikpapan",
+        "Text": "cho t biet cac chuyen bay tu can tho den balikpapan",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã giá vé f có nghĩa là gì",
+        "Text": "ma gia ve f co nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mã giá vé h có nghĩa là gì",
+        "Text": "ma gia ve h co nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mã giá vé y có nghĩa là gì",
+        "Text": "mã giá vé y có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "hạn chế ap 57 là gì",
+        "Text": "han che ap 57 la gi",
+        "Label": "restriction"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng nhất từ thanh hóa đến tuy hòa một chiều khởi hành trước 10 giờ sáng",
+        "Text": "cho t biet cac chuyen bay hang nhat tu thanh hoa den tuy hoa mot chieu khoi hanh truoc 10 gio sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bây giờ hãy cho tôi biết tất cả các chuyến bay khứ hồi từ kagoshima đến hải phòng đến trước 7 giờ tối tại hải phòng",
+        "Text": "bây giờ hãy cho tôi bit tất cả các cb khứ hồi từ kagoshima đến hải phòng đến trước 7 giờ tối tại hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay khứ hồi từ quy nhơn đến bangkok",
+        "Text": "cac chuyen bay khu hoi tu quy nhon den bangkok",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "dl là hãng hàng không nào",
+        "Text": "dl là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay của hãng hàng không jetstar từ bangkok đến quy nhơn",
+        "Text": "cho tôi bit tất cả các chuyến bay của hãng hàng ko jetstar từ bangkok đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách tất cả các chuyến bay từ quy nhơn đến bangkok",
+        "Text": "cho t danh sách tất cả các cb từ quy nhơn đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hãng hàng không qh là hãng hàng không nào",
+        "Text": "hang hang ko qh la hang hang ko nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi tất cả các chuyến bay từ hà nội đến catania có bất kỳ loại hạng vé nào",
+        "Text": "xin liệt kê giúp t tất cả các cb từ hn đến catania có bất kỳ loại hạng vé nào",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã giá vé bh có nghĩa là gì",
+        "Text": "mã giá vé bh có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi xem chuyến bay khứ hồi từ miami đến sgn",
+        "Text": "cho t xem cb khu hoi tu miami den sgn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã giá vé bh có nghĩa là gì",
+        "Text": "mã giá vé bh có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mã giá vé b có nghĩa là gì",
+        "Text": "mã giá vé b có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mã giá vé q có nghĩa là gì",
+        "Text": "ma gia ve q co nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "mã giá vé j có nghĩa là gì",
+        "Text": "mã giá vé j có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều từ côn đảo đến quy nhơn sau 6 giờ chiều thứ tư",
+        "Text": "cho t bit các cb một chiều từ côn đảo đến quy nhơn sau 6 giờ chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ thanh hóa đến tuy hòa",
+        "Text": "cho t bit các cb từ thanh hóa đến tuy hòa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi từ bagdogra đến hải phòng",
+        "Text": "cho t bit cac chuyen bay khu hoi tu bagdogra den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi từ firenze đến hà nội",
+        "Text": "cho t bit các cb khứ hồi từ firenze đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không dừng từ hà nội đến roma",
+        "Text": "cho tôi biết các cb ko dừng từ hn đến roma",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xem các chuyến đi khứ hồi giữa budapest và đà nẵng",
+        "Text": "cho t xem cac chuyen di khu hoi giua budapest va dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi từ bangkok đến patna",
+        "Text": "cho tôi bit các cb khứ hồi từ bangkok đến patna",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều rẻ nhất từ praha đến hải phòng",
+        "Text": "cho t bit các cb một chiều rẻ nhất từ praha đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều có giá vé rẻ nhất từ hà nội đến lucknow",
+        "Text": "cho toi biet cac chuyen bay mot chieu co gia ve re nhat tu hn den lucknow",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng phổ thông rẻ nhất từ varanasi đến hà nội",
+        "Text": "cho t biết các cb hạng phổ thông rẻ nhất từ varanasi đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hạ long đến phú quốc hạng phổ thông",
+        "Text": "ha long den phu quoc hang pho thong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hạ long đến ahmedabad hạng phổ thông",
+        "Text": "ha long den ahmedabad hang pho thong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hp là hãng hàng không nào",
+        "Text": "hp là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "giao thông đường bộ ở phú quốc",
+        "Text": "giao thong duong bo o phu quoc",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "giao thông đường bộ tại munich",
+        "Text": "giao thong duong bo tai munich",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "phú quốc đến cam ranh vé hạng phổ thông",
+        "Text": "phu quoc den cam ranh ve hang pho thong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hà nội đi hamburg vé hạng phổ thông",
+        "Text": "hà nội đi hamburg vé hạng phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cam ranh đến hạ long hạng phổ thông",
+        "Text": "cam ranh den ha long hang pho thong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vna là hãng hàng không nào",
+        "Text": "vna là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "vj là hãng hàng không nào",
+        "Text": "vj la hang hang ko nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cx là hãng hàng không nào",
+        "Text": "cx là hãng hk nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "qh là hãng hàng không nào",
+        "Text": "qh là hãng hk nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "nh là hãng hàng không nào",
+        "Text": "nh là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "huế đến thành phố hồ chí minh một chiều trước 10 giờ sáng",
+        "Text": "huế đến tp hồ chí minh một chiều trước 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "ek là hãng hàng không nào",
+        "Text": "ek là hãng hk nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "đà lạt đến huế",
+        "Text": "da lat den hue",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "từ cần thơ đến quy nhơn một chiều sau 5 giờ chiều thứ tư",
+        "Text": "tu can tho den quy nhon mot chieu sau 5 gio chieu thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "và từ cần thơ đến hạ long trước 10 giờ sáng hàng ngày",
+        "Text": "và từ cần thơ đến hạ long trước 10 giờ sáng hàng ngày",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "qr là hãng hàng không nào",
+        "Text": "qr là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ hà nội đến thâm quyến",
+        "Text": "cho t bit tat ca cac cb tu hn den tham quyen",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ cáp nhĩ tân đến hà nội",
+        "Text": "cho t bit tat ca cac chuyen bay tu cap nhi tan den hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "lh là hãng hàng không nào",
+        "Text": "lh là hãng hk nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các phương tiện giao thông đường bộ đang họat động ở hải phòng",
+        "Text": "cho toi bit cac phuong tien giao thong duong bo dang hoat dong o hai phong",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ vienna đến hà nội",
+        "Text": "cho t biết các chuyến bay từ vienna đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi phương tiện giao thông đường bộ ở hà nội",
+        "Text": "cho tôi phương tiện giao thông đường bộ ở hn",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ toronto đến vienna",
+        "Text": "cho tôi bit các cb từ toronto đến vienna",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi hạng nhất từ hà nội đến cairo",
+        "Text": "cho t bit các chuyến bay khứ hồi hạng nhất từ hn đến cairo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng nhất khứ hồi từ cairo đến paris",
+        "Text": "cho tôi bit các chuyeens bay hạng nhất khứ hồi từ cairo đến paris",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay không dừng khứ hồi từ riyadh đến manila",
+        "Text": "cho toi biet tat ca cac chuyeens bay ko dung khu hoi tu riyadh den manila",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay khứ hồi không có trạm dừng từ riyadh đến hà nội",
+        "Text": "cho t bit tất cả các cb khứ hồi ko có trạm dừng từ riyadh đến hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều từ côn đảo đến tuy hòa trước 10 giờ sáng vào bất kỳ ngày nào",
+        "Text": "cho tôi bit các chuyến bay một chiều từ côn đảo đến tuy hòa trước 10 giờ sáng vào bất kỳ ngày nào",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "mã giá vé f có nghĩa là gì",
+        "Text": "mã giá vé f có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi từ huế đến đà lạt",
+        "Text": "cho toi bit cac chuyen bay khu hoi tu hue den da lat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hạn chế ap58 nghĩa là gì",
+        "Text": "han che ap58 nghia la gi",
+        "Label": "restriction"
+    },
+    {
+        "Original_Text": "mã giá vé h nghĩa là gì",
+        "Text": "ma gia ve h nghia la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "as là hãng hàng không nào",
+        "Text": "as la hang hang ko nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "bs là hãng hàng không nào",
+        "Text": "bs la hang hk nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "hãng hàng không sl là hãng nào",
+        "Text": "hang hang ko sl la hang nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "hãng hàng không as là hãng hàng không nào",
+        "Text": "hang hk as la hang hk nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không nghỉ từ napoli đến melbourne",
+        "Text": "cho t biết các chuyến bay ko nghỉ từ napoli đến melbourne",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không nghỉ từ thượng hải đến samarkand",
+        "Text": "cho t biet cac cb ko nghi tu thuong hai den samarkand",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không nghỉ và giá vé từ mashad đến phuket",
+        "Text": "cho t bit các chuyến bay ko nghỉ và giá vé từ mashad đến phuket",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không nghỉ từ chiang mai đến cam ranh",
+        "Text": "cho t bit cac cb ko nghi tu chiang mai den cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay một chiều trong tuần từ cần thơ đến quy nhơn",
+        "Text": "cho tôi bit các cb một chiều trong tuần từ cần thơ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay trong tuần từ cần thơ đến quy nhơn một chiều",
+        "Text": "cho t bit các chuyến bay trong tuần từ cần thơ đến quy nhơn một chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cq là hãng hàng không nào",
+        "Text": "cq la hang hk nao",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "xin liệt kê các chuyến bay từ thành phố hồ chí minh đến bari",
+        "Text": "xin liệt kê các cb từ tp hcm đến bari",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ cáp nhĩ tân đến sài gòn",
+        "Text": "liệt kê giúp t các cb từ cáp nhĩ tân đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ rimini đến đà nẵng",
+        "Text": "liet ke cho t cac cb tu rimini den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ đà nẵng đến torino",
+        "Text": "danh sách các cb từ đà nẵng đến torino",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ hải phòng đến manila",
+        "Text": "danh sách các cb từ hải phòng đến manila",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê các chuyến bay từ phú quốc đến thành phố vinh",
+        "Text": "liệt kê các cb từ phú quốc đến tp vinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ hà nội đến thành phố huế vào buổi sáng",
+        "Text": "liệt kê giúp tôi các cb từ hn đến tp huế vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ pleiku đến quảng châu",
+        "Text": "liet ke giup t cac cb tu pleiku den quang chau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ pleiku đến torino",
+        "Text": "cho toi danh sach cac cb tu pleiku den torino",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ bordeaux đến hà nội vào thứ tư",
+        "Text": "liet ke giup t cac cb tu bordeaux den hn vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi danh sách các chuyến bay từ bordeaux đến đà lạt vào thứ sáu",
+        "Text": "liệt kê cho t danh sách các cb từ bordeaux đến đà lạt vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ sài gòn đến ulan bato",
+        "Text": "danh sach cac chuyen bay tu sai gon den ulan bato",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê khoảng cách từ các sân bay đến trung tâm thành phố ở ulan bato",
+        "Text": "liệt kê khoảng cách từ các sân bay đến trung tâm tp ở ulan bato",
+        "Label": "distance"
+    },
+    {
+        "Original_Text": "danh sách các sân bay ở hà nội",
+        "Text": "danh sach cac san bay o ha noi",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê danh sách các sân bay ở toronto",
+        "Text": "liet ke danh sach cac san bay o toronto",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê danh sách các sân bay ở la",
+        "Text": "liệt kê danh sách các sân bay ở la",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "cho tôi danh sách tất cả các sân bay",
+        "Text": "cho t danh sách tất cả các sân bay",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các sân bay ở la",
+        "Text": "cho t danh sách các sân bay ở la",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các sân bay tại la",
+        "Text": "liệt kê giúp t các sân bay tại la",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các sân bay ở la",
+        "Text": "liet ke cho t cac san bay o la",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "liệt kê la",
+        "Text": "liet ke la",
+        "Label": "city"
+    },
+    {
+        "Original_Text": "danh sách la",
+        "Text": "danh sach la",
+        "Label": "city"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ hà nội đến la",
+        "Text": "danh sach cac cb tu hn den la",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ la guardia đến burbank",
+        "Text": "liet ke cho t cac cb tu la guardia den burbank",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ la đến bern",
+        "Text": "liệt kê cho t các cb từ la đến bern",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ thâm quyến quảng đông đến hà nội",
+        "Text": "liet ke giup t cac chuyen bay tu tham quyen quang dong den ha noi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ thành đô tứ xuyên đến quy nhơn",
+        "Text": "cho t danh sach cac cb tu thanh do tu xuyen den quy nhon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ thanh hóa đến tuy hòa vào thứ hai cùng giá vé tương ứng",
+        "Text": "liet ke cho t cac chuyeens bay tu thanh hoa den tuy hoa vao thu hai cung gia ve tuong ung",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ thanh hóa đến tuy hòa vào thứ hai",
+        "Text": "danh sach cac cb tu thanh hoa den tuy hoa vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ tuy hòa đến jaipur vào thứ tư",
+        "Text": "danh sach cac cb tu tuy hoa den jaipur vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ kuala lumpur đến thanh hóa vào chủ nhật",
+        "Text": "liệt kê giúp t các cb từ kuala lumpur đến thanh hóa vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xin danh sách các chuyến bay từ charlotte vào chiều thứ bảy",
+        "Text": "cho toi xin danh sach cac cb tu charlotte vao chieu thu bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê danh sách các loại máy bay cho tất cả các chuyến bay từ đà nẵng",
+        "Text": "liệt kê danh sách các loại máy bay cho tất cả các cb từ đà nẵng",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi và giá vé tương ứng từ đà lạt đến thanh hóa khởi hành vào thứ bảy và trở về vào ngày thứ bảy tiếp theo",
+        "Text": "cho tôi bit các cb khứ hồi và giá vé tương ứng từ đà lạt đến thanh hóa khởi hành vào thứ bảy và trở về vào ngày thứ bảy tiếp theo",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "hạng vé của mã giá vé q là gì",
+        "Text": "hang ve cua ma gia ve q la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay có mã cơ sở giá vé là q từ quy nhơn đến đà lạt vào thứ bảy",
+        "Text": "liệt kê cho t các cb có mã cơ sở giá vé là q từ quy nhơn đến đà lạt vào thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các giá vé máy bay khứ hồi hạng nhất để bay từ huế đến cà mau",
+        "Text": "liệt kê giúp t các giá vé máy bay khứ hồi hạng nhất để bay từ huế đến cà mau",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi danh sách giá vé khứ hồi hạng hai bay từ cà mau đến cam ranh",
+        "Text": "liet ke cho t danh sach gia ve khu hoi hang hai bay tu ca mau den cam ranh",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi các chuyến bay từ vinh đến điện biên phủ vào sáng thứ hai",
+        "Text": "liệt kê cho tôi các cb từ vinh đến điện biên phủ vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay từ chu lai đến vinh vào thứ sáu",
+        "Text": "liệt kê giúp t các cb từ chu lai đến vinh vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay trước 9 giờ sáng từ hà nội đến tam kỳ",
+        "Text": "cho t danh sách các cb trước 9 giờ sáng từ hn đến tam kỳ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ hà nội đến yokohama trước giữa trưa",
+        "Text": "danh sách các chuyến bay từ hn đến yokohama trước giữa trưa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xin danh sách các chuyến bay từ pattaya đến hà nội sau 3 giờ chiều",
+        "Text": "cho t xin danh sach cac cb tu pattaya den hn sau 3 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các hãng hàng không có chuyến bay khởi hành từ seattle đến thành phố bắc kinh",
+        "Text": "cho t danh sách các hãng hàng ko có chuyeens bay khởi hành từ seattle đến thành phố bắc kinh",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay của hãng hàng không vietnam airlines từ hải phòng đến thành phố bắc kinh",
+        "Text": "liệt kê giúp t các chuyến bay của hãng hk vietnam airlines từ hải phòng đến thành phố bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê sức chứa chỗ ngồi của các chuyến bay của china airlines từ hải phòng đến thành đô",
+        "Text": "liệt kê sức chứa chỗ ngồi của các cb của china airlines từ hải phòng đến thành đô",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của jetstar từ hải phòng đến đảo jeju và loại máy bay tương ứng",
+        "Text": "cho t biết các chuyeens bay của jetstar từ hải phòng đến đảo jeju và loại máy bay tương ứng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có những phương tiện giao thông đường bộ nào ở cam ranh",
+        "Text": "có những phương tiện giao thông đường bộ nào ở cam ranh",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi phương tiện giao thông đường bộ ở lạng sơn",
+        "Text": "liet ke cho t phuong tien giao thong duong bo o lang son",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ cam ranh đến thành phố hồ chí minh vào thứ sáu",
+        "Text": "cho t danh sach cac cb tu cam ranh den thanh pho hcm vao thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ thành phố hồ chí minh đến vinh vào thứ ba",
+        "Text": "cho t biet cac cb tu tp hcm den vinh vao thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ vinh đến thành phố hồ chí minh vào buổi tối thứ năm",
+        "Text": "cho t biet cac chuyen bay tu vinh den thanh pho hcm vao buoi toi thu nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay khứ hồi từ huế đến vũ hán vào thứ tư tới",
+        "Text": "cho t biết các cb khứ hồi từ huế đến vũ hán vào thứ tư tới",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết giá vé của các chuyến bay khứ hồi từ điện biên phủ đến quảng châu vào thứ tư tới",
+        "Text": "cho tôi bit giá vé của các cb khứ hồi từ điện biên phủ đến quảng châu vào thứ tư tới",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cung cấp cho tôi các chuyến bay và giá vé cho một chuyến đi đến sendai từ cà mau vào thứ tư",
+        "Text": "cung cấp cho t các cb và giá vé cho một chuyến đi đến sendai từ cà mau vào thứ tư",
+        "Label": "airfare#flight"
+    },
+    {
+        "Original_Text": "cho tôi giá vé từ manila đến điện biên phủ vào chủ nhật tới",
+        "Text": "cho t gia ve tu manila den dien bien phu vao chu nhat toi",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ cần thơ đến hải phòng vào thứ bảy hoặc chủ nhật của hãng hàng không vietnam airlines",
+        "Text": "cho t biet cac chuyen bay tu can tho den hai phong vao thu bay hoac chu nhat cua hang hang ko vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hải phòng đến cần thơ vào tối thứ tư",
+        "Text": "cho t bit các cb từ hải phòng đến cần thơ vào tối thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hải phòng đến sendai vào thứ tư của vietjet",
+        "Text": "cho t bit cac cb tu hai phong den sendai vao thu tu cua vietjet",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hải phòng đến jeju của hãng hàng không vietnam airlines",
+        "Text": "cho tôi biết các cb từ hải phòng đến jeju của hãng hàng ko vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ daegu đến cần thơ",
+        "Text": "cho tôi bit các chuyeens bay từ daegu đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cung cấp cho tôi biết các chuyến bay không dừng có phục vụ bữa ăn khởi hành sớm vào buổi sáng thứ bảy từ thành phố hồ chí minh đến almaty",
+        "Text": "cung cap cho toi biet cac cb ko dung co phuc vu bua an khoi hanh som vao buoi sang thu bay tu tp hcm den almaty",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cung cấp cho tôi biết các chuyến bay từ thành phố hồ chí minh đến ôn châu vào sáng thứ bảy mà có phục vụ bữa ăn",
+        "Text": "cung cap cho t biet cac cb tu tp hcm den on chau vao sang thu bay ma co phuc vu bua an",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hải phòng đến thành phố hồ chí minh và có phục vụ bữa ăn của vietjet",
+        "Text": "cho toi bit cac cb tu hai phong den thanh pho hcm va co phuc vu bua an cua vietjet",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hải phòng đến thành phố hồ chí minh mà có phục vụ bữa ăn vào buổi sáng thứ bảy của bamboo",
+        "Text": "cho t biet cac cb tu hai phong den tp hcm ma co phuc vu bua an vao buoi sang thu bay cua bamboo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay sớm từ thành phố hồ chí minh đến vinh của vietjet có phục vụ bữa ăn vào buổi sáng thứ bảy",
+        "Text": "cho t bit cac cb som tu thanh pho ho chi minh den vinh cua vietjet co phuc vu bua an vao buoi sang thu bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cung cấp cho tôi danh sách các chuyến bay sớm có phục vụ bữa ăn của vietjet từ thành phố huế đến hải phòng vào buổi sáng ngày thứ bảy",
+        "Text": "cung cấp cho t danh sách các cb sớm có phục vụ bữa ăn của vietjet từ thành phố huế đến hải phòng vào buổi sáng ngày thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay vào buổi sáng thứ bảy có phục vụ bữa ăn từ thành phố hồ chí minh đến chu lai",
+        "Text": "cho t bit các cb vào buổi sáng thứ bảy có phục vụ bữa ăn từ tp hcm đến chu lai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay vào buổi sáng thứ bảy của vietjet có phục vụ các bữa ăn từ thành phố hồ chí minh đến ôn châu",
+        "Text": "cho t bit các cb vào buổi sáng thứ bảy của vietjet có phục vụ các bữa ăn từ thành phố hồ chí minh đến ôn châu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay vào buổi sáng thứ bảy từ thành phố hồ chí minh đến điện biên phủ của vietjet có phục vụ bữa ăn",
+        "Text": "cho toi bit cac chuyeens bay vao buoi sang thu bay tu tp hcm den dien bien phu cua vietjet co phuc vu bua an",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay không dừng từ hà nội đến phú quốc",
+        "Text": "cho t biet cac cb ko dung tu hn den phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cung cấp cho tôi các chuyến bay không dừng từ goreme đến phú quốc",
+        "Text": "cung cấp cho t các cb không dừng từ goreme đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cung cấp cho tôi các chuyến bay khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào khoảng ngày 25 tháng 12",
+        "Text": "cung cap cho t cac chuyen bay khu hoi re nhat tu thanh hoa den quy nhon vao khoang ngay 25 thang 12",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay vào thứ sáu từ đà nẵng đến turin",
+        "Text": "toi can mot chuyeens bay vao thu sau tu dn den turin",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay vào chủ nhật từ kuala lumpur đến đà nẵng",
+        "Text": "toi can mot cb vao chu nhat tu kuala lumpur den dn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi một chuyến bay từ đà nẵng đến cam ranh vào sáng thứ ba",
+        "Text": "cho toi mot chuyen bay tu da nang den cam ranh vao sang thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi có thể có một chuyến bay vào buổi sáng từ cam ranh đến điện biên phủ được không",
+        "Text": "tôi có thể có một cb vào buổi sáng từ cam ranh đến điện biên phủ đc không",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "giá vé khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào ngày 25 tháng 12",
+        "Text": "gia ve khu hoi re nhat tu thanh hoa den quy nhon vao ngay 25 thang 12",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé một chiều rẻ nhất từ thanh hóa đến côn đảo vào ngày 27 tháng 12",
+        "Text": "gia ve mot chieu re nhat tu thanh hoa den con dao vao ngay 27 thang 12",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "số hiệu của chuyến bay từ đà lạt đến pleiku",
+        "Text": "so hieu cua chuyen bay tu da lat den pleiku",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "số hiệu của chuyến bay từ hàm dương đến đà lạt",
+        "Text": "so hieu cua cb tu ham duong den da lat",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "các chuyến bay vào thứ bảy của hãng hàng không vietnam airlines từ cần thơ đến hàm dương",
+        "Text": "các cb vào thứ bảy của hãng hk vietnam airlines từ cần thơ đến hàm dương",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "số hiệu của chuyến bay vietnam airlines từ hải phòng đến koln",
+        "Text": "so hieu cua cb vietnam airlines tu hai phong den koln",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "số hiệu chuyến bay của các chuyến bay từ thành phố hồ chí minh đến bremen",
+        "Text": "số hiệu cb của các cb từ tp hcm đến bremen",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "số hiệu của các chuyến bay từ roma đến cardiff của alitalia",
+        "Text": "số hiệu của các chuyến bay từ roma đến cardiff của alitalia",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "số hiệu của các chuyến bay từ hải phòng đến đà lạt của jetstar",
+        "Text": "so hieu cua cac chuyen bay tu hai phong den da lat cua jetstar",
+        "Label": "flight_no"
+    },
+    {
+        "Original_Text": "có vé nào từ vinh đến điện biên phủ có giá dưới 4 triệu không",
+        "Text": "co ve nao tu vinh den dien bien phu co gia duoi 4 trieu ko",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "chuyến bay hạng hai từ đà lạt đến hạ long có giá vé là bao nhiêu",
+        "Text": "cb hang hai tu da lat den ha long co gia ve la bao nhieu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "điện biên phủ đến quảng nam vào thứ sáu",
+        "Text": "điện biên phủ đến quảng nam vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thành phố hồ chí minh đi đà nẵng vào buổi sáng chủ nhật",
+        "Text": "tp hcm đi đà nẵng vào buổi sáng chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "phuket đến cam ranh vào thứ ba",
+        "Text": "phuket den cam ranh vao thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "côn đảo đến điện biên phủ vào buổi sáng thứ tư",
+        "Text": "con dao den dien bien phu vao buoi sang thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hải phòng đến pleiku sau 9 rưỡi sáng",
+        "Text": "hải phòng đến pleiku sau 9 rưỡi sáng",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "pleiku đến hà nội trước nửa đêm",
+        "Text": "pleiku đến hn trước nửa đêm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thanh hóa đến quy nhơn ngày hai mươi bảy tháng mười hai",
+        "Text": "thanh hóa đến quy nhơn ngày hai mươi bảy tháng mười hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "giá vé rẻ nhất từ thanh hóa đến quy nhơn vào ngày 27 tháng 12",
+        "Text": "giá vé rẻ nhất từ thanh hóa đến quy nhơn vào ngày 27 tháng 12",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào ngày 27 tháng 12",
+        "Text": "giá vé khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào ngày 27 tháng 12",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "điện biên phủ đến phnom penh vào thứ tư hạ cánh trước 4 giờ chiều",
+        "Text": "điện biên phủ đến phnom penh vào thứ tư hạ cánh trước 4 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hà nội đến siem reap vào chiều chủ nhật",
+        "Text": "hn den siem reap vao chieu chu nhat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thành phố hạ long đến phú quốc và thành phố thanh hóa đến phú quốc vào chủ nhật",
+        "Text": "thanh pho ha long den phu quoc va thanh pho thanh hoa den phu quoc vao chu nhat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xiêm riệp đến phú quốc và quy nhơn đến phú quốc vào chủ nhật",
+        "Text": "xiêm riệp đến phú quốc và quy nhơn đến phú quốc vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hà nội đến jeju vào chiều chủ nhật",
+        "Text": "ha noi den jeju vao chieu chu nhat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "đà lạt đến burma vào chiều chủ nhật",
+        "Text": "da lat den burma vao chieu chu nhat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thành đô đến phú quốc vào chiều chủ nhật",
+        "Text": "thành đô đến phú quốc vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thành phố hồ chí minh đến hải phòng vào sáng thứ bảy",
+        "Text": "tp hcm den hai phong vao sang thu bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "siem reap đến phú quốc vào sáng thứ bảy",
+        "Text": "siem reap đến phú quốc vào sáng thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "đà nẵng đến thành phố vinh vào buổi chiều thứ ba",
+        "Text": "dn den tp vinh vao buoi chieu thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "đà lạt đến thành phố vinh vào chiều thứ hai",
+        "Text": "đà lạt đến tp vinh vào chiều thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vinh đến côn đảo vào buổi tối thứ năm",
+        "Text": "vinh den con dao vao buoi toi thu nam",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cần thơ đến hải phòng vào thứ bảy",
+        "Text": "can tho den hai phong vao thu bay",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hải phòng đến côn đảo vào chủ nhật",
+        "Text": "hai phong den con dao vao chu nhat",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hải phòng đến điện biên phủ vào thứ tư",
+        "Text": "hải phòng đến điện biên phủ vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "một chuyến bay từ cam ranh đến thành phố hồ chí minh đến nơi vào khoảng từ 5 đến 8 giờ tối",
+        "Text": "một chuyến bay từ cam ranh đến tp hcm đến nơi vào khoảng từ 5 đến 8 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có bao nhiêu chuyến bay của vietjet khởi hành từ rạch giá",
+        "Text": "co bao nhieu cb cua vietjet khoi hanh tu rach gia",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "có bao nhiêu chuyến bay của northwest rời washington dc",
+        "Text": "có bao nhiêu cb của northwest rời washington dc",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "có bao nhiêu chuyến bay của vietjet cất cánh từ sân bay đồng hới",
+        "Text": "có bao nhiêu cb của vietjet cất cánh từ sân bay đồng hới",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "những thành phố nào mà có các chuyến bay của vietjet khởi hành từ đó",
+        "Text": "nhung tp nao ma co cac chuyeens bay cua vietjet khoi hanh tu do",
+        "Label": "city"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các thành phố mà có các chuyến bay của vietnam airlines cất cánh",
+        "Text": "liet ke giup toi cac thanh pho ma co cac cb cua vietnam airlines cat canh",
+        "Label": "city"
+    },
+    {
+        "Original_Text": "những thành phố nào mà các chuyến bay của bamboo airways bay đến",
+        "Text": "nhung tp nao ma cac cb cua bamboo airways bay den",
+        "Label": "city"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay nối chuyến từ houston đến thành phố hồ chí minh khởi hành sau 4 giờ",
+        "Text": "t mún một cb nối chuyến từ houston đến tp hcm khởi hành sau 4 giờ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê tất cả các chuyến bay từ chicago đến thành phố hồ chí minh",
+        "Text": "xin liet ke tat ca cac cb tu chicago den tp hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay buổi sáng của hãng hàng không vietnam airlines từ melbourne đến đà nẵng",
+        "Text": "cho t biết các cb buổi sáng của hãng hk vietnam airlines từ melbourne đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay rời auckland và đi đến đà lạt",
+        "Text": "cho tôi biết các cb rời auckland và đi đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "d9s là cái gì",
+        "Text": "d9s là cái gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "d9s là loại máy bay nào",
+        "Text": "d9s la loai may bay nao",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "d9s là gì",
+        "Text": "d9s la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi biết các sân bay có dịch vụ của tower air",
+        "Text": "cho t bit các sân bay có dịch vụ của tower air",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng nhất và hạng hai giữa hph và quy nhơn",
+        "Text": "cho t bit cac cb hang nhat va hang hai giua hph va quy nhon",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng nhất và hạng hai từ sân bay cần thơ đến mumbai",
+        "Text": "cho tôi bit các cb hạng nhất và hạng hai từ sân bay cần thơ đến mumbai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay hạng nhất và hạng hai từ dad đến singapore",
+        "Text": "cho toi bit cac cb hang nhat va hang hai tu dad den singapore",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "aeroflot có bao giờ phục vụ bữa ăn không ?",
+        "Text": "aeroflot có bao giờ phục vụ bữa ăn không ?",
+        "Label": "meal"
+    },
+    {
+        "Original_Text": "đồ ăn nhẹ có được phục vụ trên các chuyến bay của alitalia không",
+        "Text": "đồ ăn nhẹ có đc phục vụ trên các chuyến bay của alitalia không",
+        "Label": "meal"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay của hãng hàng không turkish airlines từ edi đến hà nội",
+        "Text": "cho toi danh sach cac cb cua hang hang ko turkish airlines tu edi den hn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của hãng hàng không vietnam airlines từ hạ long đến bắc kinh",
+        "Text": "cho t bit các cb của hãng hàng ko vietnam airlines từ hạ long đến bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của jetstar pacific từ cần thơ đến bắc kinh",
+        "Text": "cho t bit các chuyeens bay của jetstar pacific từ cần thơ đến bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay của hãng hàng không jetstar từ thành phố vinh đến thành phố bắc kinh",
+        "Text": "cho t bit các cb của hãng hk jetstar từ tp vinh đến tp bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "giá vé cho các chuyến bay giữa gothenburg và washington dc là bao nhiêu",
+        "Text": "giá vé cho các cb giữa gothenburg và washington dc là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé rẻ nhất từ sài gòn đến thành phố bắc kinh là bao nhiêu",
+        "Text": "giá vé rẻ nhất từ sài gòn đến thành phố bắc kinh là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé thấp nhất từ washington dc đến penang là bao nhiêu",
+        "Text": "gia ve thap nhat tu washington dc den penang la bao nhieu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "giá vé thấp nhất từ han đến busan là bao nhiêu",
+        "Text": "giá vé thấp nhất từ han đến busan là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "cho tôi biết chi phí của vé hạng nhất từ huế đến phú quốc và trở lại",
+        "Text": "cho t bit chi phí của vé hạng nhất từ huế đến phú quốc và trở lại",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "chuyến bay đến nơi sớm nhất từ minsk đến washington dc",
+        "Text": "chuyến bay đến nơi sớm nhất từ minsk đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay đến nơi sớm nhất giữa brasov và washington dc",
+        "Text": "cb den noi som nhat giua brasov va washington dc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay đến nơi sớm nhất giữa boston và washington dc là chuyến bay nào",
+        "Text": "chuyến bay đến nơi sớm nhất giữa boston và washington dc là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay hạ cánh sớm nhất từ pleiku đến cần thơ",
+        "Text": "cb hạ cánh sớm nhất từ pleiku đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "chuyến bay đến sớm nhất từ vinh đến quy nhơn",
+        "Text": "cb đến sớm nhất từ vinh đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa huế và quy nhơn",
+        "Text": "cho t bit các cb giữa huế và quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay giữa pleiku và phú quốc",
+        "Text": "cho tôi bit các cb giữa pleiku và phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ pleiku đến cà mau",
+        "Text": "cho tôi biết các cb từ pleiku đến cà mau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê tất cả các chuyến bay rời đà nẵng từ 8 giờ tối đến 9 giờ tối",
+        "Text": "xin liệt kê tất cả các chuyến bay rời đn từ 8 giờ tối đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sức chứa chỗ ngồi của máy bay boeing 737 max 200 là bao nhiêu",
+        "Text": "sức chứa chỗ ngồi của máy bay boeing 737 max 200 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa chỗ ngồi của boeing 737 max 200 là bao nhiêu",
+        "Text": "sức chứa chỗ ngồi của boeing 737 max 200 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "máy bay airbus a321 neo có thể chứa được bao nhiêu người",
+        "Text": "may bay airbus a321 neo co the chua dc bao nhieu nguoi",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa của máy bay m80 là bao nhiêu",
+        "Text": "sức chứa của máy bay m80 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa của máy bay boeing 787 là bao nhiêu",
+        "Text": "suc chua cua may bay boeing 787 la bao nhieu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa của một máy bay airbus a321 neo là bao nhiêu",
+        "Text": "sức chứa của một máy bay airbus a321 neo là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "những hãng hàng không nào có đường bay đến đà nẵng",
+        "Text": "nhung hang hang ko nao co duong bay den da nang",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các hãng hàng không có các chuyến bay đến hoặc đi từ đà nẵng",
+        "Text": "liet ke giup t cac hang hang ko co cac cb den hoac di tu da nang",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "những hãng hàng không nào có chuyến bay đến đà nẵng",
+        "Text": "nhung hang hang ko nao co cb den dn",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay đến đà nẵng từ 8 đến 9 giờ tối",
+        "Text": "liệt kê giúp t tất cả các cb đến đn từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sức chứa của máy bay airbus a321 neo là bao nhiêu",
+        "Text": "sức chứa của máy bay airbus a321 neo là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "art 72-500 là gì",
+        "Text": "art 72-500 la gi",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "sức chứa chỗ ngồi trên máy bay 73s là bao nhiêu",
+        "Text": "sức chứa chỗ ngồi trên máy bay 73s là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa của máy bay atr 72-500 là bao nhiêu",
+        "Text": "sức chứa của máy bay atr 72-500 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "một máy bay atr 72-500 có thể chở bao nhiêu người",
+        "Text": "mot may bay atr 72-500 co the cho bao nhieu nguoi",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "có bao nhiêu hành khách có thể bay trên máy bay a321",
+        "Text": "co bao nhieu hanh khach co the bay tren may bay a321",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay hàng ngày đến đà nẵng trong khoảng từ 8 đến 9 giờ tối",
+        "Text": "liệt kê giúp t tất cả các cb hàng ngày đến đn trong khoảng từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê tất cả các chuyến bay hàng ngày đến đà nẵng từ 8 đến 9 giờ tối",
+        "Text": "liet ke tat ca cac cb hang ngay den dn tu 8 den 9 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay hàng ngày đến đà nẵng trong khoảng từ 8 rưỡi đến 9 giờ tối",
+        "Text": "cho t bit tất cả các cb hàng ngày đến đn trong khoảng từ 8 rưỡi đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "sức chứa của a350 là bao nhiêu",
+        "Text": "suc chua cua a350 la bao nhieu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "cho tôi biết về máy bay a330",
+        "Text": "cho t bit ve may bay a330",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "cho tôi thông tin về máy bay m80",
+        "Text": "cho t thông tin về máy bay m80",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "cho tôi thông tin về loại máy bay có tên là atr 72-500",
+        "Text": "cho t thong tin ve loai may bay co ten la atr 72-500",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "sức chứa của 733 là bao nhiêu",
+        "Text": "sức chứa của 733 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa của boeing 798 là bao nhiêu",
+        "Text": "sức chứa của boeing 798 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "sức chứa trên máy bay m80 là bao nhiêu",
+        "Text": "suc chua tren may bay m80 la bao nhieu",
+        "Label": "capacity"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay đến hoặc đi khỏi đà nẵng từ 8 đến 9 giờ tối",
+        "Text": "liet ke giup toi tat ca cac cb den hoac di khoi dn tu 8 den 9 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê tất cả các chuyến bay đến venezia từ 8 đến 9 giờ tối",
+        "Text": "xin liệt kê tất cả các cb đến venezia từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách tất cả các chuyến bay trên tất cả các loại máy bay đến đà nẵng từ 8 đến 9 giờ tối",
+        "Text": "cho t danh sach tat ca cac cb tren tat ca cac loai may bay den dn tu 8 den 9 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê tất cả các chuyến bay từ thanh hóa đến tuy hòa vào sáng thứ hai",
+        "Text": "xin liet ke tat ca cac cb tu thanh hoa den tuy hoa vao sang thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ huế đến tuy hòa vào sáng thứ hai",
+        "Text": "cho t danh sach cac cb tu hue den tuy hoa vao sang thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào đi từ sân bay tuy hòa vào trung tâm thành phố không nếu tôi đến lúc 8 giờ kém 15 vào buổi sáng",
+        "Text": "có phương tiện giao thông đường bộ nào đi từ sân bay tuy hòa vào trung tâm tp ko nếu tôi đến lúc 8 giờ kém 15 vào buổi sáng",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi các chuyến bay từ tuy hòa đến thành phố hà nội vào đêm thứ hai",
+        "Text": "xin liet ke giup toi cac cb tu tuy hoa den tp hn vao dem thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cvg nghĩa là gì",
+        "Text": "cvg nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ nào đưa đón khách từ sân bay frédéric chopin warszawa đến thành phố warsaw không",
+        "Text": "có phương tiện giao thông đường bộ nào đưa đón khách từ sân bay frédéric chopin warszawa đến thành phố warsaw không",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "có phương tiện giao thông đường bộ từ han đến thành phố thái nguyên không",
+        "Text": "co phuong tien giao thong duong bo tu han den tp thai nguyen ko",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các phương tiện giao thông đường bộ từ sgn đến tp hồ chí minh",
+        "Text": "liet ke giup t cac phuong tien giao thong duong bo tu sgn den tp hcm",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "danh sách các phương tiện giao thông đường bộ từ hph đến thành phố hải phòng",
+        "Text": "danh sách các phương tiện giao thông đường bộ từ hph đến tp hải phòng",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay buổi sáng từ tuy hòa đến thành phố hà nội",
+        "Text": "cho t bit cac cb buoi sang tu tuy hoa den thanh pho ha noi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ thành phố hà nội đến thanh hóa khởi hành sau 5 giờ chiều thứ tư",
+        "Text": "cho t bit các cb từ thành phố hà nội đến thanh hóa khởi hành sau 5 giờ chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết thông tin về phương tiện giao thông đường bộ ở sân bay thanh hóa",
+        "Text": "cho t biet thong tin ve phuong tien giao thong duong bo o san bay thanh hoa",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "các chuyến bay không dừng từ hà nội đến dubrovnik khởi hành sau giữa trưa và đến nơi trước 7 giờ tối",
+        "Text": "các cb không dừng từ hn đến dubrovnik khởi hành sau giữa trưa và đến nơi trước 7 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "hãng hàng không jetstar có bao nhiêu chuyến bay đến huế",
+        "Text": "hang hang ko jetstar co bao nhieu cb den hue",
+        "Label": "quantity"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi các chuyến bay của hãng hàng không vietnam airlines từ thượng hải đến bất kỳ đâu",
+        "Text": "liet ke giup t cac chuyen bay cua hang hang ko vietnam airlines tu thuong hai den bat ky dau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin cho tôi danh sách các chuyến bay của hãng hàng không jetstar từ huế",
+        "Text": "xin cho t danh sách các cb của hãng hk jetstar từ huế",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vna là hãng hàng không nào",
+        "Text": "vna là hãng hàng ko nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Original_Text": "cho tôi các chuyến bay của jetstar pacific đến venezia",
+        "Text": "cho t các cb của jetstar pacific đến venezia",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi xin các chuyến bay của hãng hàng không bamboo airways khởi hành từ hạ long",
+        "Text": "cho toi xin cac cb cua hang hk bamboo airways khoi hanh tu ha long",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay của jetstar pacific",
+        "Text": "liet ke giup toi tat ca cac cb cua jetstar pacific",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách tất cả các chuyến bay cất cánh ở hải phòng",
+        "Text": "cho toi danh sach tat ca cac chuyen bay cat canh o hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ thanh hóa đến tuy hòa khởi hành trước giữa trưa",
+        "Text": "danh sach cac chuyen bay tu thanh hoa den tuy hoa khoi hanh truoc giua trua",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách giá vé rẻ nhất từ đà nẵng đến phú quốc",
+        "Text": "cho tôi danh sách giá vé rẻ nhất từ đn đến phú quốc",
+        "Label": "airfare"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay sớm từ đà nẵng đến đà lạt vào buổi sáng",
+        "Text": "t muon mot cb som tu da nang den da lat vao buoi sang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay buổi sáng từ đà nẵng đến điện biên phủ",
+        "Text": "t mún một cb buổi sáng từ đà nẵng đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay buổi sáng từ mumbai đến đà nẵng",
+        "Text": "t mún một cb buổi sáng từ mumbai đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay buổi tối từ điện biên phủ đến côn đảo",
+        "Text": "t mún một cb buổi tối từ điện biên phủ đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay khởi hành vào chủ nhật từ hà tiên kiên giang đến tuy hòa phú yên",
+        "Text": "tôi mún một cb khởi hành vào chủ nhật từ hà tiên kiên giang đến tuy hòa phú yên",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay vào thứ ba khởi hành từ sài gòn đến thành đô tứ xuyên và khởi hành vào buổi chiều",
+        "Text": "toi mun mot cb vao thu ba khoi hanh tu sai gon den thanh do tu xuyen va khoi hanh vao buoi chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn rời đi vào buổi sáng thứ năm từ thanh hóa đến cam ranh",
+        "Text": "tôi muốn rời đi vào buổi sáng thứ năm từ thanh hóa đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn có một chuyến bay vào sáng thứ sáu từ cam ranh đến bangkok",
+        "Text": "tôi muốn có một chuyến bay vào sáng thứ sáu từ cam ranh đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ hà nội đến huế của vietnam airlines",
+        "Text": "t mún một chuyến bay từ hà nội đến huế của vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "loại máy bay nào được sử dụng cho chuyến bay của vietnam airlines khởi hành lúc 4 giờ 20 chiều",
+        "Text": "loai may bay nao dc su dung cho chuyen bay cua vietnam airlines khoi hanh luc 4 gio 20 chieu",
+        "Label": "aircraft"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay rời hạ long đến thành phố hồ chí minh khởi hành vào thứ tư tới và trở về vào ngày hôm sau",
+        "Text": "t cần một cb rời hạ long đến tp hcm khởi hành vào thứ tư tới và trở về vào ngày hôm sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "những chuyến bay nào đi từ đà nẵng đến cam ranh",
+        "Text": "nhung cb nao di tu dn den cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ tuy hòa đến phú quốc",
+        "Text": "cac chuyen bay tu tuy hoa den phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ phú quốc đến hải phòng",
+        "Text": "cac cb tu phu quoc den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ hải phòng đến tuy hòa",
+        "Text": "cac cb tu hai phong den tuy hoa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có những loại phương tiện giao thông đường bộ nào tại sân bay phú quốc",
+        "Text": "co nhung loai phuong tien giao thong duong bo nao tai san bay phu quoc",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "có dịch vụ taxi ở sân bay thành cát tư hãn không",
+        "Text": "co dich vu taxi o san bay thanh cat tu han khong",
+        "Label": "ground_service"
+    },
+    {
+        "Original_Text": "các chuyến bay từ quảng nam đến cần thơ",
+        "Text": "cac cb tu quang nam den can tho",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ cần thơ đến hải phòng",
+        "Text": "cac cb tu can tho den hai phong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ václav havel đến hà nội của turkish airlines",
+        "Text": "cac chuyeens bay tu vaclav havel den hn cua turkish airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay vào các ngày thứ hai đi từ quy nhơn bình định đến phú quốc kiên giang",
+        "Text": "cac chuyen bay vao cac ngay thu hai di tu quy nhon binh dinh den phu quoc kien giang",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ phan rang ninh thuận đến vân đồn quảng ninh vào thứ ba",
+        "Text": "cac chuyen bay tu phan rang ninh thuan den van don quang ninh vao thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay vào thứ năm khởi hành từ rạch giá kiên giang đến huế",
+        "Text": "các chuyeens bay vào thứ năm khởi hành từ rạch giá kiên giang đến huế",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ cam ranh đến pisa toscana khởi hành vào thứ sáu",
+        "Text": "các cb từ cam ranh đến pisa toscana khởi hành vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ hồ chí minh đến amsterdam có trạm dừng ở bangkok",
+        "Text": "cac cb tu hcm den amsterdam co tram dung o bangkok",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay buổi sáng từ huế đến cần thơ vào thứ hai tới",
+        "Text": "t cần một cb buổi sáng từ huế đến cần thơ vào thứ hai tới",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "còn một chuyến bay từ cần thơ đến cam ranh cất cánh vào đêm ngày thứ hai thì sao",
+        "Text": "còn một cb từ cần thơ đến cam ranh cất cánh vào đêm ngày thứ hai thì sao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "và một chuyến bay từ cam ranh đến huế khởi hành vào buổi chiều thứ ba",
+        "Text": "va mot cb tu cam ranh den hue khoi hanh vao buoi chieu thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "thế còn một chuyến bay khởi hành vào đêm thứ ba từ cam ranh đến huế thì sao",
+        "Text": "the con mot chuyeens bay khoi hanh vao dem thu ba tu cam ranh den hue thi sao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ bắc kinh đến sân bay phù cát hạ cánh vào thứ bảy trước 6 giờ chiều",
+        "Text": "toi can mot cb tu bac kinh den san bay phu cat ha canh vao thu bay truoc 6 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn một chuyến bay từ phú quốc đến sân bay điện biên phủ hạ cánh vào thứ bảy trước 6 giờ chiều",
+        "Text": "t muốn một cb từ phú quốc đến sân bay điện biên phủ hạ cánh vào thứ bảy trước 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay của hãng hàng không vietnam airlines từ manila đến thành phố hồ chí minh mà hạ cánh lúc khoảng 5 giờ chiều",
+        "Text": "toi can mot cb cua hang hang khong vietnam airlines tu manila den tp hcm ma ha canh luc khoang 5 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi cần một chuyến bay từ hongkong đến đà lạt đi qua đà nẵng",
+        "Text": "t cần một cb từ hongkong đến đà lạt đi qua đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay giữa hà nội và san francisco california khởi hành sau 6 giờ chiều",
+        "Text": "cac cb giua hn va san francisco california khoi hanh sau 6 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay không nghỉ giữa hà nội và houston texas",
+        "Text": "cac cb ko nghi giua hn va houston texas",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay không nghỉ giữa pleiku và huế",
+        "Text": "các cb ko nghỉ giữa pleiku và huế",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay giữa tuy hòa và hà nội vào thứ tư",
+        "Text": "cac cb giua tuy hoa va hn vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay của vietnam airlines từ điện biên phủ đến thanh hóa",
+        "Text": "cac chuyen bay cua vietnam airlines tu dien bien phu den thanh hoa",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "các chuyến bay từ hải phòng đến phú quốc có một điểm dừng ở thành phố hồ chí minh",
+        "Text": "cac chuyeens bay tu hai phong den phu quoc co mot diem dung o tp hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê các chuyến bay từ đà nẵng đến côn minh",
+        "Text": "xin liet ke cac chuyen bay tu dn den con minh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "xin liệt kê giúp tôi các chuyến bay từ osaka đến điện biên phủ",
+        "Text": "xin liet ke giup t cac cb tu osaka den dien bien phu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi danh sách các chuyến bay từ điện biên phủ đến đà nẵng",
+        "Text": "cho tôi danh sách các cb từ điện biên phủ đến đn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "danh sách các chuyến bay từ hà nội đến huế của hãng hàng không vietnam airlines",
+        "Text": "danh sach cac cb tu hn den hue cua hang hang ko vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ hạ long đến thành phố hồ chí minh vào ngày 16 tháng 6",
+        "Text": "cho t bit các chuyến bay từ hạ long đến tp hồ chí minh vào ngày 16 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết các chuyến bay từ thành phố hồ chí minh đến hạ long vào ngày 17 tháng 8",
+        "Text": "cho t bit cac cb tu thanh pho hcm den ha long vao ngay 17 thang 8",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê giúp tôi tất cả các chuyến bay từ hạ long đến thành đô vào ngày 16 tháng 6",
+        "Text": "liệt kê giúp tôi tất cả các cb từ hạ long đến thành đô vào ngày 16 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "liệt kê cho tôi tất cả các chuyến bay từ thành phố hồ chí minh đến hạ long vào ngày 17 tháng 9",
+        "Text": "liệt kê cho t tất cả các cb từ thành phố hồ chí minh đến hạ long vào ngày 17 tháng 9",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đi từ huế đến cần thơ",
+        "Text": "tôi muốn đi từ huế đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể tìm cho tôi một chuyến bay từ thành phố bắc kinh đến thành phố hà nội vào thứ bảy tới và đến trước 6 giờ chiều được không",
+        "Text": "bạn có thể tìm cho t một cb từ tp bắc kinh đến tp hn vào thứ bảy tới và đến trước 6 giờ chiều đc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể tìm cho tôi một chuyến bay khác từ hà nội đến havana vào thứ bảy trước 6 giờ chiều được không",
+        "Text": "ban co the tim cho t mot cb khac tu hn den havana vao thu bay truoc 6 gio chieu dc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bạn có thể liệt kê tất cả các chuyến bay jetstar từ thành phố hồ chí minh đến hà nội vào thứ bảy tới mà đến trước 6 giờ chiều được không",
+        "Text": "ban co the liet ke tat ca cac chuyen bay jetstar tu tp ho chi minh den hn vao thu bay toi ma den truoc 6 gio chieu dc ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ manila đến thành phố hồ chí minh trên các chuyến bay của hãng hàng không vietnam airlines hạ cánh vào khoảng 5 giờ chiều",
+        "Text": "t mun bay tu manila den tp hcm tren cac cb cua hang hang ko vietnam airlines ha canh vao khoang 5 gio chieu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đi từ hạ long đến thành phố hồ chí minh vào thứ tư tới",
+        "Text": "toi muon di tu ha long den tp ho chi minh vao thu tu toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn có một chuyến bay khứ hồi từ hạ long đến cần thơ vào thứ tư ngày 26 tháng 5 , hạ cánh lúc 7 giờ tối",
+        "Text": "t muon co mot cb khu hoi tu ha long den can tho vao thu tu ngay 26 thang 5 , ha canh luc 7 gio toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "vâng tôi muốn tìm một chuyến bay từ hà nội đến lisbon và có 1 trạm dừng ở doha",
+        "Text": "vâng t mún tìm một cb từ hn đến lisbon và có 1 trạm dừng ở doha",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi chuyến bay từ sài gòn đến hải phòng vào sáng thứ hai",
+        "Text": "tìm cho t cb từ sài gòn đến hải phòng vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi chuyến bay từ hải phòng đến huế vào thứ hai",
+        "Text": "tim cho t cb tu hai phong den hue vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi chuyến bay từ huế đến sài gòn vào thứ ba",
+        "Text": "tim cho t cb tu hue den sai gon vao thu ba",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi chuyến bay từ hà nội đến lisbon vào thứ hai",
+        "Text": "tim cho t cb tu ha noi den lisbon vao thu hai",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi chuyến bay từ hà nội đến manchester vào thứ tư",
+        "Text": "tim cho t cb tu hn den manchester vao thu tu",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi chuyến bay từ hải phòng đến birmingham vào thứ sáu",
+        "Text": "tim cho t chuyen bay tu hai phong den birmingham vao thu sau",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi chuyến bay từ tuy hòa đến điện biên phủ vào chủ nhật",
+        "Text": "tìm giúp t chuyeens bay từ tuy hòa đến điện biên phủ vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi một chuyến bay của vietnam airlines từ điện biên phủ đến thanh hóa vào khoảng 6 giờ 30 tối",
+        "Text": "tim giup t mot chuyen bay cua vietnam airlines tu dien bien phu den thanh hoa vao khoang 6 gio 30 toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi một chuyến bay khứ hồi từ hà nội đến chicago illinois với điểm dừng chân ở tokyo không vượt quá mức giá 30 triệu vào ngày 10 tháng 6 năm 2021",
+        "Text": "tim giup t mot cb khu hoi tu ha noi den chicago illinois voi diem dung chan o tokyo khong vuot qua muc gia 30 trieu vao ngay 10 thang 6 nam 2021",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có chuyến bay nào vào ngày 10 tháng 6 từ huế đến đà lạt không",
+        "Text": "có cb nào vào ngày 10 tháng 6 từ huế đến đà lạt ko",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm giúp tôi một chuyến bay một chiều từ hải phòng đến phú quốc , tạm dừng ở thành phố hồ chí minh vào ngày 17 tháng 5 mà có phục vụ bữa tối",
+        "Text": "tim giup t mot cb mot chieu tu hai phong den phu quoc , tam dung o thanh pho hcm vao ngay 17 thang 5 ma co phuc vu bua toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đặt một chuyến bay từ huế đến cần thơ",
+        "Text": "tôi mún đặt một cb từ huế đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các chuyến bay từ huế đến côn đảo",
+        "Text": "cho t bit tat ca cac cb tu hue den con dao",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi tất cả các chuyến bay từ cần thơ đến cam ranh",
+        "Text": "tìm cho tôi tất cả các cb từ cần thơ đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "bây giờ hãy cho tôi tất cả các chuyến bay từ cam ranh đến huế",
+        "Text": "bây giờ hãy cho t tất cả các cb từ cam ranh đến huế",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "có hãng hàng không nào có các chuyến bay từ huế đến cần thơ , cần thơ đến cam ranh và từ cam ranh đến huế không",
+        "Text": "có hãng hàng ko nào có các cb từ huế đến cần thơ , cần thơ đến cam ranh và từ cam ranh đến huế ko",
+        "Label": "airline"
+    },
+    {
+        "Original_Text": "tìm cho tôi tất cả các chuyến bay khứ hồi từ manchester đến hà nội và dừng ở hongkong",
+        "Text": "tim cho t tat ca cac cb khu hoi tu manchester den hn va dung o hongkong",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đặt hai chuyến bay đến phú quốc",
+        "Text": "t mun dat hai cb den phu quoc",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đặt một chuyến bay từ thành phố dublin đến sài gòn",
+        "Text": "tôi muốn đặt một cb từ thành phố dublin đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các sân bay nằm gần thành phố messina",
+        "Text": "cho toi bit tat ca cac san bay nam gan tp messina",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "tôi muốn đặt một chuyến bay từ hà nội đến thành phố cần thơ của bamboo vào thứ bảy tới",
+        "Text": "t mún đặt một cb từ hn đến tp cần thơ của bamboo vào thứ bảy tới",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "cho tôi biết tất cả các sân bay trong khu vực thành phố hà nội",
+        "Text": "cho tôi bit tất cả các sân bay trong khu vực tp hn",
+        "Label": "airport"
+    },
+    {
+        "Original_Text": "tìm giúp tôi tất cả các chuyến bay từ hà nội đến bất kỳ sân bay nào trong khu vực thành phố paris hạ cánh vào trước 6 giờ chiều thứ bảy tới",
+        "Text": "tim giup t tat ca cac cb tu hn den bat ky san bay nao trong khu vuc thanh pho paris ha canh vao truoc 6 gio chieu thu bay toi",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi một chuyến bay từ hà nội đến các sân bay ở thành phố thượng hải",
+        "Text": "tìm cho t một cb từ hn đến các sân bay ở tp thượng hải",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn bay từ rotterdam đến thành phố hồ chí minh trên các chuyến bay của turkish airlines",
+        "Text": "tôi mún bay từ rotterdam đến tp hồ chí minh trên các cb của turkish airlines",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tôi muốn đặt một chuyến bay khứ hồi từ hạ long đến thành phố hồ chí minh",
+        "Text": "toi mun dat mot cb khu hoi tu ha long den thanh pho hcm",
+        "Label": "flight"
+    },
+    {
+        "Original_Text": "tìm cho tôi một chuyến bay từ tuy hòa đến đà lạt",
+        "Text": "tìm cho tôi một chuyeens bay từ tuy hòa đến đà lạt",
+        "Label": "flight"
+    }
+]

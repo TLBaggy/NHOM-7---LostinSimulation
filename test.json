@@ -1,0 +1,3574 @@
+[
+    {
+        "Text": "tôi muốn tìm một chuyến bay từ đà nẵng đến phú quốc và có một trạm dừng ở cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào ngày mùng 1 tháng 4 tôi cần một vé từ sevilla đến hà nội khởi hành trước 7 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào ngày 12 tháng 8 tôi cần một chuyến bay đi từ tuy hòa đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay một chiều đi từ phú quốc đến buôn ma thuột vào ngày mùng 6 tháng 12",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn có một chuyến bay từ quy nhơn đến thành phố hà nội vào ngày mùng 4 tháng 4 của hãng hàng không jetstar",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay một chiều từ cam ranh đến điện biên phủ khởi hành vào buổi tối thứ tư hoặc buổi sáng ngày thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "sáng thứ hai tôi muốn bay từ cà mau đến thanh hóa",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào thứ tư ngày mùng sáu tháng tư tôi muốn bay từ cam ranh đến côn đảo sau 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "sau 12 giờ trưa thứ tư ngày mùng sáu tháng tư tôi muốn bay từ đà nẵng đến cà mau",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào từ hải phòng đến pleiku vào thứ tư ngày mùng sáu tháng tư không",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm một chuyến bay từ hạ long đến đà lạt có phục vụ bữa tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay khởi hành từ hạ long đi thành phố hồ chí minh vào thứ tư tới và hạ cánh ở thành phố hồ chí minh vào khoảng 7 giờ tối chuyến bay trở về vào thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "hiển thị các chuyến bay và giá tương ứng từ hạ long đến thành phố hồ chí minh vào ngày thứ tư tới và đến thành phố hồ chí minh trước 7 giờ tối",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "chuyến bay của vietnam airlines từ manila đến thành phố hồ chí minh hạ cánh ở thành phố hồ chí minh vào khoảng 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi các chuyến bay đến thành phố hà nội vào thứ bảy tới",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi các chuyến bay không nghỉ từ thành phố bắc kinh đến hà nội vào thứ bảy ngày mùng 9 tháng tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem các chuyến bay từ huế đến cần thơ vào hôm nay",
+        "Label": "flight"
+    },
+    {
+        "Text": "hiển thị cho tôi các chuyến bay vào tối mai từ cần thơ đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay vào tối thứ bảy từ cam ranh đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem các chuyến bay từ huế đến cam ranh vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "hiển thị giúp tôi các chuyến bay từ huế đến cần thơ vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem các chuyến bay vào buổi tối thứ ba từ cam ranh đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể cho tôi xem các chuyến bay vào tối thứ tư từ cam ranh đến huế được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ hạ long đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ phú quốc đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ thành phố hồ chí minh đến đà nẵng vào ngày 9 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ phú quốc đến hội an quảng nam và hạ cánh vào ngày 9 tháng 4 trong khoảng từ 4 đến 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào của bamboo airways đi từ quy nhơn đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ điện biên phủ đến thanh hóa vào ngày mùng 5 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ thanh hóa đến sài gòn vào ngày mùng 5 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ thành phố vinh đến hà nội vào ngày mùng 5 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ thanh hóa đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "sân bay đà lạt có cung cấp dịch vụ đưa đón từ sân bay đến khu vực trung tâm thành phố không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "chuyến bay nào đi từ đà lạt đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ thanh hóa đến đà lạt bay vào ngày nào trong tuần",
+        "Label": "day_name"
+    },
+    {
+        "Text": "có các chuyến bay nào bay từ đà lạt đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ hà nội đến tuy hòa bay vào những ngày nào trong tuần",
+        "Label": "day_name"
+    },
+    {
+        "Text": "các chuyến bay nào đi từ đà lạt đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay đi từ hạ long đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào từ hà nội đến washington nối chuyến ở boston không",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào từ hà nội đến paris nối chuyến ở doha không",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay này có phục vụ bữa tối không",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ đà nẵng đến manila",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay không nghỉ từ manila đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay không dừng từ đà nẵng đến singapore",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ sydney đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ cam ranh đến sydney",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay của vietnam airlines từ vân đồn đến hongkong",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ tam kỳ đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ cần thơ đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "những bữa ăn nào được phục vụ trên chuyến bay 1409 của vietnam airlines từ quảng nam đến cần thơ",
+        "Label": "meal"
+    },
+    {
+        "Text": "những bữa ăn nào được phục vụ trên chuyến bay 665 673 của vietjet từ đà nẵng đến osaka",
+        "Label": "meal"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ tuy hòa đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ phú quốc đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ hải phòng đến tuy hòa",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ hà nội đến palermo và dừng ở norwich",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào cất cánh ở hàng châu sau giữa trưa thứ bảy tới và hạ cánh ở đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào đi từ huế và đến cam ranh vào khoảng 9 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay nào của hãng hàng không vietjet rời khỏi huế và đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào rời thành phố hồ chí minh vào thứ ba tới và đến huế vào khoảng 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi từ thành phố hồ chí minh đến huế khởi hành vào thứ ba tới và quay trở lại vào ngày hôm sau",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay khứ hồi nào rời thành phố hồ chí minh vào thứ ba tới vào khoảng 6 giờ chiều và đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay khứ hồi nào rời thành phố hồ chí minh vào thứ ba tới và đến huế vào khoảng 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành vào thứ hai từ bangkok và đến thành phố hồ chí minh vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào rời thành phố hồ chí minh vào ngày 12 tháng 4 và đến thanh hóa vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành vào thứ tư ngày 13 tháng 4 từ thanh hóa và đến bangkok vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành ngày 12 tháng 4 từ thanh hóa và đến bangkok vào khoảng 10 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đi từ hà nội đến hamburg và tôi muốn dừng lại ở london tôi cũng muốn ăn trưa trong chuyến bay",
+        "Label": "flight"
+    },
+    {
+        "Text": "thứ tư tới tôi muốn rời hạ long trên một chuyến đi đến thành phố hồ chí minh mà sẽ đến thành phố hồ chí minh vào khoảng 7 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn trở về hạ long từ thành phố hồ chí minh vào khoảng 7 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn khởi hành chiều nay trên một chuyến bay của vietnam airlines từ hà nội đến cincinati",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào buổi tối chủ nhật tôi muốn rời san diego california trên một chuyến bay đến palermo sicilly",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay nào bay vào chủ nhật từ montreal quebec đến san francisco california",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào từ san diego california đến milan lombardia khởi hành vào thứ 3 không tôi muốn bay vào buổi chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào sáng thứ năm tôi muốn một chuyến bay không nghỉ từ đài bắc đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào sáng thứ sáu tôi muốn bay từ cam ranh đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay vào sáng sớm hôm nay từ đà nẵng đến kyoto",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào đêm thứ tư tôi muốn một chuyến bay từ đà nẵng đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào đêm thứ sáu tôi muốn một chuyến bay từ điện biên phủ đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi một chuyến bay từ quảng nam đến bangkok nối chuyến qua thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi một chuyến bay từ miami florida đi hạ long quảng ninh đến nơi trước 4 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm hộ tôi một chuyến bay từ phú quốc đến tây ninh",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin tìm cho tôi một chuyến bay từ hạ long quảng ninh đến cam ranh hạ cánh trước 10 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể giúp tôi tìm một chuyến bay từ cam ranh đến manila vào thứ năm không",
+        "Label": "flight"
+    },
+    {
+        "Text": "vui lòng tìm giúp tôi một chuyến bay từ sài gòn đến cam ranh của vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi các chuyến bay từ hà nội đến norwich có dừng ở thành phố hồ chí minh vào ngày mai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không dừng từ hà nội đến tây an có phục vụ bữa tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin tìm cho tôi các chuyến bay còn chỗ từ thành phố vinh đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "vui lòng tìm một chuyến bay đi từ thành phố hồ chí minh đến tokyo rồi đến geneva và trở lại thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "vui lòng tìm giúp tôi một chuyến bay từ thành phố hải phòng đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi một chuyến bay từ điện biên phủ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm hộ tôi một chuyến bay từ quy nhơn đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ frankfurt đến hải phòng qua hà nội vào buổi chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết có các sân bay nào ở thâm quyến",
+        "Label": "airport"
+    },
+    {
+        "Text": "sân bay ở huế có chuyến bay đến từ hạ long không",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào đến huế từ hạ long vào buổi chiều các ngày thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào đến huế từ phú quốc vào buổi chiều thứ bảy ngày 23 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào còn vé từ quy nhơn đến điện biên phủ và đến vào khoảng 10 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "có những chuyến bay nào từ thanh hóa đến sài gòn vào ngày 21 tháng 4 vào cuối buổi chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào rời đà lạt và đi đến thanh hóa vào buổi sáng ngày 21 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào còn ghế vào sáng ngày 21 tháng 4 từ thanh hóa đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào có sẵn từ đà lạt đến hà nội vào sáng ngày 20 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "có những chuyến bay nào từ hà nội đến thanh hóa khởi hành vào sáng ngày 23 tháng 4",
+        "Label": "flight"
+    },
+    {
+        "Text": "giá vé một chiều đắt nhất giữa huế và phú quốc là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "những hãng hàng không nào có chuyến bay giữa huế và phú quốc",
+        "Label": "airline"
+    },
+    {
+        "Text": "thời gian khởi hành của chuyến bay từ huế đến phú quốc là mấy giờ",
+        "Label": "flight_time"
+    },
+    {
+        "Text": "chuyến bay muộn nhất nào từ cam ranh đến aarhus có phục vụ bữa tối ?",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay sớm nhất giữa cam ranh và aarhus có phục vụ bữa sáng là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "hãng hàng không vietnam airlines cung cấp các chuyến bay hạng nhất khởi hành từ hạ long đến những thành phố nào",
+        "Label": "city"
+    },
+    {
+        "Text": "hãng hàng không nào bay từ hạ long đến sài gòn",
+        "Label": "airline"
+    },
+    {
+        "Text": "chuyến bay nào có phục vụ bữa sáng mà khởi hành muộn nhất từ đà lạt đến quảng nam",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay của vietjet từ hải phòng đến busan với các điểm dừng ở hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ seoul đến hạ long với các điểm dừng ở hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ istanbul đến thành phố hồ chí minh có điểm dừng ở bangkok",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay chuyển tiếp giữa hạ long và đà nẵng và các loại máy bay được sử dụng",
+        "Label": "aircraft#flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay buổi sáng từ melbourne đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ hạ long đến rạch giá",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xin thông tin về chuyến bay 608 của vietjet air từ hạ long đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem tất cả các chuyến bay từ thanh hóa đến đà lạt vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào giữa sân bay thành cát tư hãn ulan bator và trung tâm thành phố ulan bator",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi xem tất cả các chuyến bay từ đà nẵng đến chu lai khởi hành lúc 2 giờ chiều hoặc muộn hơn vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ đà nẵng đến chu lai vào sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay trực tiếp từ đà nẵng đến chu lai vào sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "vui lòng cho tôi thông tin của chuyến bay vn 1500 vào thứ hai từ đà nẵng đến chu lai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem tất cả các chuyến bay từ chu lai đến thanh hóa vào thứ ba khởi hành sau 2 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ chu lai đến ninh thuận",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ chu lai đến thanh hóa vào chiều thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết chuyến bay vn 1207 từ thanh hóa đến đà nẵng vào thứ hai và chuyến bay vn 1500 từ đà nẵng đến chu lai vào thứ hai và chuyến bay bl 639 từ chu lai đến thanh hóa",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ phú quốc đến thành phố hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "có các hãng hàng không khác nhau nào đi từ phú quốc đến thành phố hà nội",
+        "Label": "airline"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay của jetstar pacific và vj từ phú quốc đến vii vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ đà lạt đến manila khởi hành sau 6 giờ chiều ngày mai",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ sài gòn đến đà nẵng vào ngày 10 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào của hãng hàng không vietnam airlines từ pleiku đến điện biên phủ vào ngày 10 tháng 6 sau 6 giờ chiều không",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào của hãng hàng không vietnam airlines từ buôn ma thuột đến điện biên phủ vào ngày 10 tháng 6 sau 3 giờ chiều không",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần đi từ hà nội đến đà nẵng vào ngày mùng 6 tháng 6 trước 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "các loại phương tiện giao thông đường bộ nào có ở đà nẵng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "giá cước taxi đến đà nẵng là bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "giá vé cho các phương tiện giao thông đường bộ ở đà nẵng là bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "tôi cần bay từ đà nẵng đến phú quốc vào ngày 7 tháng 6 sau 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "các loại phương tiện giao thông đường bộ nào có ở phú quốc",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần một chuyến bay của hãng hàng không jetstar pacific vào ngày 8 tháng 6 từ phú quốc đến hà nội sau 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay nào của hãng hàng không jetstar pacific nào vào ngày 8 tháng 6 đi từ phú quốc đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "vào ngày 8 tháng 6 có những chuyến bay nào đi từ phú quốc đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "vietnam airlines có chuyến bay nào bay từ hà nội đến đà nẵng vào ngày 6 tháng 6 không",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ hà nội đến đà nẵng vào ngày 6 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ đà nẵng đến phú quốc vào ngày 7 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê các chuyến bay từ phú quốc đến hà nội vào ngày 8 tháng 1",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ hà nội đến phú quốc vào ngày 6 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ phú quốc đến đà nẵng vào ngày 7 tháng 12",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ đà nẵng đến hà nội vào ngày 8 tháng 11",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê giúp các chuyến bay từ đà nẵng đến hà nội vào ngày 6 tháng 10 sau 4 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể liệt kê giúp tôi các chuyến bay từ hà nội đến điện biên phủ vào ngày mùng 7 tháng 11 được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ phú quốc đến hà nội vào ngày mùng mười tháng bảy khởi hành sau 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "hãng hàng không nào khởi hành từ tuy hòa trong khoảng từ 6 đến 10 giờ sáng ngày mùng tám tháng sáu",
+        "Label": "airline"
+    },
+    {
+        "Text": "chuyến bay nào đến rạch giá vào ngày mùng sáu tháng sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ bangkok đến đà nẵng trước 9 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ điện biên phủ đến tuy hòa",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ tuy hòa đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi các chuyến bay từ đà nẵng đến cam ranh hạ cánh vào ngày 1 tháng 7",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ đà lạt đến cam ranh hạ cánh vào ngày mùng 1 tháng 7",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ vinh đến cam ranh sẽ đến nơi vào ngày 1 tháng 7",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay của hãng hàng không quốc tế bamboo airways",
+        "Label": "flight"
+    },
+    {
+        "Text": "có bao nhiêu chuyến bay của hãng hàng không quốc tế vietnam airlines sử dụng airbus a321",
+        "Label": "quantity"
+    },
+    {
+        "Text": "có bao nhiêu chuyến bay của hãng hàng không quốc tế singapore sử dụng máy bay a320",
+        "Label": "quantity"
+    },
+    {
+        "Text": "có bao nhiêu chuyến bay của hãng hàng không vietnam airlines sử dụng máy bay boeing 787",
+        "Label": "quantity"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của hãng hàng không jetstar bay từ busan đến hải phòng việt nam với một điểm dừng chân ở hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của aeroflot đi từ hà nội đến norwich norfolk theo đường bay qua moscow",
+        "Label": "flight"
+    },
+    {
+        "Text": "sân bay nào nằm gần ontario california nhất",
+        "Label": "airport"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ pleiku đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ quy nhơn đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem các chuyến bay từ huế đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết giá vé khứ hồi hạng hai rẻ nhất từ phú quốc đến huế",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi giá vé khứ hồi hạng hai rẻ nhất của vna từ phú quốc đến huế",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi xem những chuyến bay của jetstar có phục vụ đồ ăn nhẹ cho hành khách phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã bữa ăn sb có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "những bữa ăn nào được phục vụ trên chuyến bay vj 121 mà sẽ đến thành phố hồ chí minh lúc 9 giờ 50 sáng",
+        "Label": "meal"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của jetstar từ quảng nam đến thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết chuyến bay số hiệu 281 của bamboo airways",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay aeroflot vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê tất cả các chuyến bay aeroflot có phục vụ bữa ăn",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào khởi hành từ cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ cam ranh và đến thành phố hồ chí minh vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ hà nội vào buổi sáng và đến quảng nam",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ quảng nam và đến hà nội vào buổi tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ tam kỳ vào đầu buổi tối và đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ melbourne và đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ hạ long và đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ cam ranh và đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ hà nội và đến đà nẵng sau 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "sân bay galileo galilei ở pisa cách trung tâm thành phố bao xa",
+        "Label": "distance"
+    },
+    {
+        "Text": "sân bay quốc tế đà nẵng cách trung tâm thành phố bao xa",
+        "Label": "distance"
+    },
+    {
+        "Text": "sân bay quốc tế nội bài cách trung tâm thành phố bao xa",
+        "Label": "distance"
+    },
+    {
+        "Text": "sân bay quốc tế tân sơn nhất cách trung tâm thành phố bao xa",
+        "Label": "distance"
+    },
+    {
+        "Text": "dịch vụ xe limousine ở hạ long có giá khoảng bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "dịch vụ xe limousine ở sân bay phù cát có giá bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "dịch vụ xe limousine ở sân bay quốc tế vân đồn có giá bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "dịch vụ xe limousine ở đà nẵng là bao nhiêu",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "những hãng hàng không nào bay giữa washington dc và buôn ma thuột đắk lắk",
+        "Label": "airline"
+    },
+    {
+        "Text": "có những chuyến bay nào giữa washington dc và cẩm phả quảng ninh",
+        "Label": "flight"
+    },
+    {
+        "Text": "có các chuyến bay nào giữa washington dc và móng cái quảng ninh",
+        "Label": "flight"
+    },
+    {
+        "Text": "giá vé của tất cả các chuyến bay giữa washington và hà nội là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "tại sân bay đà nẵng có bao nhiêu loại máy bay khác nhau của bamboo airways",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "liệt kê cho tôi tất cả các chuyến bay của bamboo airways đến đà nẵng vào thứ bảy lúc 1 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "giá vé máy bay khứ hồi hạng nhất từ india indianapolis đến memphis là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay từ cam ranh đến hongkong",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay và giá vé của chúng từ thanh hóa đến tuy hòa vào sáng thứ hai",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "xin liệt kê tất cả các chuyến bay và giá vé tương ứng từ cao hùng đến đà nẵng vào buổi tối thứ tư",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "liệt kê cho tôi tất cả các chuyến bay giữa manila và hạ long cùng giá vé của chúng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "liệt kê cho tôi tất cả các chuyến bay từ thành phố điện biên phủ đến hạ long vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay từ hạ long đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê tất cả các chuyến bay từ điện biên phủ đến thanh hóa",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê hộ tôi tất cả các chuyến bay từ thanh hóa đến điện biên phủ vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay vào chủ nhật từ điện biên phủ đến thanh hóa và giá vé của chúng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "những hãng hàng không nào khởi hành từ cam ranh",
+        "Label": "airline"
+    },
+    {
+        "Text": "hãng hàng không nào bay từ cam ranh đến thành phố hồ chí minh",
+        "Label": "airline"
+    },
+    {
+        "Text": "một chuyến bay từ cam ranh đến thành phố hồ chí minh mất bao lâu",
+        "Label": "distance"
+    },
+    {
+        "Text": "chuyến bay nào khởi hành từ hạ long đến phú quốc vào sáng sớm thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào sẽ rời hạ long và đến cam ranh vào gần 2 giờ rưỡi chiều ngày thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin vui lòng liệt kê các chuyến bay từ cam ranh đến sài gòn chuyến khởi hành sau 10 giờ sáng vào sáng thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ sài gòn đến hạ long vào buổi tối thứ sáu có bao gồm một bữa ăn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay vào sáng sớm từ hà nội đến tam kỳ",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay vào đầu buổi tối từ tam kỳ đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê cho tôi các chuyến bay buổi tối từ tam kỳ đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ melbourne đến hạ long vào sáng thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ hạ long đến cam ranh chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ toronto đến washington dc vào sáng thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ washington dc đến melbourne vào chiều thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay trực tiếp từ thành phố hà nội đến đà nẵng sau 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi giá vé máy bay của chuyến bay 19 của hãng hàng không vietnam airlines từ han đến dad",
+        "Label": "airfare"
+    },
+    {
+        "Text": "mã giá vé m nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết khoảng cách đo bằng kilomet từ sân bay vân đồn đến trung tâm hạ long",
+        "Label": "distance"
+    },
+    {
+        "Text": "cho tôi biết khoảng cách từ sân bay peretola ở firenze đến trung tâm thành phố firenze đo bằng kilomet",
+        "Label": "distance"
+    },
+    {
+        "Text": "cho tôi biết khoảng cách đo bằng kilomet từ sân bay quốc tế cam ranh đến trung tâm thành phố cam ranh",
+        "Label": "distance"
+    },
+    {
+        "Text": "liệt kê cho tôi khoảng cách đo bằng kilomet từ sân bay quốc tế tân sơn nhất đến trung tâm thành phố hồ chí minh",
+        "Label": "distance"
+    },
+    {
+        "Text": "cho tôi giá xe limousine ở hạ long",
+        "Label": "ground_fare"
+    },
+    {
+        "Text": "liệt kê các chuyến bay của hãng hàng không vietnam airlines từ pleiku đến cần thơ khởi hành vào chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ pleiku đến cần thơ chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay của hãng hàng không vietnam airlines từ cần thơ đến hà nội khởi hành vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay của vietnam airlines từ hà nội đến đà lạt khởi hành vào chiều thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê cho tôi các chuyến bay từ đà lạt đến pleiku mà đến nơi vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin cho tôi danh sách các hãng hàng không có các chuyến bay từ hải phòng đến thành phố hồ chí minh",
+        "Label": "airline"
+    },
+    {
+        "Text": "sức chứa của máy bay a321 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "vietjet b777 có bao nhiêu chỗ ngồi",
+        "Label": "capacity"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ hải phòng đến thành phố hồ chí minh của vietjet trên máy bay airbus a320",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ hải phòng đến thành phố hồ chí minh của bamboo sử dụng máy bay be1",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay hàng ngày từ hạ long đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ vinh đến điện biên phủ hàng ngày",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay hằng ngày từ điện biên phủ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay của bamboo airways khởi hành vào thứ bảy từ sân bay liên khương lúc 1 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê tất cả các chuyến bay của bamboo airways khởi hành vào thứ bảy từ sân bay phú bài vào khoảng 1 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các giá vé máy bay khứ hồi hạng nhất từ thanh hóa đến đà lạt",
+        "Label": "airfare"
+    },
+    {
+        "Text": "mã giá vé f là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ tuy hòa đến manila vào buổi tối thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ manila đến hà nội vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ ontario california đến milan lombardia",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ san diego california đến salt lake city utah",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ long thành đồng nai đến phan thiết bình thuận vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể liệt kê các chuyến bay từ thành phố nha trang tỉnh khánh hoà đến phoenix arizona vào thứ hai được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin cho tôi danh sách các chuyến bay từ thành phố cam ranh đến phoenix arizona vào thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ pheonix arizona đến ontario california khởi hành vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "những hãng hàng không nào bay từ cam ranh đến thành phố hồ chí minh",
+        "Label": "airline"
+    },
+    {
+        "Text": "giá vé khứ hồi hạng nhất từ huế đến cam ranh là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé máy bay cho một vé khứ hồi hạng nhất từ huế đến cam ranh là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "các chuyến bay vào sáng thứ hai từ hạ long đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay vào buổi sáng thứ hai từ hạ long đến đồng hới",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ côn đảo đến hạ long vào buổi sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ hạ long đến cam ranh vào thứ ba trước 2 giờ 30 phút chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "côn đảo đến rạch giá vào thứ năm sau 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "rạch giá đến hạ long đêm thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "điện biên phủ đến hạ long hạ cánh vào thứ hai trước 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay từ hạ long đến điện biên phủ hạ cánh vào thứ tư trước 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay từ điện biên phủ đến thanh hóa sáng thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "thanh hóa đến điện biên phủ vào chủ nhật trước 9 giờ",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay hạng nhất từ vinh đến điện biên phủ vào buổi sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay từ điện biên phủ đến đà nẵng vào sáng thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "hải phòng đến chu lai vào buổi chiều thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay từ chu lai đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay hạng nhất từ chu lai đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết các chuyến bay khởi hành từ phú quốc đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "hp có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "tôi muốn xem các chuyến bay từ hải phòng đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết các chuyến bay từ chu lai đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn các chuyến bay từ thành phố hồ chí minh đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn xem các chuyến bay từ hà nội đến thành phố bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết các chuyến bay từ hà nội đến manila",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết các chuyến bay từ manila đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay rời thành phố hồ chí minh đến auckland",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần các chuyến bay từ sài gòn đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ sài gòn đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết các chuyến bay từ phú quốc đến thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã giá vé bn nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "tôi muốn xem các hãng hàng không có chuyến bay giữa messina norwich và hà nội",
+        "Label": "airline"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ cam ranh đến thành phố huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ huế đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ cam ranh đến thành phố vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn tìm các chuyến bay từ thành phố hồ chí minh đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết các chuyến bay rời thành phố hồ chí minh đến kuala lumpur",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ thành phố hồ chí minh đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem chuyến bay một chiều từ phú quốc đến quy nhơn khởi hành vào chiều thứ tư sau 6 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều từ phú quốc đến quy nhơn vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng nhất từ đà nẵng đến thành phố hồ chí minh khởi hành trước 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi chuyến khứ hồi rẻ nhất giữa cam ranh và huế đến nơi trước 7 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không dừng từ hạ long đến đôn hoàng",
+        "Label": "flight"
+    },
+    {
+        "Text": "hãng hàng không vj là hãng nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi chuyến khứ hồi hạng nhất rẻ nhất từ hà nội đến manila",
+        "Label": "flight"
+    },
+    {
+        "Text": "bây giờ hãy cho tôi biết tất cả các chuyến đi khứ hồi từ hà nội đến viêng chăn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi chuyến bay một chiều có giá rẻ nhất từ thành phố hồ chí minh đến pleiku",
+        "Label": "flight"
+    },
+    {
+        "Text": "bây giờ hãy cho tôi chuyến bay một chiều rẻ nhất từ pleiku đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi giá vé khứ hồi rẻ nhất từ pleiku đến hạ long",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi giá vé khứ hồi rẻ nhất từ thành phố hồ chí minh đến pleiku",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi giá vé khứ hồi rẻ nhất từ thành phố hồ chí minh đến pleiku vào ngày 28 tháng 2 năm 2021",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi giá vé một chiều rẻ nhất từ thành phố hồ chí minh đến pleiku vào ngày 28 tháng 2 năm 2021",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giờ thì hãy cho tôi xem các phương tiện giao thông đường bộ ở pleiku vào chiều thứ hai",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "bây giờ hãy cho tôi biết các chuyến bay một chiều từ pleiku đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "và bây giờ hãy cho tôi xem các phương tiện di chuyển đường bộ để tôi có thể đến hạ long vào đêm khuya",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi biết các hãng hàng không có các chuyến bay giữa cà mau và hải phòng giữa hải phòng và thanh hóa và giữa thanh hóa và cà mau",
+        "Label": "airline"
+    },
+    {
+        "Text": "hiển thị cho tôi giá vé khứ hồi từ cam ranh đến huế của các hãng hàng không vietnam airlines bamboo airways vietjet air và jetstar pacific",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa huế và đà lạt của các hãng hàng không vietjet bamboo airways vietravel airlines và vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ bangkok đến hà nội và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ bangkok đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay vào chiều thứ sáu trong tháng sáu từ thành phố huế đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ hà nội đến đà nẵng vào tối thứ bảy trên chuyến bay của vietjet air",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay qua đêm từ singapore đến đà nẵng vào buổi tối thứ bảy của singapore airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ hà nội đến đà nẵng vào sáng thứ bảy của bamboo airways",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ thành phố hồ chí minh đến thành phố chu lai vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "sin nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ hải phòng đến washington dc vào đêm thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "thế còn các chuyến bay từ milwaukee đến washington dc vào các buổi sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "có những bữa ăn nào trên chuyến bay 382 từ vân đồn đến washington dc vào buổi sáng thứ ba",
+        "Label": "meal"
+    },
+    {
+        "Text": "tôi sẽ cần thuê một chiếc xe hơi ở washington dc",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi có thể có một chuyến bay vào đêm thứ ba từ washington dc đến thành phố đà lạt không",
+        "Label": "flight"
+    },
+    {
+        "Text": "thế còn chuyến bay khởi hành từ dc đến prague vào sáng thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "chi phí cho chuyến bay của vj từ đà nẵng đến cần thơ là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "q có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mất bao nhiêu tiền để bay từ hà nội đến copenhagen trên chuyến bay khứ hồi của twa",
+        "Label": "airfare"
+    },
+    {
+        "Text": "chuyến bay khứ hồi rẻ nhất từ cà mau đến cam ranh của vna",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay khứ hồi rẻ nhất của vna từ huế đến rạch giá",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ cần thơ đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi có thể có chuyến bay ngắn nhất từ cà mau đến quy nhơn không",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay ngắn nhất từ cần thơ đến đà nẵng là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "m có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "ap 57 nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "chuyến bay ngắn nhất từ cần thơ đến cam ranh là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay ngắn nhất từ cần thơ đến đà nẵng là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay ngắn nhất từ cần thơ đến vinh là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "ap 20 nghĩa là",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "tôi có thể đặt một chuyến bay vào hôm nay từ thành phố hồ chí minh đến detroit michigan được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào rẻ nhất từ thành phố hồ chí minh đến huế hôm nay",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ thành phố hồ chí minh đến đà nẵng và từ đà nẵng đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào rẻ nhất từ thành phố hồ chí minh đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thuê một chiếc xe hơi ở đà nẵng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "chuyến bay nào rẻ nhất vào ngày mai khởi hành từ cần thơ đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "phương tiện giao thông đường bộ nào có thể sử dụng ở đà nẵng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "chuyến bay nào rẻ nhất từ thành phố hồ chí minh đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào khởi hành từ điện biên phủ và đi đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay không nghỉ từ nam kinh đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "vn là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa cam ranh và sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "hph là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mci là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi xem các chuyến bay giữa aarhus và thành phố bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "not sa có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "chuyến bay sớm nhất hàng ngày giữa aarhus và thành phố bắc kinh là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "dl là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "chuyến bay hàng ngày muộn nhất giữa aarhus và thành phố bắc kinh là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa đà nẵng và đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào từ sân bay đà lạt đến trung tâm thành phố đà lạt",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "máy bay boeing 787 có thể chứa bao nhiêu hành khách",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa của a320 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "giữa đà lạt và hải phòng có các chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào giữa sân bay hải phòng và trung tâm thành phố hải phòng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "sức chứa chỗ ngồi của máy bay a321 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "có chuyến bay nào giữa đà lạt và hải phòng sử dụng máy bay airbus a321 không",
+        "Label": "flight"
+    },
+    {
+        "Text": "vj là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa cần thơ và ninh bình",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay giữa cần thơ và vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "phương tiện giao thông đường bộ nào có sẵn giữa sân bay vinh và trung tâm thành phố vinh",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa thành phố vinh và washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào có thể sử dụng giữa lhr và trung tâm thành phố london",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "có các chuyến bay nào giữa vdo và cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào giữa sân bay cần thơ và trung tâm thành phố cần thơ",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "xác định giúp tôi loại máy bay được sử dụng trên chuyến bay từ điện biên phủ đến đà lạt khởi hành trước giữa trưa",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "tìm một chuyến bay giữa phú quốc và đà nẵng chuyến bay sẽ khởi hành vào buổi chiều và đến nơi sớm nhất có thể sau 5 giờ chiều và phải là chuyến bay không nghỉ",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết một chuyến bay của hãng hàng không jetstar từ cam ranh đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê một chuyến bay của hãng hàng không vietnam airlines từ cam ranh đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi một chuyến bay từ cam ranh đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ gothenburg đến thành phố bắc kinh khởi hành sau 17h00 thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi các chuyến bay từ aarhus đến thành phố bắc kinh khởi hành sau nửa đêm thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê hộ tôi các chuyến bay giữa hải phòng và phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ phú quốc đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ cần thơ đến washington dc trước 12 giờ",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ washington dc đến vinh khởi hành sau 18 giờ",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ washington dc đến vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay giữa vinh và cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay đến sài gòn từ washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ điện biên phủ đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ washington dc đến phoenix arizona",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ hải phòng đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ hạ long đến đài bắc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ chiang mai đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ quy nhơn đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ hạ long đến almaty",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ sài gòn đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ washington dc đến san diego",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay khứ hồi từ cao hùng đến washington dc và giá vé của nó",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay khứ hồi từ đôn hoàng đến washington dc khởi hành vào buổi sáng và giá vé tương ứng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "tôi cần thông tin của một chuyến khứ hồi khởi hành vào buổi sáng từ hải phòng đến washington dc và giá vé của nó",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "giá vé thấp nhất cho một chuyến bay từ washington dc đến ko samui là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé thấp nhất từ washington dc đến kuching là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé thấp nhất cho một chuyến bay từ medan đến washington dc là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ hàng châu đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ thanh hóa đến hạ long hạ cánh muộn nhất vào 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ tuy hòa đến padang hạ cánh không muộn hơn 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ phnom penh đi hải phòng và hạ cánh ở hải phòng lúc 12 giờ 05 chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn có một chuyến bay khứ hồi từ tuy hòa đến ninh ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ thanh hóa đến côn đảo và tôi muốn có giá vé khứ hồi rẻ nhất",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "tôi muốn bay một chuyến bay khứ hồi từ sendai đến hải phòng với giá vé rẻ nhất",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "tôi muốn bay một chuyến bay khứ hồi từ côn đảo đến hải phòng với giá vé rẻ nhất",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ quy nhơn đến melbourne",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ thành phố hồ chí minh đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê các chuyến bay từ cần thơ đến port macquarie",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi các chuyến bay từ melbourne đến thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi thông tin về các phương tiện giao thông đường bộ tới cần thơ",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ thành phố hồ chí minh đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ pleiku đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ pleiku đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ rotorua đến thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ điện biên phủ đến pleiku",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ đà nẵng đến pleiku",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi thông tin về các chuyến bay từ cam ranh đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ quy nhơn đến thành phố hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ hạ long đến chu lai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hạ long đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ gold coast đến hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi các chuyến bay từ jaipur đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ washington dc đến colombo",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi giá vé từ washington dc đến new delhi",
+        "Label": "airfare"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ washington dc đến jaipur",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi giá vé tốt từ washington dc đến kolkata",
+        "Label": "airfare"
+    },
+    {
+        "Text": "liệt kê giúp tôi giá vé của các chuyến bay từ washington dc đến thiên tân",
+        "Label": "airfare"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ washington dc đến lisbon",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ washington dc đến kagoshima",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ matsuyama đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ aarhus đến thành phố bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào đi từ đà lạt đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay nào bay từ hải phòng đến thành phố tây an",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay sớm từ cần thơ đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "có những loại phương tiện giao thông đường bộ nào có sẵn ở vô tích",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "những chuyến bay nào đi từ đà nẵng đến vô tích vào buổi sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "các loại phương tiện giao thông đường bộ có hoạt động ở ninh ba không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần bay từ cam ranh đến cần thơ vào chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ san francisco đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ hạ long đến sendai",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ phú quốc đến thành phố vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết thông tin chuyến bay từ tây an đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin cho tôi thông tin về các chuyến bay từ thành phố nam kinh đến pleiku",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi có thể có thông tin chuyến bay về các chuyến bay từ vinh đến hải phòng được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn biết thông tin về các chuyến bay khởi hành từ washington dc đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin về các chuyến bay từ thành phố huế đến hạ long khởi hành vào ngày thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần các chuyến bay từ los angeles đến hà nội vào một ngày thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần giá vé của các chuyến bay từ hà nội đến moscow vào một ngày thứ bảy",
+        "Label": "airfare"
+    },
+    {
+        "Text": "tôi muốn đi từ hạ long đến milan vào một ngày thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ điện biên phủ đến đà lạt , hãy chọn những chuyến bay khởi hành trước giữa trưa nếu có quá nhiều chuyến bay như vậy",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết giá vé cho một chuyến bay từ côn đảo đến hạ long",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết giá vé vào thứ bảy cho một chuyến bay từ pleiku đến hạ long",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết giá vé từ viêng chăn đến hà nội",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết giá vé vào ngày thứ bảy từ hồ chí minh đến auckland",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết giá vé thứ bảy từ hakodate đến thành phố hồ chí minh",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết giá vé thứ bảy từ hakodate đến đà nẵng",
+        "Label": "airfare"
+    },
+    {
+        "Text": "danh sách các chuyến bay trong ngày thứ bảy từ hà nội đến miyazaki",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay trong ngày thứ bảy từ sài gòn đến kagoshima",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ cần thơ đến din",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ cần thơ đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ huế đến kagoshima",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho biết các chuyến bay từ osaka đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết chuyến bay cuối cùng từ thành phố hồ chí minh đến bắc kinh vào thứ tư hoặc chuyến bay đầu tiên từ thành phố hồ chí minh đến bắc kinh vào thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi chuyến bay đầu tiên từ thành phố hồ chí minh đến hàng châu vào thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết chuyến bay cuối cùng từ hồ chí minh đến thượng hải vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết chuyến bay cuối cùng trong ngày thứ tư từ thành phố vinh đến tokyo",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết một chuyến bay từ hồ chí minh đến berlin có trạm dừng ở doh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa cam ranh và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ cần thơ đến thanh hóa khởi hành vào thứ hai trước 9 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay khởi hành từ cần thơ đến thanh hóa rời đi vào thứ hai trước 8 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các phương tiện giao thông đường bộ có hoạt động ở sân bay indianapolis không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần thông tin cho một chuyến bay khởi hành từ thanh hóa đến đà lạt và cất cánh vào giữa trưa ngày thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin của một chuyến bay khởi hành từ điện biên phủ đến cần thơ vào thứ tư sau 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin của các chuyến bay khởi hành từ điện biên phủ trở về cần thơ vào thứ tư sau 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin của các chuyến bay khởi hành từ điện biên phủ đến tây an sau 5 giờ chiều ngày thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin của các chuyến bay khởi hành từ zadar đến cần thơ vào thứ tư sau 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ đà nẵng đến zadar vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào tại sân bay đà nẵng không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần thông tin về chuyến bay và hãng hàng không của chuyến bay từ đà nẵng đến zadar khởi hành sau 5 giờ chiều ngày thứ hai",
+        "Label": "airline#flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ tại sân bay thành phố salt lake không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ bắc kinh đến hải phòng khởi hành sau 5 giờ chiều ngày thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào hoạt động ở sân bay phoenix không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ aarhus đến norwich vào ngày thứ tư khởi hành sau 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin chuyến bay và giá vé cho chuyến bay vào ngày thứ năm khởi hành trước 9 giờ sáng từ aarhus đi đến busan",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "tôi cần thông tin chuyến bay và giá vé của chuyến bay khởi hành từ aarhus đến brussels vào thứ năm trước 8 giờ sáng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "tôi cần số hiệu chuyến bay và hãng hàng không của các chuyến bay khởi hành từ aarhus đến thành đô vào ngày thứ năm rời đi trước 8 giờ sáng",
+        "Label": "airline#flight_no"
+    },
+    {
+        "Text": "tôi cần số hiệu chuyến bay của những chuyến bay khởi hành vào thứ năm trước 8 giờ sáng đi từ aarhus đến cáp nhĩ tân",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "vui lòng liệt kê các sân bay ở arizona nevada và california",
+        "Label": "airport"
+    },
+    {
+        "Text": "danh sách các sân bay ở california nevada arizona",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê giúp tôi các sân bay ở arizona",
+        "Label": "airport"
+    },
+    {
+        "Text": "danh sách các sân bay ở california",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ phú quốc đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các sân bay ở new york",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê tất cả các sân bay",
+        "Label": "airport"
+    },
+    {
+        "Text": "cho tôi các chuyến bay đêm vào thứ tư từ aarhus đến viêng chăn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ aarhus đến thành phố bắc kinh trước 6 giờ vào sáng thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "hãng hàng không nào có chuyến bay giữa cam ranh và sài gòn",
+        "Label": "airline"
+    },
+    {
+        "Text": "xin liệt kê cho tôi các chuyến bay buổi chiều giữa cam ranh và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "từ viết tắt tpa nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "những chuyến bay từ điện biên phủ đến đà lạt là những chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "chỉ liệt kê giúp tôi các chuyến bay từ điện biên phủ đến đà lạt khởi hành trước giữa trưa",
+        "Label": "flight"
+    },
+    {
+        "Text": "loại máy bay nào sẽ bay từ điện biên phủ đến đà lạt trước giữa trưa",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "tôi cần thông tin về các chuyến bay từ seoul đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ tuy hòa đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một vé từ thanh hóa đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một vé từ buôn ma thuột đắk lắk đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin của chuyến bay từ cần thơ đến tam kỳ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thuê một chiếc xe hơi ở kathmandu",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "tôi cần một chuyến bay hàng ngày từ helsinki đến kemi",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần các chuyến bay khởi hành từ aarhus và đến sydney",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin về các chuyến bay từ huế đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin về các chuyến bay từ cam ranh đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ amsterdam đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần thông tin về các chuyến bay giữa quảng châu và nairobi",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần số hiệu chuyến bay của các chuyến bay khởi hành từ điện biên phủ và hạ cánh ở đà lạt",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "chuyến bay nào đi từ hà nội đến cebu và quay lại",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã giá vé qo nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều từ cần thơ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "chữ vna là viết tắt của từ gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "tôi muốn có vé một chiều từ cần thơ đến quy nhơn vào tối thứ tư hoặc sáng thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ cần thơ đến balikpapan",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã giá vé f có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mã giá vé h có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mã giá vé y có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "hạn chế ap 57 là gì",
+        "Label": "restriction"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng nhất từ thanh hóa đến tuy hòa một chiều khởi hành trước 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "bây giờ hãy cho tôi biết tất cả các chuyến bay khứ hồi từ kagoshima đến hải phòng đến trước 7 giờ tối tại hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay khứ hồi từ quy nhơn đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Text": "dl là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay của hãng hàng không jetstar từ bangkok đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách tất cả các chuyến bay từ quy nhơn đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Text": "hãng hàng không qh là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi tất cả các chuyến bay từ hà nội đến catania có bất kỳ loại hạng vé nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã giá vé bh có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi xem chuyến bay khứ hồi từ miami đến sgn",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã giá vé bh có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mã giá vé b có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mã giá vé q có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "mã giá vé j có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều từ côn đảo đến quy nhơn sau 6 giờ chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ thanh hóa đến tuy hòa",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi từ bagdogra đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi từ firenze đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không dừng từ hà nội đến roma",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xem các chuyến đi khứ hồi giữa budapest và đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi từ bangkok đến patna",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều rẻ nhất từ praha đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều có giá vé rẻ nhất từ hà nội đến lucknow",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng phổ thông rẻ nhất từ varanasi đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "hạ long đến phú quốc hạng phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Text": "hạ long đến ahmedabad hạng phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Text": "hp là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "giao thông đường bộ ở phú quốc",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "giao thông đường bộ tại munich",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "phú quốc đến cam ranh vé hạng phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Text": "hà nội đi hamburg vé hạng phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Text": "cam ranh đến hạ long hạng phổ thông",
+        "Label": "flight"
+    },
+    {
+        "Text": "vna là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "vj là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cx là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "qh là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "nh là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "huế đến thành phố hồ chí minh một chiều trước 10 giờ sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "ek là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "đà lạt đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "từ cần thơ đến quy nhơn một chiều sau 5 giờ chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "và từ cần thơ đến hạ long trước 10 giờ sáng hàng ngày",
+        "Label": "flight"
+    },
+    {
+        "Text": "qr là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ hà nội đến thâm quyến",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ cáp nhĩ tân đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "lh là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các phương tiện giao thông đường bộ đang họat động ở hải phòng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ vienna đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi phương tiện giao thông đường bộ ở hà nội",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ toronto đến vienna",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi hạng nhất từ hà nội đến cairo",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng nhất khứ hồi từ cairo đến paris",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay không dừng khứ hồi từ riyadh đến manila",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay khứ hồi không có trạm dừng từ riyadh đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều từ côn đảo đến tuy hòa trước 10 giờ sáng vào bất kỳ ngày nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "mã giá vé f có nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi từ huế đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "hạn chế ap58 nghĩa là gì",
+        "Label": "restriction"
+    },
+    {
+        "Text": "mã giá vé h nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "as là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "bs là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "hãng hàng không sl là hãng nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "hãng hàng không as là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không nghỉ từ napoli đến melbourne",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không nghỉ từ thượng hải đến samarkand",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không nghỉ và giá vé từ mashad đến phuket",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không nghỉ từ chiang mai đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay một chiều trong tuần từ cần thơ đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay trong tuần từ cần thơ đến quy nhơn một chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "cq là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "xin liệt kê các chuyến bay từ thành phố hồ chí minh đến bari",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ cáp nhĩ tân đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ rimini đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ đà nẵng đến torino",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ hải phòng đến manila",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê các chuyến bay từ phú quốc đến thành phố vinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ hà nội đến thành phố huế vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ pleiku đến quảng châu",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ pleiku đến torino",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ bordeaux đến hà nội vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi danh sách các chuyến bay từ bordeaux đến đà lạt vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ sài gòn đến ulan bato",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê khoảng cách từ các sân bay đến trung tâm thành phố ở ulan bato",
+        "Label": "distance"
+    },
+    {
+        "Text": "danh sách các sân bay ở hà nội",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê danh sách các sân bay ở toronto",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê danh sách các sân bay ở la",
+        "Label": "airport"
+    },
+    {
+        "Text": "cho tôi danh sách tất cả các sân bay",
+        "Label": "airport"
+    },
+    {
+        "Text": "cho tôi danh sách các sân bay ở la",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê giúp tôi các sân bay tại la",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê cho tôi các sân bay ở la",
+        "Label": "airport"
+    },
+    {
+        "Text": "liệt kê la",
+        "Label": "city"
+    },
+    {
+        "Text": "danh sách la",
+        "Label": "city"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ hà nội đến la",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ la guardia đến burbank",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ la đến bern",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ thâm quyến quảng đông đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ thành đô tứ xuyên đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ thanh hóa đến tuy hòa vào thứ hai cùng giá vé tương ứng",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ thanh hóa đến tuy hòa vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ tuy hòa đến jaipur vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ kuala lumpur đến thanh hóa vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xin danh sách các chuyến bay từ charlotte vào chiều thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê danh sách các loại máy bay cho tất cả các chuyến bay từ đà nẵng",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi và giá vé tương ứng từ đà lạt đến thanh hóa khởi hành vào thứ bảy và trở về vào ngày thứ bảy tiếp theo",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "hạng vé của mã giá vé q là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay có mã cơ sở giá vé là q từ quy nhơn đến đà lạt vào thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các giá vé máy bay khứ hồi hạng nhất để bay từ huế đến cà mau",
+        "Label": "airfare"
+    },
+    {
+        "Text": "liệt kê cho tôi danh sách giá vé khứ hồi hạng hai bay từ cà mau đến cam ranh",
+        "Label": "airfare"
+    },
+    {
+        "Text": "liệt kê cho tôi các chuyến bay từ vinh đến điện biên phủ vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay từ chu lai đến vinh vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay trước 9 giờ sáng từ hà nội đến tam kỳ",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ hà nội đến yokohama trước giữa trưa",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xin danh sách các chuyến bay từ pattaya đến hà nội sau 3 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các hãng hàng không có chuyến bay khởi hành từ seattle đến thành phố bắc kinh",
+        "Label": "airline"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay của hãng hàng không vietnam airlines từ hải phòng đến thành phố bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê sức chứa chỗ ngồi của các chuyến bay của china airlines từ hải phòng đến thành đô",
+        "Label": "capacity"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của jetstar từ hải phòng đến đảo jeju và loại máy bay tương ứng",
+        "Label": "flight"
+    },
+    {
+        "Text": "có những phương tiện giao thông đường bộ nào ở cam ranh",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "liệt kê cho tôi phương tiện giao thông đường bộ ở lạng sơn",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ cam ranh đến thành phố hồ chí minh vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ thành phố hồ chí minh đến vinh vào thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ vinh đến thành phố hồ chí minh vào buổi tối thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay khứ hồi từ huế đến vũ hán vào thứ tư tới",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết giá vé của các chuyến bay khứ hồi từ điện biên phủ đến quảng châu vào thứ tư tới",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cung cấp cho tôi các chuyến bay và giá vé cho một chuyến đi đến sendai từ cà mau vào thứ tư",
+        "Label": "airfare#flight"
+    },
+    {
+        "Text": "cho tôi giá vé từ manila đến điện biên phủ vào chủ nhật tới",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ cần thơ đến hải phòng vào thứ bảy hoặc chủ nhật của hãng hàng không vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hải phòng đến cần thơ vào tối thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hải phòng đến sendai vào thứ tư của vietjet",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hải phòng đến jeju của hãng hàng không vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ daegu đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "cung cấp cho tôi biết các chuyến bay không dừng có phục vụ bữa ăn khởi hành sớm vào buổi sáng thứ bảy từ thành phố hồ chí minh đến almaty",
+        "Label": "flight"
+    },
+    {
+        "Text": "cung cấp cho tôi biết các chuyến bay từ thành phố hồ chí minh đến ôn châu vào sáng thứ bảy mà có phục vụ bữa ăn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hải phòng đến thành phố hồ chí minh và có phục vụ bữa ăn của vietjet",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hải phòng đến thành phố hồ chí minh mà có phục vụ bữa ăn vào buổi sáng thứ bảy của bamboo",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay sớm từ thành phố hồ chí minh đến vinh của vietjet có phục vụ bữa ăn vào buổi sáng thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "cung cấp cho tôi danh sách các chuyến bay sớm có phục vụ bữa ăn của vietjet từ thành phố huế đến hải phòng vào buổi sáng ngày thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay vào buổi sáng thứ bảy có phục vụ bữa ăn từ thành phố hồ chí minh đến chu lai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay vào buổi sáng thứ bảy của vietjet có phục vụ các bữa ăn từ thành phố hồ chí minh đến ôn châu",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay vào buổi sáng thứ bảy từ thành phố hồ chí minh đến điện biên phủ của vietjet có phục vụ bữa ăn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay không dừng từ hà nội đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "cung cấp cho tôi các chuyến bay không dừng từ goreme đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "cung cấp cho tôi các chuyến bay khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào khoảng ngày 25 tháng 12",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay vào thứ sáu từ đà nẵng đến turin",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay vào chủ nhật từ kuala lumpur đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi một chuyến bay từ đà nẵng đến cam ranh vào sáng thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi có thể có một chuyến bay vào buổi sáng từ cam ranh đến điện biên phủ được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "giá vé khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào ngày 25 tháng 12",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé một chiều rẻ nhất từ thanh hóa đến côn đảo vào ngày 27 tháng 12",
+        "Label": "airfare"
+    },
+    {
+        "Text": "số hiệu của chuyến bay từ đà lạt đến pleiku",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "số hiệu của chuyến bay từ hàm dương đến đà lạt",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "các chuyến bay vào thứ bảy của hãng hàng không vietnam airlines từ cần thơ đến hàm dương",
+        "Label": "flight"
+    },
+    {
+        "Text": "số hiệu của chuyến bay vietnam airlines từ hải phòng đến koln",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "số hiệu chuyến bay của các chuyến bay từ thành phố hồ chí minh đến bremen",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "số hiệu của các chuyến bay từ roma đến cardiff của alitalia",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "số hiệu của các chuyến bay từ hải phòng đến đà lạt của jetstar",
+        "Label": "flight_no"
+    },
+    {
+        "Text": "có vé nào từ vinh đến điện biên phủ có giá dưới 4 triệu không",
+        "Label": "airfare"
+    },
+    {
+        "Text": "chuyến bay hạng hai từ đà lạt đến hạ long có giá vé là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "điện biên phủ đến quảng nam vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "thành phố hồ chí minh đi đà nẵng vào buổi sáng chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "phuket đến cam ranh vào thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "côn đảo đến điện biên phủ vào buổi sáng thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "hải phòng đến pleiku sau 9 rưỡi sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "pleiku đến hà nội trước nửa đêm",
+        "Label": "flight"
+    },
+    {
+        "Text": "thanh hóa đến quy nhơn ngày hai mươi bảy tháng mười hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "giá vé rẻ nhất từ thanh hóa đến quy nhơn vào ngày 27 tháng 12",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé khứ hồi rẻ nhất từ thanh hóa đến quy nhơn vào ngày 27 tháng 12",
+        "Label": "airfare"
+    },
+    {
+        "Text": "điện biên phủ đến phnom penh vào thứ tư hạ cánh trước 4 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "hà nội đến siem reap vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "thành phố hạ long đến phú quốc và thành phố thanh hóa đến phú quốc vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "xiêm riệp đến phú quốc và quy nhơn đến phú quốc vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "hà nội đến jeju vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "đà lạt đến burma vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "thành đô đến phú quốc vào chiều chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "thành phố hồ chí minh đến hải phòng vào sáng thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "siem reap đến phú quốc vào sáng thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "đà nẵng đến thành phố vinh vào buổi chiều thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "đà lạt đến thành phố vinh vào chiều thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "vinh đến côn đảo vào buổi tối thứ năm",
+        "Label": "flight"
+    },
+    {
+        "Text": "cần thơ đến hải phòng vào thứ bảy",
+        "Label": "flight"
+    },
+    {
+        "Text": "hải phòng đến côn đảo vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "hải phòng đến điện biên phủ vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "một chuyến bay từ cam ranh đến thành phố hồ chí minh đến nơi vào khoảng từ 5 đến 8 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "có bao nhiêu chuyến bay của vietjet khởi hành từ rạch giá",
+        "Label": "quantity"
+    },
+    {
+        "Text": "có bao nhiêu chuyến bay của northwest rời washington dc",
+        "Label": "quantity"
+    },
+    {
+        "Text": "có bao nhiêu chuyến bay của vietjet cất cánh từ sân bay đồng hới",
+        "Label": "quantity"
+    },
+    {
+        "Text": "những thành phố nào mà có các chuyến bay của vietjet khởi hành từ đó",
+        "Label": "city"
+    },
+    {
+        "Text": "liệt kê giúp tôi các thành phố mà có các chuyến bay của vietnam airlines cất cánh",
+        "Label": "city"
+    },
+    {
+        "Text": "những thành phố nào mà các chuyến bay của bamboo airways bay đến",
+        "Label": "city"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay nối chuyến từ houston đến thành phố hồ chí minh khởi hành sau 4 giờ",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê tất cả các chuyến bay từ chicago đến thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay buổi sáng của hãng hàng không vietnam airlines từ melbourne đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay rời auckland và đi đến đà lạt",
+        "Label": "flight"
+    },
+    {
+        "Text": "d9s là cái gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "d9s là loại máy bay nào",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "d9s là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi biết các sân bay có dịch vụ của tower air",
+        "Label": "airport"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng nhất và hạng hai giữa hph và quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng nhất và hạng hai từ sân bay cần thơ đến mumbai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay hạng nhất và hạng hai từ dad đến singapore",
+        "Label": "flight"
+    },
+    {
+        "Text": "aeroflot có bao giờ phục vụ bữa ăn không ?",
+        "Label": "meal"
+    },
+    {
+        "Text": "đồ ăn nhẹ có được phục vụ trên các chuyến bay của alitalia không",
+        "Label": "meal"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay của hãng hàng không turkish airlines từ edi đến hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của hãng hàng không vietnam airlines từ hạ long đến bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của jetstar pacific từ cần thơ đến bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay của hãng hàng không jetstar từ thành phố vinh đến thành phố bắc kinh",
+        "Label": "flight"
+    },
+    {
+        "Text": "giá vé cho các chuyến bay giữa gothenburg và washington dc là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé rẻ nhất từ sài gòn đến thành phố bắc kinh là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé thấp nhất từ washington dc đến penang là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "giá vé thấp nhất từ han đến busan là bao nhiêu",
+        "Label": "airfare"
+    },
+    {
+        "Text": "cho tôi biết chi phí của vé hạng nhất từ huế đến phú quốc và trở lại",
+        "Label": "airfare"
+    },
+    {
+        "Text": "chuyến bay đến nơi sớm nhất từ minsk đến washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay đến nơi sớm nhất giữa brasov và washington dc",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay đến nơi sớm nhất giữa boston và washington dc là chuyến bay nào",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay hạ cánh sớm nhất từ pleiku đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "chuyến bay đến sớm nhất từ vinh đến quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa huế và quy nhơn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay giữa pleiku và phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ pleiku đến cà mau",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê tất cả các chuyến bay rời đà nẵng từ 8 giờ tối đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "sức chứa chỗ ngồi của máy bay boeing 737 max 200 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa chỗ ngồi của boeing 737 max 200 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "máy bay airbus a321 neo có thể chứa được bao nhiêu người",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa của máy bay m80 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa của máy bay boeing 787 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa của một máy bay airbus a321 neo là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "những hãng hàng không nào có đường bay đến đà nẵng",
+        "Label": "airline"
+    },
+    {
+        "Text": "liệt kê giúp tôi các hãng hàng không có các chuyến bay đến hoặc đi từ đà nẵng",
+        "Label": "airline"
+    },
+    {
+        "Text": "những hãng hàng không nào có chuyến bay đến đà nẵng",
+        "Label": "airline"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay đến đà nẵng từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "sức chứa của máy bay airbus a321 neo là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "art 72-500 là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "sức chứa chỗ ngồi trên máy bay 73s là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa của máy bay atr 72-500 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "một máy bay atr 72-500 có thể chở bao nhiêu người",
+        "Label": "capacity"
+    },
+    {
+        "Text": "có bao nhiêu hành khách có thể bay trên máy bay a321",
+        "Label": "capacity"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay hàng ngày đến đà nẵng trong khoảng từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê tất cả các chuyến bay hàng ngày đến đà nẵng từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay hàng ngày đến đà nẵng trong khoảng từ 8 rưỡi đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "sức chứa của a350 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "cho tôi biết về máy bay a330",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "cho tôi thông tin về máy bay m80",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "cho tôi thông tin về loại máy bay có tên là atr 72-500",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "sức chứa của 733 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa của boeing 798 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "sức chứa trên máy bay m80 là bao nhiêu",
+        "Label": "capacity"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay đến hoặc đi khỏi đà nẵng từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê tất cả các chuyến bay đến venezia từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách tất cả các chuyến bay trên tất cả các loại máy bay đến đà nẵng từ 8 đến 9 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê tất cả các chuyến bay từ thanh hóa đến tuy hòa vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ huế đến tuy hòa vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào đi từ sân bay tuy hòa vào trung tâm thành phố không nếu tôi đến lúc 8 giờ kém 15 vào buổi sáng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi các chuyến bay từ tuy hòa đến thành phố hà nội vào đêm thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "cvg nghĩa là gì",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ nào đưa đón khách từ sân bay frédéric chopin warszawa đến thành phố warsaw không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "có phương tiện giao thông đường bộ từ han đến thành phố thái nguyên không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "liệt kê giúp tôi các phương tiện giao thông đường bộ từ sgn đến tp hồ chí minh",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "danh sách các phương tiện giao thông đường bộ từ hph đến thành phố hải phòng",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay buổi sáng từ tuy hòa đến thành phố hà nội",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ thành phố hà nội đến thanh hóa khởi hành sau 5 giờ chiều thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết thông tin về phương tiện giao thông đường bộ ở sân bay thanh hóa",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "các chuyến bay không dừng từ hà nội đến dubrovnik khởi hành sau giữa trưa và đến nơi trước 7 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "hãng hàng không jetstar có bao nhiêu chuyến bay đến huế",
+        "Label": "quantity"
+    },
+    {
+        "Text": "liệt kê giúp tôi các chuyến bay của hãng hàng không vietnam airlines từ thượng hải đến bất kỳ đâu",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin cho tôi danh sách các chuyến bay của hãng hàng không jetstar từ huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "vna là hãng hàng không nào",
+        "Label": "abbreviation"
+    },
+    {
+        "Text": "cho tôi các chuyến bay của jetstar pacific đến venezia",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi xin các chuyến bay của hãng hàng không bamboo airways khởi hành từ hạ long",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay của jetstar pacific",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách tất cả các chuyến bay cất cánh ở hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ thanh hóa đến tuy hòa khởi hành trước giữa trưa",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách giá vé rẻ nhất từ đà nẵng đến phú quốc",
+        "Label": "airfare"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay sớm từ đà nẵng đến đà lạt vào buổi sáng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay buổi sáng từ đà nẵng đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay buổi sáng từ mumbai đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay buổi tối từ điện biên phủ đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay khởi hành vào chủ nhật từ hà tiên kiên giang đến tuy hòa phú yên",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay vào thứ ba khởi hành từ sài gòn đến thành đô tứ xuyên và khởi hành vào buổi chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn rời đi vào buổi sáng thứ năm từ thanh hóa đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn có một chuyến bay vào sáng thứ sáu từ cam ranh đến bangkok",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ hà nội đến huế của vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "loại máy bay nào được sử dụng cho chuyến bay của vietnam airlines khởi hành lúc 4 giờ 20 chiều",
+        "Label": "aircraft"
+    },
+    {
+        "Text": "tôi cần một chuyến bay rời hạ long đến thành phố hồ chí minh khởi hành vào thứ tư tới và trở về vào ngày hôm sau",
+        "Label": "flight"
+    },
+    {
+        "Text": "những chuyến bay nào đi từ đà nẵng đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ tuy hòa đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ phú quốc đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ hải phòng đến tuy hòa",
+        "Label": "flight"
+    },
+    {
+        "Text": "có những loại phương tiện giao thông đường bộ nào tại sân bay phú quốc",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "có dịch vụ taxi ở sân bay thành cát tư hãn không",
+        "Label": "ground_service"
+    },
+    {
+        "Text": "các chuyến bay từ quảng nam đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ cần thơ đến hải phòng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ václav havel đến hà nội của turkish airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay vào các ngày thứ hai đi từ quy nhơn bình định đến phú quốc kiên giang",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ phan rang ninh thuận đến vân đồn quảng ninh vào thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay vào thứ năm khởi hành từ rạch giá kiên giang đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ cam ranh đến pisa toscana khởi hành vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ hồ chí minh đến amsterdam có trạm dừng ở bangkok",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay buổi sáng từ huế đến cần thơ vào thứ hai tới",
+        "Label": "flight"
+    },
+    {
+        "Text": "còn một chuyến bay từ cần thơ đến cam ranh cất cánh vào đêm ngày thứ hai thì sao",
+        "Label": "flight"
+    },
+    {
+        "Text": "và một chuyến bay từ cam ranh đến huế khởi hành vào buổi chiều thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "thế còn một chuyến bay khởi hành vào đêm thứ ba từ cam ranh đến huế thì sao",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ bắc kinh đến sân bay phù cát hạ cánh vào thứ bảy trước 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn một chuyến bay từ phú quốc đến sân bay điện biên phủ hạ cánh vào thứ bảy trước 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay của hãng hàng không vietnam airlines từ manila đến thành phố hồ chí minh mà hạ cánh lúc khoảng 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi cần một chuyến bay từ hongkong đến đà lạt đi qua đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay giữa hà nội và san francisco california khởi hành sau 6 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay không nghỉ giữa hà nội và houston texas",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay không nghỉ giữa pleiku và huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay giữa tuy hòa và hà nội vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay của vietnam airlines từ điện biên phủ đến thanh hóa",
+        "Label": "flight"
+    },
+    {
+        "Text": "các chuyến bay từ hải phòng đến phú quốc có một điểm dừng ở thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê các chuyến bay từ đà nẵng đến côn minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "xin liệt kê giúp tôi các chuyến bay từ osaka đến điện biên phủ",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi danh sách các chuyến bay từ điện biên phủ đến đà nẵng",
+        "Label": "flight"
+    },
+    {
+        "Text": "danh sách các chuyến bay từ hà nội đến huế của hãng hàng không vietnam airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ hạ long đến thành phố hồ chí minh vào ngày 16 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết các chuyến bay từ thành phố hồ chí minh đến hạ long vào ngày 17 tháng 8",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê giúp tôi tất cả các chuyến bay từ hạ long đến thành đô vào ngày 16 tháng 6",
+        "Label": "flight"
+    },
+    {
+        "Text": "liệt kê cho tôi tất cả các chuyến bay từ thành phố hồ chí minh đến hạ long vào ngày 17 tháng 9",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đi từ huế đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể tìm cho tôi một chuyến bay từ thành phố bắc kinh đến thành phố hà nội vào thứ bảy tới và đến trước 6 giờ chiều được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể tìm cho tôi một chuyến bay khác từ hà nội đến havana vào thứ bảy trước 6 giờ chiều được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "bạn có thể liệt kê tất cả các chuyến bay jetstar từ thành phố hồ chí minh đến hà nội vào thứ bảy tới mà đến trước 6 giờ chiều được không",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ manila đến thành phố hồ chí minh trên các chuyến bay của hãng hàng không vietnam airlines hạ cánh vào khoảng 5 giờ chiều",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đi từ hạ long đến thành phố hồ chí minh vào thứ tư tới",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn có một chuyến bay khứ hồi từ hạ long đến cần thơ vào thứ tư ngày 26 tháng 5 , hạ cánh lúc 7 giờ tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "vâng tôi muốn tìm một chuyến bay từ hà nội đến lisbon và có 1 trạm dừng ở doha",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi chuyến bay từ sài gòn đến hải phòng vào sáng thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi chuyến bay từ hải phòng đến huế vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi chuyến bay từ huế đến sài gòn vào thứ ba",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi chuyến bay từ hà nội đến lisbon vào thứ hai",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi chuyến bay từ hà nội đến manchester vào thứ tư",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi chuyến bay từ hải phòng đến birmingham vào thứ sáu",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi chuyến bay từ tuy hòa đến điện biên phủ vào chủ nhật",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi một chuyến bay của vietnam airlines từ điện biên phủ đến thanh hóa vào khoảng 6 giờ 30 tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi một chuyến bay khứ hồi từ hà nội đến chicago illinois với điểm dừng chân ở tokyo không vượt quá mức giá 30 triệu vào ngày 10 tháng 6 năm 2021",
+        "Label": "flight"
+    },
+    {
+        "Text": "có chuyến bay nào vào ngày 10 tháng 6 từ huế đến đà lạt không",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm giúp tôi một chuyến bay một chiều từ hải phòng đến phú quốc , tạm dừng ở thành phố hồ chí minh vào ngày 17 tháng 5 mà có phục vụ bữa tối",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đặt một chuyến bay từ huế đến cần thơ",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các chuyến bay từ huế đến côn đảo",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi tất cả các chuyến bay từ cần thơ đến cam ranh",
+        "Label": "flight"
+    },
+    {
+        "Text": "bây giờ hãy cho tôi tất cả các chuyến bay từ cam ranh đến huế",
+        "Label": "flight"
+    },
+    {
+        "Text": "có hãng hàng không nào có các chuyến bay từ huế đến cần thơ , cần thơ đến cam ranh và từ cam ranh đến huế không",
+        "Label": "airline"
+    },
+    {
+        "Text": "tìm cho tôi tất cả các chuyến bay khứ hồi từ manchester đến hà nội và dừng ở hongkong",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đặt hai chuyến bay đến phú quốc",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đặt một chuyến bay từ thành phố dublin đến sài gòn",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các sân bay nằm gần thành phố messina",
+        "Label": "airport"
+    },
+    {
+        "Text": "tôi muốn đặt một chuyến bay từ hà nội đến thành phố cần thơ của bamboo vào thứ bảy tới",
+        "Label": "flight"
+    },
+    {
+        "Text": "cho tôi biết tất cả các sân bay trong khu vực thành phố hà nội",
+        "Label": "airport"
+    },
+    {
+        "Text": "tìm giúp tôi tất cả các chuyến bay từ hà nội đến bất kỳ sân bay nào trong khu vực thành phố paris hạ cánh vào trước 6 giờ chiều thứ bảy tới",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi một chuyến bay từ hà nội đến các sân bay ở thành phố thượng hải",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn bay từ rotterdam đến thành phố hồ chí minh trên các chuyến bay của turkish airlines",
+        "Label": "flight"
+    },
+    {
+        "Text": "tôi muốn đặt một chuyến bay khứ hồi từ hạ long đến thành phố hồ chí minh",
+        "Label": "flight"
+    },
+    {
+        "Text": "tìm cho tôi một chuyến bay từ tuy hòa đến đà lạt",
+        "Label": "flight"
+    }
+]

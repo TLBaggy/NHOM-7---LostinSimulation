@@ -1,0 +1,4 @@
+﻿Chiến lược,Acc (Tập A),Acc (Tập B),Acc (Tập C),Gap Δ (A→C),MTS (Tập C),Ghi chú
+Baseline (Clean only),97.0%,97.3%,84.3%,12.7pp,2.28,Upper/Lower bound
+Chiến lược A: Cleaning Layer,97.0%,97.3%,87.3%,9.7pp,1.50,"Zero-shot, no retrain"
+Chiến lược B: Noise Augmentation,97.0%,97.4%,95.8%,1.2pp,1.40,"Offline, retrain required"
